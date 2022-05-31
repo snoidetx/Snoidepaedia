@@ -2,7 +2,7 @@
 layout: default
 title: Bulletin
 nav_order: 2
-has_children: true
+has_children: false
 ---
 
 # Bulletin
@@ -14,8 +14,13 @@ An exhaustive list of directories.
 ---
 
 • [Home](https://snoidetx.github.io/Snoidepaedia/)
+
 • Profile
+
 • Research
+
 &nbsp;&nbsp;&nbsp;&nbsp;◦ Overview
+
 &nbsp;&nbsp;&nbsp;&nbsp;◦ Somatropin and Growth Hormone Deficiency 
+
 • Resource
