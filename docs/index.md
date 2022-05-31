@@ -4,7 +4,7 @@
 Everything about @snoidetx.
 {: .fs-6 .fw-300 }
 
-[&nbsp;Get Started&nbsp;](## Get Started){: .btn .btn-purple} &nbsp; &nbsp; [&nbsp;&nbsp;&nbsp;Bulletin&nbsp;&nbsp;&nbsp;](){: .btn} &nbsp; &nbsp; [About @snoidetx](https://snoidetx.github.io/){: .btn .btn-green}
+[&nbsp;&nbsp;Get Started&nbsp;&nbsp;](## Get Started){: .btn .btn-purple} &nbsp; &nbsp; [&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bulletin&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;](){: .btn} &nbsp; &nbsp; [About @snoidetx](https://snoidetx.github.io/){: .btn .btn-green}
 
 ---
 
