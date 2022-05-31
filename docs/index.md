@@ -21,3 +21,7 @@ Everything of @snoidetx.
 ### How is *Snoidepaedia* different from *snoidetx.github.io*?
 
 *Snoidepaedia* is a documentation archive, while *snoidetx.github.io* is a personal website. One allows you to browse through documents *@snoidetx* possesses, while the other helps you better know about *@snoidetx* as a person.
+
+### Theme
+
+*Snoidepaedia* deploys ***[Just The Docs](https://github.com/just-the-docs/just-the-docs)***, a modern, highly customizable, and responsive Jekyll theme for documentation with built-in search. Please star the theme if you find it good.
