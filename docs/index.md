@@ -7,7 +7,7 @@ nav_order: 1
 # Snoidepaedia
 {: .fs-9 }
 
-Everything about @snoidetx.
+Everything of @snoidetx.
 {: .fs-6 .fw-300 }
 
 [&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bulletin&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;](){: .btn .btn-purple} &nbsp; &nbsp; [About *@snoidetx*](https://snoidetx.github.io/){: .btn}
