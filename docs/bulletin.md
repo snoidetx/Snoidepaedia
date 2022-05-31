@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: Bulletin
 nav_order: 2
 has_children: true
 ---
@@ -13,12 +13,9 @@ An exhaustive list of directories.
 
 ---
 
-* Home
-
-* Profile
-
-* Research
-    * Overview
-    * Somatropin and Growth Hormone Deficiency 
-
-* Resource
+• [Home](https://snoidetx.github.io/Snoidepaedia/)
+• Profile
+• Research
+&nbsp;&nbsp;&nbsp;&nbsp;◦ Overview
+&nbsp;&nbsp;&nbsp;&nbsp;◦ Somatropin and Growth Hormone Deficiency 
+• Resource
