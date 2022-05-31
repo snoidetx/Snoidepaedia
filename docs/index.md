@@ -10,7 +10,7 @@ Everything about @snoidetx.
 
 ## Get Started
 
-***[Snoidepaedia](https://snoidetx.github.io/Snoidepaedia/)*** is an online documentation archive of *[@snoidetx](https://snoidetx.github.io/)*. Click on the **Bulletin** button to start browsing through all entries stored in *Snoidepaedia*. Enjoy your journey!
+***[Snoidepaedia](https://snoidetx.github.io/Snoidepaedia/)*** is an online documentation archive of *[@snoidetx](https://snoidetx.github.io/)*. Click on the **Bulletin** button to start browsing through all entries stored in *Snoidepaedia*. Click on the **About *@snoidetx*** button to know more about the author. Enjoy your journey!
 
 ### How is *Snoidepaedia* different from *snoidetx.github.io*?
 
