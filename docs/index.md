@@ -10,6 +10,8 @@ Everything about @snoidetx.
 
 ## Get Started
 
+<br>
+
 ***[Snoidepaedia](https://snoidetx.github.io/Snoidepaedia/)*** is an online documentation archive of *[@snoidetx](https://snoidetx.github.io/)*. Click on the **Bulletin** button to start browsing through all entries stored in *Snoidepaedia*. Enjoy your journey!
 
 ### How is *Snoidepaedia* different from *snoidetx.github.io*?
