@@ -36,3 +36,4 @@ Note that *@snoidetx* has not graduated from NUS yet, hence the timetable below 
 
 | Semester | AY2022/23 Semester 1 | AY2022/23 Semester 2 | AY2023/24 Semester 1 | AY2023/24 Semester 2|
 | :------:  | :-----: | :------: | :-----: | :-----: |
+| **Total** | **0 MC** | **0 MC** | **0 MC** | **0 MC** |
