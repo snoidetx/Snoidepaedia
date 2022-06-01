@@ -2,6 +2,7 @@
 layout: default
 title: Education
 nav_order: 4
+has_children: true
 ---
 
 # Education
