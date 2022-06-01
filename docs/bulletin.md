@@ -13,16 +13,34 @@ An exhaustive list of directories.
 
 ---
 
-• [Home](https://snoidetx.github.io/Snoidepaedia/)
+## Get Started
 
-• Profile
+Below is a full list of directories and entries included in *Snoidepaedia*. Directories and sub-directories are differentiated via indentation. You can also use the **Search** function at the top to navigate to your desired pages.
 
-• Research
+* [Home](https://snoidetx.github.io/Snoidepaedia/)
 
-&nbsp;&nbsp;&nbsp;&nbsp;◦ Overview
+* [About *@snoidetx*](https://snoidetx.github.io/Snoidepaedia/about.html)
 
-&nbsp;&nbsp;&nbsp;&nbsp;◦ Somatropin and Growth Hormone Deficiency 
+* [Education](https://snoidetx.github.io/Snoidepaedia/nus/)
 
-• Resource
+  * [Timetable](https://snoidetx.github.io/Snoidepaedia/nus/timetable.html)
 
-• University
+  * [Transcript](https://snoidetx.github.io/Snoidepaedia/nus/transcript.html)
+
+  * [Modules](https://snoidetx.github.io/Snoidepaedia/nus/modules/)
+
+    * CS3230 Design and Analysis of Algorithms
+    
+    * CS3244 Machine Learning
+
+* [Research](https://snoidetx.github.io/Snoidepaedia/research/)
+
+  * Identifying the Geometry of an Object Using Lock-in Thermography
+  
+  * Predicting Scores and Controversialities of Reddit Posts Using Machine Learning
+  
+  * Somatropin and Growth Hormone Deficiency
+
+  * Thermography - A Big Data Problem (Experiments)
+  
+* [Resource](https://snoidetx.github.io/Snoidepaedia/about.html)
