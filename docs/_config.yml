@@ -1,5 +1,7 @@
 remote_theme: just-the-docs/just-the-docs
 
+baseurl: "https://github.com/snoidetx/Snoidepaedia/tree/main/"
+
 permalink: pretty
 
 aux_links:
