@@ -10,7 +10,7 @@ nav_order: 1
 Everything of @snoidetx.
 {: .fs-6 .fw-300 }
 
-[&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bulletin&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;](https://snoidetx.github.io/Snoidepaedia/bulletin.html){: .btn .btn-purple} &nbsp; &nbsp; [About *@snoidetx*](https://snoidetx.github.io/){: .btn}
+[&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bulletin&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;](https://snoidetx.github.io/Snoidepaedia/bulletin/){: .btn .btn-purple} &nbsp; &nbsp; [About *@snoidetx*](https://snoidetx.github.io/){: .btn}
 
 ---
 
