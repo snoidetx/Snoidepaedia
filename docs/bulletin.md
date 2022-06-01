@@ -31,7 +31,7 @@ Below is a full list of directories and entries included in *Snoidepaedia*. Dire
 
     * CS3230 Design and Analysis of Algorithms
     
-    * CS3244 Machine Learning
+    * [CS3244 Machine Learning](https://snoidetx.github.io/Snoidepaedia/nus/modules/cs3244.html)
 
 * [Research](https://snoidetx.github.io/Snoidepaedia/research/)
 
