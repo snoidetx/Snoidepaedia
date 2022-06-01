@@ -17,4 +17,4 @@ Note that *@snoidetx* has not graduated from NUS yet, hence the transcript below
 
 This version of transcript is uploaded on 01/06/2022.
 
-![-](contents/education/transcript/transcript.png)
+![-](https://raw.githubusercontent.com/snoidetx/Snoidepaedia/master/contents/education/transcript/transcript.png)
