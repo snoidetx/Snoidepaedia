@@ -1,5 +1,5 @@
 ---
 layout: default
-title: About *@snoidetx*
+title: About @snoidetx
 nav_order: 3
 ---
