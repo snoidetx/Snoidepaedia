@@ -29,7 +29,7 @@ Note that *Snoidepaedia* is still under development.
 | Symbols with Examples | Meaning |
 | :-: | :-- |
 | Superscripted Numbers (e.g. XXX<sup>1</sup>) | This represents that the piece of text before the superscripted number is a **quote**. Click the superscripted number or scroll down all the way to view the references. |
-| Superscripted Question Marks (e.g. XXX<sup>?</sup>) | This represents that the term before the question mark is a special term or jargon that may not be understood. Click the superscripted question mark to view an explanation of the term. |
+| Superscripted Question Marks (e.g. XXX<sup>?</sup>) | This represents that the term before the question mark is a **special term** or **jargon** that may not be understandable. Click the superscripted question mark to view an explanation of the term. |
 
 ## Theme
 
