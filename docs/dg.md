@@ -1,6 +1,16 @@
-# Snoidepaedia
+---
+layout: default
+title: Developer Guide
+nav_exclude: true
+---
 
-***[Snoidepaedia](https://snoidetx.github.io/Snoidepaedia/)*** is an online documentation archive of *[@snoidetx](https://snoidetx.github.io/)*.
+# Developer Guide
+{: .fs-9 }
+
+Things to note during development.
+{: .fs-6 .fw-300 }
+
+---
 
 ## Issues
 
