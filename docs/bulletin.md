@@ -42,5 +42,7 @@ Below is a full list of directories and entries included in *Snoidepaedia*. Dire
   * Somatropin and Growth Hormone Deficiency
 
   * Thermography - A Big Data Problem (Experiments)
+
+* [Teaching](https://snoidetx.github.io/Snoidepaedia/teaching/teaching/)
   
 * [Resource](https://snoidetx.github.io/Snoidepaedia/about.html)
