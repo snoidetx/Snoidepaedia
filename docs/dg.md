@@ -16,18 +16,18 @@ Things to note during development.
 
 The following guidelines on **labelling** shall be followed when GitHub Issues are raised:
 
-* New sections - features
 features
 {: .label .label-green}
+: new sections
 
-* Bugs (e.g. dead links) - bugs
 bugs
 {: .label .label-red }
+: bugs (e.g. dead links)
 
-* New pages of a section - documentations
 documentations
 {: .label .label-blue}
+: new pages in a section
 
-* UI optimisations - ui
 ui
 {: .label .label-yellow}
+: UI optimisations
