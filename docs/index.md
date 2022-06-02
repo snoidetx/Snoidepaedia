@@ -37,13 +37,13 @@ Note that *Snoidepaedia* is still under development.
 
 ---
 
-## Development Log (02/06/2022)
+#### Development Log (02/06/2022)
 
-- [ ] Design and add **Teaching** page
-- [ ] Update **About *@snoidetx*** page
-- [ ] Update **Research** page
-- [ ] Add **research** sample page
-- [ ] Update **Resource** page
-- [ ] Fix **Bulletin** dead links
-- [ ] Add more **research** pages
-- [ ] Add more **modules** pages
+- [ ] Design and add  **Teaching**  page
+- [ ] Update  **About *@snoidetx***  page
+- [ ] Update  **Research**  page
+- [ ] Add  **research**  sample page
+- [ ] Update  **Resource**  page
+- [ ] Fix  **Bulletin**  dead links
+- [ ] Add more  **research**  pages
+- [ ] Add more  **modules**  pages
