@@ -19,7 +19,7 @@ Below is a full list of directories and entries included in *Snoidepaedia*. Dire
 
 * [Home](https://snoidetx.github.io/Snoidepaedia/)
 
-* [About *@snoidetx*](https://snoidetx.github.io/Snoidepaedia/about.html)
+* [About *@snoidetx*](https://snoidetx.github.io/Snoidepaedia/about/)
 
 * [Education](https://snoidetx.github.io/Snoidepaedia/nus/)
 
