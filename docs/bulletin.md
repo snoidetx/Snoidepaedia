@@ -36,13 +36,13 @@ Below is a full list of directories and entries included in *Snoidepaedia*. Dire
 * [Research](https://snoidetx.github.io/Snoidepaedia/research/)
 
   * Identifying the Geometry of an Object Using Lock-in Thermography
-  
   * Predicting Scores and Controversialities of Reddit Posts Using Machine Learning
-  
   * Somatropin and Growth Hormone Deficiency
-
   * Thermography - A Big Data Problem (Experiments)
 
 * [Teaching](https://snoidetx.github.io/Snoidepaedia/teaching/teaching/)
+
+  * [CS2030/S Programming Methodology II](https://snoidetx.github.io/Snoidepaedia/teaching/cs2030/) 
+  * [CS2040/S Data Structures and Algorithms](https://snoidetx.github.io/Snoidepaedia/teaching/cs2040/)
   
 * [Resource](https://snoidetx.github.io/Snoidepaedia/about.html)
