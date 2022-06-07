@@ -19,7 +19,7 @@ In this paper, two techniques of identifying the geometry of objects using Lock-
 
 ## Gallery
 
-<img src="https://raw.githubusercontent.com/snoidetx/Snoidepaedia/master/contents/research/thermography-a-big/thumbnail.png" width=720>
+<img src="https://raw.githubusercontent.com/snoidetx/Snoidepaedia/master/contents/research/thermography-a-big/thumbnail.png">
 
 ## Cite
 
