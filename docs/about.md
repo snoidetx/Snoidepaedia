@@ -30,4 +30,6 @@ Tian Xiao (*@snoidetx*) is currently a year-3 undergraduate student in National 
 
 * Instagram: @snoidetx
 
+* Telegram: @snoidetx
+
 * WeChat: @tianxiao_1202
