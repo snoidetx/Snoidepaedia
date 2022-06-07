@@ -24,7 +24,7 @@ Below is a full list of directories and entries included in *Snoidepaedia*. Dire
   * [Transcript](https://snoidetx.github.io/Snoidepaedia/nus/transcript)
   * [Modules](https://snoidetx.github.io/Snoidepaedia/nus/modules/)
     * CS3230 Design and Analysis of Algorithms 
-    * [CS3244 Machine Learning](https://snoidetx.github.io/Snoidepaedia/nus/modules/cs3244.html)
+    * [CS3244 Machine Learning](https://snoidetx.github.io/Snoidepaedia/nus/modules/cs3244)
 * [Research](https://snoidetx.github.io/Snoidepaedia/research/)
   * Identifying the Geometry of an Object Using Lock-in Thermography
   * Predicting Scores and Controversialities of Reddit Posts Using Machine Learning
