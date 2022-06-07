@@ -34,4 +34,4 @@ ui
 
 ## Thumbnails
 
-The width for a thumbnail image should be 720px.
+The width for a thumbnail image should be 360px.
