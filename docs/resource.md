@@ -10,7 +10,7 @@ nav_order: 7
 Produced by *@snoidetx*.
 {: .fs-6 .fw-300 }
 
-[View in Resource Page](https://snoidetx.github.io/resource){: .btn .purple}
+[View in Resource Page](https://snoidetx.github.io/resource){: .btn .button-purple}
 
 ---
 

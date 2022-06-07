@@ -7,10 +7,10 @@ parent: Research
 # Thermography - A Big Data Problem (Experiments)
 {: .fs-9 }
 
-X.Tian, H. Goh. 2019.
+X. Tian & H. Goh. 2019.
 {: .fs-6 .fw-300 }
 
-[Full Text](https://snoidetx.github.io/Snoidepaedia/contents/research/thermography-a-big/paper.pdf){: .btn .purple}
+[View Full Text](https://snoidetx.github.io/Snoidepaedia/contents/research/thermography-a-big/paper.pdf){: .btn .btn-purple}
 
 ---
 ## Abstract
@@ -19,7 +19,7 @@ In this paper, two techniques of identifying the geometry of objects using Lock-
 
 ## Gallery
 
-<img src="https://raw.githubusercontent.com/snoidetx/Snoidepaedia/master/contents/research/thermography-a-big/preview.png" width=720>
+<img src="https://raw.githubusercontent.com/snoidetx/Snoidepaedia/master/contents/research/thermography-a-big/thumbnail.png" width=720>
 
 ## Cite
 
