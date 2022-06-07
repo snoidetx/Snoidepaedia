@@ -27,10 +27,3 @@ Scientific research has been one of the favourite activities of *@snoidetx*. Whe
 
 * Data Valuation
 * Machine Unlearning
-
-## Research Projects
-
-* [Predicting Scores and Controversialities of Reddit Posts Using Machine Learning (2022)]()
-* [Somatropin and Growth Hormone Deficiency (2021)]()
-* [Identifying the Geometry of an Object Using Lock-in Thermography (2019)]()
-* [Thermography - A Big Data Problem (Experiments) (2019)]()
