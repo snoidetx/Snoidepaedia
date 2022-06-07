@@ -33,4 +33,4 @@ Below is a full list of directories and entries included in *Snoidepaedia*. Dire
 * [Teaching](https://snoidetx.github.io/Snoidepaedia/teaching/teaching/)
   * [CS2030/S Programming Methodology II](https://snoidetx.github.io/Snoidepaedia/teaching/cs2030/) 
   * [CS2040/S Data Structures and Algorithms](https://snoidetx.github.io/Snoidepaedia/teaching/cs2040/)
-* [Resource](https://snoidetx.github.io/Snoidepaedia/about.html)
+* [Resource](https://snoidetx.github.io/Snoidepaedia/resource/)
