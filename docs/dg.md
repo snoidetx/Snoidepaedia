@@ -31,3 +31,7 @@ documentations
 ui
 {: .label .label-yellow}
 * UI optimisations
+
+## Thumbnails
+
+The width for a thumbnail image should be 720px.
