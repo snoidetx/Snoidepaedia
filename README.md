@@ -12,5 +12,5 @@ Click this [link](https://snoidetx.github.io/Snoidepaedia) or go to [https://sno
 2. `broken-link-checker` by [***@celinekurpershoek***](https://github.com/celinekurpershoek/link-checker). This action checks broken links.
 
 ## Release logs
-- Release v1.0.0 on 14/06/2022
+- Release [v1.0.0](https://github.com/snoidetx/Snoidepaedia/releases/tag/v1.0.0) on 17/06/2022
 - Release [v0.0.1-beta](https://github.com/snoidetx/Snoidepaedia/releases/tag/v0.0.1-beta) on 31/05/2022
