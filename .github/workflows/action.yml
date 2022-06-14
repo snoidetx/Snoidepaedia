@@ -1,4 +1,4 @@
-name: broken link checker
+name: broken-link-checker
 on: [push]
 
 jobs:
