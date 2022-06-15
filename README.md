@@ -19,7 +19,12 @@ Click this [link](https://snoidetx.github.io/Snoidepaedia) or go to [https://sno
 - [ ] Add more required subsections. 
 
 ## Release logs
-- Release [v1.0.0](https://github.com/snoidetx/Snoidepaedia/releases/tag/v1.0.0) on 17/06/2022.
+- Release [v1.1.1](https://github.com/snoidetx/Snoidepaedia/releases/tag/v1.1.1) on 15/06/2022.
+  - Update index.md.
+- Release [v1.1.0](https://github.com/snoidetx/Snoidepaedia/releases/tag/v1.0.0) on 15/06/2022.
+  - Set up local development environment.
+  - Update README.md.
+- Release [v1.0.0](https://github.com/snoidetx/Snoidepaedia/releases/tag/v1.0.0) on 14/06/2022.
   - Add **About *@snoidetx***, **Education**, **Research**, **Resource** and **Teaching** sections. All the required sections of ***Snoidepaedia*** have been added.
   - Add subsections under each section.
   - Fix bugs.
