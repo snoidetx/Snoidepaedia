@@ -9,7 +9,7 @@ Click this [link](https://snoidetx.github.io/Snoidepaedia) or go to [https://sno
 ## Development
 ### Branching
 
-We follow Gitflow as our main branchng strategy.
+We follow Gitflow as our main branching strategy.
 
 ### Workflows
 
