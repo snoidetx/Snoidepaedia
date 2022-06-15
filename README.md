@@ -11,13 +11,6 @@ Click this [link](https://snoidetx.github.io/Snoidepaedia) or go to [https://sno
 1. `pages-build-development` by **GitHub**.
 2. `broken-link-checker` by [***@celinekurpershoek***](https://github.com/celinekurpershoek/link-checker). This action checks broken links.
 
-## To-dos
-- [x] Set up local development environment.
-- [ ] Migrate the contents of *snoidetx.github.io* to ***Snoidepaedia***.
-- [ ] Add **Honours** subsection and relevant pages.
-- [ ] Add **Thoughts** section and relevant pages.
-- [ ] Add more required subsections. 
-
 ## Release logs
 - Release [v1.1.1](https://github.com/snoidetx/Snoidepaedia/releases/tag/v1.1.1) on 15/06/2022.
   - Update index.md.
