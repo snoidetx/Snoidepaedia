@@ -48,6 +48,40 @@ img {
   transform: none;
 }
 
+.table-resource {
+  table-layout: fixed!important;
+  width: 100%;
+}
+
+.table-resource th {
+  @include fs-5;
+  text-align: left;
+}
+
+.table-resource td {
+  overflow-wrap: break-word;
+  word-wrap: break-all;
+  -ms-word-break: break-all;
+  word-break: break-all;
+  word-break: break-word;
+  -ms-hyphens: auto;
+  -moz-hyphens: auto;
+  -webkit-hyphens: auto;
+  hyphens: auto;
+}
+
+.table-resource th:first-of-type {
+  width: 14%;
+}
+
+.table-resource th:nth-of-type(2) {
+  width: 43%;
+}
+
+.table-resource th:nth-of-type(3) {
+  width: 43%;
+}
+
 .table-wrapper {
   display: block;
   width: 100%;

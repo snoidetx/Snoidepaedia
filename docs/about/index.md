@@ -25,6 +25,7 @@ Here is the portfolio page of Tian Xiao (*@snoidetx*). Feel free to contact him 
 
 **Note: The former *snoidetx.github.io* has been depreciated. All its contents are migrated to this site.**
 
+---
 ## Education
 
 | <img src="img/logos/logo-nus.png" width="150%" height="100%"> | National University of Singapore |

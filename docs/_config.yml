@@ -5,6 +5,8 @@ plugins:
 
 permalink: pretty
 
+classes: wide
+
 aux_links:
   "View on GitHub":
     - "https://github.com/snoidetx/Snoidepaedia"
