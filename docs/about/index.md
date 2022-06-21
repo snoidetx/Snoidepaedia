@@ -23,7 +23,7 @@ Here is the portfolio page of Tian Xiao (*@snoidetx*). Feel free to contact him 
 * Telegram: @snoidetx
 * WeChat: @tianxiao_1202
 
-**Note: The former *snoidetx.github.io* has been depreciated. All its contents are migrated to this site.**
+**Note: The former *snoidetx.github.io* has been depreciated. All its contents have been migrated to this site.**
 
 ---
 ## Education
