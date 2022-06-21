@@ -21,6 +21,8 @@ We follow Gitflow as our branching strategy for major updates, and GitHub Flow f
 *snoidetx.github.io* has been depreciated. All its contents have been migrated to ***Snoidepaedia***. However, users can still access the new pages through the original URL (https://snoidetx.github.io).
 
 ## Release logs
+- Release [v1.2.2](https://github.com/snoidetx/Snoidepaedia/releases/tag/v1.2.2) on 21/06/2022.
+  - Fix bugs.
 - Release [v1.2.1](https://github.com/snoidetx/Snoidepaedia/releases/tag/v1.2.1) on 21/06/2022.
   - Update files and fix bugs.
 - Release [v1.2.0](https://github.com/snoidetx/Snoidepaedia/releases/tag/v1.1.1) on 21/06/2022.
