@@ -18,9 +18,13 @@ We follow Gitflow as our main branching strategy.
 
 ## Notice
 
-*snoidetx.github.io* will be depreciated in future. All its content will be migrated to ***Snoidepaedia*** v2.0.0.
+*snoidetx.github.io* has been depreciated. All its contents have been migrated to ***Snoidepaedia***. Users can access the new pages through the original URL (https://snoidetx.github.io{/ **OR** /resource **OR** /research}).
 
 ## Release logs
+- Release [v1.2.0](https://github.com/snoidetx/Snoidepaedia/releases/tag/v1.1.1) on 21/06/2022.
+  - Migrate *snoidetx.github.io* to ***Snoidepaedia***.
+  - Improve UI.
+  - Update relevant files and fix bugs.
 - Release [v1.1.1](https://github.com/snoidetx/Snoidepaedia/releases/tag/v1.1.1) on 15/06/2022.
   - Update index.md.
 - Release [v1.1.0](https://github.com/snoidetx/Snoidepaedia/releases/tag/v1.0.0) on 15/06/2022.

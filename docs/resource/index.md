@@ -14,7 +14,7 @@ Produced by *@snoidetx*.
 
 Over the years, *@snoidetx* has been making learning materials for the courses he took and taught, including cheatsheets, notes, mindmaps, etc., to help both others and himself. He has collated all the resource and put them here. You can also find the resource for each module under `Education - Modules - {ModuleName}`. Enjoy!
 
-**Note: The former *snoidetx.github.io/research* has been depreciated. All its contents are migrated to this site.**
+**Note: The former *snoidetx.github.io/research* has been depreciated. All its contents have been migrated to this site.**
 
 ---
 
