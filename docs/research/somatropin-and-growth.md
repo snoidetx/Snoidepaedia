@@ -10,7 +10,7 @@ parent: Research
 X. Tian, & J. Fan. 2021.
 {: .fs-6 .fw-300 }
 
-[View Full Text](https://snoidetx.github.io/Snoidepaedia/pdf/somatropin-and-growth-hormone-deficiency.pdf){: .btn .btn-purple}
+[View Full Text](../pdf/somatropin-and-growth-hormone-deficiency.pdf){: .btn .btn-purple}
 
 ---
 

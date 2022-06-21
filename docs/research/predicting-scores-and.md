@@ -10,7 +10,7 @@ parent: Research
 X. Tian, J. Fan, Z. Xin, J. Han, & B. Li. 2022.
 {: .fs-6 .fw-300 }
 
-[View Full Text](https://snoidetx.github.io/Snoidepaedia/pdf/predicting-scores-and-controversialities-of-reddit-posts-using-machine-learning.pdf){: .btn .btn-purple}
+[View Full Text](../pdf/predicting-scores-and-controversialities-of-reddit-posts-using-machine-learning.pdf){: .btn .btn-purple}
 
 ---
 

@@ -10,7 +10,7 @@ parent: Research
 X. Tian & H. Goh. 2019.
 {: .fs-6 .fw-300 }
 
-[View Full Text](https://snoidetx.github.io/Snoidepaedia/pdf/thermography-a-big-data-problem-experiments.pdf){: .btn .btn-purple}
+[View Full Text](../pdf/thermography-a-big-data-problem-experiments.pdf){: .btn .btn-purple}
 
 ---
 ## Abstract
