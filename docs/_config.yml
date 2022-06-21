@@ -5,10 +5,12 @@ plugins:
 
 permalink: pretty
 
+classes: wide
+
 aux_links:
   "View on GitHub":
     - "https://github.com/snoidetx/Snoidepaedia"
 
 aux_links_new_tab: true
 
-footer_content: Copyright &copy;snoidetx. Last updated on 15/06/2022 (v1.1.1).
+footer_content: Copyright &copy;snoidetx. Last updated on 20/06/2022 (v1.2.0).

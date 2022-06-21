@@ -10,7 +10,7 @@ parent: Research
 X. Tian, M. Yin, & H. Goh. 2019.
 {: .fs-6 .fw-300 }
 
-[View Full Text](https://snoidetx.github.io/Snoidepaedia/pdf/identifying-the-geometry-of-an-object-using-lock-in-thermography.pdf){: .btn .btn-purple}
+[View Full Text](../pdf/identifying-the-geometry-of-an-object-using-lock-in-thermography.pdf){: .btn .btn-purple}
 
 ---
 
