@@ -56,18 +56,16 @@ img {
 .table-resource th {
   @include fs-5;
   text-align: left;
+  border-bottom-width: 3px;
+  border-bottom-color: #a9a9a9;
 }
 
 .table-resource td {
   overflow-wrap: break-word;
   word-wrap: break-all;
   -ms-word-break: break-all;
-  word-break: break-all;
   word-break: break-word;
-  -ms-hyphens: auto;
-  -moz-hyphens: auto;
-  -webkit-hyphens: auto;
-  hyphens: auto;
+  border-bottom: none;
 }
 
 .table-resource th:first-of-type {
@@ -75,11 +73,20 @@ img {
 }
 
 .table-resource th:nth-of-type(2) {
-  width: 43%;
+  width: 38%;
 }
 
 .table-resource th:nth-of-type(3) {
-  width: 43%;
+  width: 38%;
+}
+
+.table-resource th:nth-of-type(4) {
+  width: 10%;
+}
+
+.table-resource td img {
+  height: 1.5em;
+  width: auto;
 }
 
 .table-wrapper {
