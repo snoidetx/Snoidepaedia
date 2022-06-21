@@ -9,7 +9,7 @@ Click this [link](https://snoidetx.github.io/Snoidepaedia) or go to [https://sno
 ## Development
 ### Branching
 
-We follow Gitflow as our main branching strategy.
+We follow Gitflow as our branching strategy for major updates, and GitHub Flow for minor updates.
 
 ### Workflows
 
@@ -18,9 +18,11 @@ We follow Gitflow as our main branching strategy.
 
 ## Notice
 
-*snoidetx.github.io* has been depreciated. All its contents have been migrated to ***Snoidepaedia***. Users can access the new pages through the original URL (https://snoidetx.github.io{/ **OR** /resource **OR** /research}).
+*snoidetx.github.io* has been depreciated. All its contents have been migrated to ***Snoidepaedia***. However, users can still access the new pages through the original URL (https://snoidetx.github.io).
 
 ## Release logs
+- Release [v1.2.1](https://github.com/snoidetx/Snoidepaedia/releases/tag/v1.2.1) on 21/06/2022.
+  - Update files and fix bugs.
 - Release [v1.2.0](https://github.com/snoidetx/Snoidepaedia/releases/tag/v1.1.1) on 21/06/2022.
   - Migrate *snoidetx.github.io* to ***Snoidepaedia***.
   - Improve UI.

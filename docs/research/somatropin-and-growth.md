@@ -20,7 +20,8 @@ Somatropin is a type of drug used to complement natural somatotropin secreted by
 
 ## Gallery
 
-<img src="https://raw.githubusercontent.com/snoidetx/Snoidepaedia/master/contents/research/somatropin-and-growth/thumbnail.png" width=360>
+![](../img/thumbnails/thumbnail-somatropin-and-growth.png)
+{: .thumbnail }
 
 ## Cite
 

@@ -23,4 +23,4 @@ In the **Modules** section, *@snoidetx* takes down information about modules he 
 
 A typical page in the **Modules** section looks like this:
 
-![](https://raw.githubusercontent.com/snoidetx/Snoidepaedia/master/contents/education/modules/example-1.png) ![](https://raw.githubusercontent.com/snoidetx/Snoidepaedia/master/contents/education/modules/example-2.png)
+![](../img/example-1.png) ![](../img/example-2.png)
