@@ -20,7 +20,8 @@ Reddit posters may post contents that invoke disagreements and disputes, but in 
 
 ## Gallery
 
-<img src="https://raw.githubusercontent.com/snoidetx/Snoidepaedia/master/contents/research/predicting-scores-and/thumbnail.png" width=360>
+![](../img/thumbnails/thumbnail-predicting-scores-and.png)
+{: .thumbnail }
 
 ## Cite
 
