@@ -16,10 +16,11 @@ We follow Gitflow as our branching strategy for major updates, and GitHub Flow f
 1. `pages-build-development` by **GitHub**.
 2. `broken-link-checker` by [***@celinekurpershoek***](https://github.com/celinekurpershoek/link-checker). This action checks broken links.
 
+### Release logs
+
+Please refer to our [project wiki page](https://github.com/snoidetx/Snoidepaedia/wiki/Release-Logs).
+
 ## Notice
 
 *snoidetx.github.io* has been depreciated. All its contents have been migrated to ***Snoidepaedia***. However, users can still access the new pages through the original URL (https://snoidetx.github.io).
 
-## Release logs
-
-Please refer to [this link](https://github.com/snoidetx/Snoidepaedia/wiki/Release-Logs).
