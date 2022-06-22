@@ -101,6 +101,46 @@ img {
   width: auto;
 }
 
+.table-profile {
+  table-layout: fixed!important;
+  width: 100px!important;
+  max-width: 100%;
+}
+
+.table-profile th {
+  border-bottom: none;
+  border-left: none;
+  border-right: none;
+}
+
+.table-profile td {
+  table-layout: fixed!important;
+  border-left: none;
+  border-right: none;
+  width: 50px!important;
+  max-width: 50px;
+  min-width: 50px;
+}
+
+.table-profile td:first-of-type {
+  width: 50px!important;
+}
+
+.table-profile td:nth-of-type(2) {
+  width: 50px!important;
+}
+
+.table-profile td:first-of-type img {
+  height: 1.5em;
+  width: auto;
+  vertical-align: middle;
+}
+
+.table-profile td:nth-of-type(2) img {
+  height: 9em;
+  width: auto;
+}
+
 .table-wrapper {
   display: block;
   width: 100%;
