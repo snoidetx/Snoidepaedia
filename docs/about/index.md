@@ -7,25 +7,14 @@ nav_order: 3
 # About Me
 {: .fs-9 }
 
-Tian Xiao *@snoidetx*
+Portfolio of Tian Xiao *@snoidetx*
 {: .fs-6 .fw-300 }
 
-[View LinkedIn Profile](https://www.linkedin.com/in/tian-xiao-1202){: .btn .btn-purple}
+| Contact |  |
+| :-- | --- |
+| ![email](./img/icons/icon-email.png)&nbsp;&nbsp;[tianxiaos1202@gmail.com](mailto:tianxiaos1202@gmail.com)<br>![phone](./img/icons/icon-phone.png)&nbsp;&nbsp;[(65) 8510 6059](tel:85106059)<br>![linkedin](./img/icons/icon-linkedin.png)&nbsp;&nbsp;[Tian Xiao](https://www.linkedin.com/in/snoidetx)<br>![github](./img/icons/icon-github.png)&nbsp;&nbsp;[@snoidetx](https://github.com/snoidetx)<br>![instagram](./img/icons/icon-instagram.png)&nbsp;&nbsp;[@snoidetx](https://www.instagram.com/snoidetx/?hl=en)<br>![telegram](./img/icons/icon-telegram.png)&nbsp;&nbsp;[@snoidetx](https://t.me/snoidetx)<br>![wechat](./img/icons/icon-wechat.png)&nbsp;&nbsp;@snoidetx | ![profile](./img/profile.png) |
+{: .table-profile }
 
----
-
-Here is the portfolio page of Tian Xiao (*@snoidetx*). Feel free to contact him at:
-* Email (Personal): tianxiaos1202@gmail.com
-* Email (School): tianxiao02@u.nus.edu
-* Phone: (65) 8510 6059
-* GitHub: @snoidetx
-* Instagram: @snoidetx
-* Telegram: @snoidetx
-* WeChat: @tianxiao_1202
-
-**Note: The former *snoidetx.github.io* has been depreciated. All its contents have been migrated to this site.**
-
----
 ## Education
 
 | <img src="img/logos/logo-nus.png" width="150%" height="100%"> | National University of Singapore |
