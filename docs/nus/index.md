@@ -13,7 +13,7 @@ Singapore. NUS.
 
 ---
 
-## Section Overview
+## Overview
 
 The **Education** section and its sub-sections mainly contain information and documentations about *@snoidetx*'s experience in **National University of Singapore** (NUS), including his timeline in NUS, information about modules taken, etc. For information about *@snoidetx*'s education background, please take a look at [**Education Background**](#education-background) below.
 
