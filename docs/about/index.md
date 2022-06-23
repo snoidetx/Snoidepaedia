@@ -10,10 +10,14 @@ nav_order: 3
 Portfolio of Tian Xiao *@snoidetx*
 {: .fs-6 .fw-300 }
 
+---
+
 | Contact |  |
 | :-- | --- |
 | ![email](./img/icons/icon-email.png)&nbsp;&nbsp;[tianxiaos1202@gmail.com](mailto:tianxiaos1202@gmail.com)<br>![phone](./img/icons/icon-phone.png)&nbsp;&nbsp;[(65) 8510 6059](tel:85106059)<br>![linkedin](./img/icons/icon-linkedin.png)&nbsp;&nbsp;[Tian Xiao](https://www.linkedin.com/in/snoidetx)<br>![github](./img/icons/icon-github.png)&nbsp;&nbsp;[@snoidetx](https://github.com/snoidetx)<br>![instagram](./img/icons/icon-instagram.png)&nbsp;&nbsp;[@snoidetx](https://www.instagram.com/snoidetx/?hl=en)<br>![telegram](./img/icons/icon-telegram.png)&nbsp;&nbsp;[@snoidetx](https://t.me/snoidetx)<br>![wechat](./img/icons/icon-wechat.png)&nbsp;&nbsp;@snoidetx | ![profile](./img/profile.png) |
 {: .table-profile }
+
+---
 
 ## Education
 
@@ -38,7 +42,7 @@ Portfolio of Tian Xiao *@snoidetx*
 | <img src="img/timeline-end.png" width="150%" height="100%"> | **NEYC Junior High School Programme**<br>China · Sep 2011 - Oct 2015<br>Full-time · 4 yrs 2 mos |
 {: .table-about }
 
-<br>
+---
 
 ## Work and Internship Experiences
 
@@ -63,7 +67,7 @@ Portfolio of Tian Xiao *@snoidetx*
 | <img src="img/timeline-end.png" width="150%" height="100%"> | **Researcher**<br>Mar 2018 - Feb 2019<br>Internship · 1 yr<br><br>• Conducted research on possibilities of using Lock-in Thermography Technique to detect 3-dimensional geometries of an object and evaluated its practicability of being applied to real life scenarios.<br>• Computed Python algorithms (regression analysis & machine learning) to determine correlations within large datasets retrieved from Lock-in Thermography Technique.<br>• Collaborated with colleagues to predict general trends beyond pre-engineered prototypes. |
 {: .table-about }
 
-<br>
+---
 
 ## Co-curricular Activities (CCAs) and Community Services
 
@@ -97,7 +101,7 @@ Portfolio of Tian Xiao *@snoidetx*
 | <img src="img/timeline-end.png" width="150%" height="100%"> | **Student Director**<br>Jan 2016 - June 2017<br>CCA · 1 yr 6 mos<br><br>• Directed drama shows and supervised script-writing, trainings and performances.<br>• Consulted with Director, actors and 5 assisting units and was awarded a Certification of Distinction at Singapore Youth Festival 2017 Arts Presentation For Chinese Orchestra (Full Orchestra) - Secondary School. |
 {: .table-about }
 
-<br>
+---
 
 ## Additional Information
 
