@@ -29,6 +29,12 @@ Everything of @snoidetx.
 
 The former *snoidetx.github.io* has been depreciated since 21/06/2022. However, in memory of its cnotributions, now you can view an archived version of the former *snoidetx.github.io* by this link: [snoidetx.github.io/archive/](https://snoidetx.github.io/archive/).
 
+## Highlights
+
+- [*@snoidetx*'s portfolio](./about/)
+- [*@snoidetx*'s research](./research/)
+- [*@snoidetx*'s resource](./resource/)
+
 ## Theme
 
 *Snoidepaedia* deploys ***[Just The Docs](https://github.com/just-the-docs/just-the-docs)***, a modern, highly customizable, and responsive Jekyll theme for documentation with built-in search. Please star the theme if you find it good.

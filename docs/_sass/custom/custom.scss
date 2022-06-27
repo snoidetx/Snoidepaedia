@@ -101,9 +101,35 @@ img {
   width: auto;
 }
 
+.table-profile {
+  table-layout: fixed!important;
+  min-width: 50px;
+}
+
+.table-profile th {
+  min-width: 25px;
+  border: none;
+}
+
+.table-profile td {
+  min-width: 25px;
+  border: none;
+}
+
+.table-profile td:first-of-type img {
+  height: 1.5em;
+  width: auto;
+  vertical-align: middle;
+}
+
+.table-profile td:nth-of-type(2) img {
+  height: 10.5em;
+  width: auto;
+}
+
 .table-wrapper {
-  display: block;
-  width: 100%;
+  display: inline-block;
+  width: auto;
   max-width: 100%;
   margin-bottom: $sp-5;
   overflow-x: auto;
