@@ -1,0 +1,5 @@
+.header {
+  display: flex;
+  min-height: $header-height;
+  align-items: center;
+}
