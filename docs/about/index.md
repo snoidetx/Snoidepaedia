@@ -7,25 +7,18 @@ nav_order: 3
 # About Me
 {: .fs-9 }
 
-Tian Xiao *@snoidetx*
+Portfolio of Tian Xiao *@snoidetx*
 {: .fs-6 .fw-300 }
 
-[View LinkedIn Profile](https://www.linkedin.com/in/tian-xiao-1202){: .btn .btn-purple}
+---
+
+| Contact |  |
+| :-- | --- |
+| ![email](./img/icons/icon-email.png)&nbsp;&nbsp;[tianxiaos1202@gmail.com](mailto:tianxiaos1202@gmail.com)<br>![phone](./img/icons/icon-phone.png)&nbsp;&nbsp;[(65) 8510 6059](tel:85106059)<br>![linkedin](./img/icons/icon-linkedin.png)&nbsp;&nbsp;[Tian Xiao](https://www.linkedin.com/in/snoidetx)<br>![github](./img/icons/icon-github.png)&nbsp;&nbsp;[@snoidetx](https://github.com/snoidetx)<br>![instagram](./img/icons/icon-instagram.png)&nbsp;&nbsp;[@snoidetx](https://www.instagram.com/snoidetx/?hl=en)<br>![telegram](./img/icons/icon-telegram.png)&nbsp;&nbsp;[@snoidetx](https://t.me/snoidetx)<br>![wechat](./img/icons/icon-wechat.png)&nbsp;&nbsp;@snoidetx | ![profile](./img/profile.png) |
+{: .table-profile }
 
 ---
 
-Here is the portfolio page of Tian Xiao (*@snoidetx*). Feel free to contact him at:
-* Email (Personal): tianxiaos1202@gmail.com
-* Email (School): tianxiao02@u.nus.edu
-* Phone: (65) 8510 6059
-* GitHub: @snoidetx
-* Instagram: @snoidetx
-* Telegram: @snoidetx
-* WeChat: @tianxiao_1202
-
-**Note: The former *snoidetx.github.io* has been depreciated. All its contents have been migrated to this site.**
-
----
 ## Education
 
 | <img src="img/logos/logo-nus.png" width="150%" height="100%"> | National University of Singapore |
@@ -49,7 +42,7 @@ Here is the portfolio page of Tian Xiao (*@snoidetx*). Feel free to contact him 
 | <img src="img/timeline-end.png" width="150%" height="100%"> | **NEYC Junior High School Programme**<br>China · Sep 2011 - Oct 2015<br>Full-time · 4 yrs 2 mos |
 {: .table-about }
 
-<br>
+---
 
 ## Work and Internship Experiences
 
@@ -74,7 +67,7 @@ Here is the portfolio page of Tian Xiao (*@snoidetx*). Feel free to contact him 
 | <img src="img/timeline-end.png" width="150%" height="100%"> | **Researcher**<br>Mar 2018 - Feb 2019<br>Internship · 1 yr<br><br>• Conducted research on possibilities of using Lock-in Thermography Technique to detect 3-dimensional geometries of an object and evaluated its practicability of being applied to real life scenarios.<br>• Computed Python algorithms (regression analysis & machine learning) to determine correlations within large datasets retrieved from Lock-in Thermography Technique.<br>• Collaborated with colleagues to predict general trends beyond pre-engineered prototypes. |
 {: .table-about }
 
-<br>
+---
 
 ## Co-curricular Activities (CCAs) and Community Services
 
@@ -108,13 +101,13 @@ Here is the portfolio page of Tian Xiao (*@snoidetx*). Feel free to contact him 
 | <img src="img/timeline-end.png" width="150%" height="100%"> | **Student Director**<br>Jan 2016 - June 2017<br>CCA · 1 yr 6 mos<br><br>• Directed drama shows and supervised script-writing, trainings and performances.<br>• Consulted with Director, actors and 5 assisting units and was awarded a Certification of Distinction at Singapore Youth Festival 2017 Arts Presentation For Chinese Orchestra (Full Orchestra) - Secondary School. |
 {: .table-about }
 
-<br>
+---
 
 ## Additional Information
 
 |  | Skills and Interests |
 | :-: | --- |
 | <img src="img/logos/logo-language.png" width=75> | **Languages**<br><br>• English (Bilingual or Native)<br>• Mandarin (Bilingual or Native) |
-| <img src="img/logos/logo-programming.png" width=75> | **IT Skillsets**<br><br>• Programming Languages (Bash, C, CSS, HTML, Java, JavaScript (with React, React Native and Redux), Kotlin, MATLAB, Python, R, TypeScript)<br>• Revision Control Softwares (Git (with BitBucket and Github platforms))<br>• Machine Learning Libraries (Keras, SkyLearn)<br>• Operating Systems (MacOS, Linux, Windows)<br>• Productive Softwares (Adobe Photoshop, Adobe Audition, Studio One) |
+| <img src="img/logos/logo-programming.png" width=75> | **IT Skillsets**<br><br>• Programming Languages (Bash, C, CSS, HTML, Java, JavaScript (with React, React Native and Redux), Kotlin, MATLAB, Python, R, TypeScript)<br>• Revision Control Softwares (Git (with BitBucket and Github platforms))<br>• Machine Learning Libraries (Keras, SkyLearn)<br>• Database Systems (MySQL)<br>• Operating Systems (MacOS, Linux, Windows)<br>• Productive Softwares (Adobe Photoshop, Adobe Audition, Studio One) |
 | <img src="img/logos/logo-music.png" width=75> | **Interests**<br><br>• Basketball<br>• Music<br>• Fine Arts |
 {: .table-about#table-about-without-timeline }

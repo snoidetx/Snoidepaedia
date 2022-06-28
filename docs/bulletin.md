@@ -19,9 +19,11 @@ Below is a full list of directories and entries included in *Snoidepaedia*. Dire
 
 * [Home](../)
 * [About *@snoidetx*](../about/)
+* [Blog](../blog/)
 * [Education](../nus/)
   * [Timetable](../nus/timetable/)
   * [Transcript](../nus/transcript/)
+  * [Honours](../nus/honours/)
   * [Modules](../nus/modules/)
     * [CS1231/S Discrete Structures](../nus/modules/cs1231/)
     * [CS3244 Machine Learning](../nus/modules/cs3244/)

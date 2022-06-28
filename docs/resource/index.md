@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Resource
-nav_order: 7
+nav_order: 8
 ---
 
 # Resource
@@ -12,7 +12,7 @@ Produced by *@snoidetx*.
 
 ---
 
-Over the years, *@snoidetx* has been making learning materials for the courses he took and taught, including cheatsheets, notes, mindmaps, etc., to help both others and himself. He has collated all the resource and put them here. You can also find the resource for each module under `Education - Modules - {ModuleName}`. Enjoy!
+Over the years, *@snoidetx* has been making learning materials for the courses he took and taught, including cheatsheets, notes, mindmaps, etc., to help both others and himself. He has collated all the resource and put them here. You can also find the resource for each module under `Education - Modules - { ModuleName }`. Enjoy!
 
 **Note: The former *snoidetx.github.io/research* has been depreciated. All its contents have been migrated to this site.**
 

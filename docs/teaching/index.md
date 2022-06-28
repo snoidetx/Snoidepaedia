@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Teaching
-nav_order: 6
+nav_order: 7
 has_children: true
 ---
 
@@ -13,7 +13,7 @@ Exchange of knowledge.
 
 ---
 
-## Section Overview
+## Overview
 
 The **Teaching** section and its sub-sections mainly documents *@snoidetx*'s teaching experience after entry into NUS. To view *@snoidetx*'s entire teaching experience, see [**Teaching Background**](#teaching-background) below.
 
