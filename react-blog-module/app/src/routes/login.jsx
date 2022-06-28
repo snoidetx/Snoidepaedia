@@ -1,16 +1,10 @@
+import { DoubleInputQuestionaire } from '../components/doubleInputQuestionaire';
+import '../App.css';
+
 export default function Login() {
   return (
-    <main style={{ padding: "1rem 0" }}>
-      <h2>Hello</h2>
-      <form>
-        <label>Username:
-          <input type="text" />
-        </label>
-        <br></br>
-        <label>Password:
-          <input type="text" />
-        </label>
-      </form>
-    </main>
+    <div className='body-container'>
+      <DoubleInputQuestionaire title='Login' label1='Email' label2='Password' />
+    </div>
   );
 };

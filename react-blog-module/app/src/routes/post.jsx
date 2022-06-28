@@ -1,15 +1,10 @@
+import { DoubleInputQuestionaire } from '../components/doubleInputQuestionaire';
+import '../App.css';
+
 export default function Post() {
   return (
-    <main style={{ padding: "1rem 0" }}>
-      <h2>Hello</h2>
-      <form>
-        <label>Title:
-          <input type="text" />
-        </label>
-        <label>Body:
-          <input type="text" />
-        </label>
-      </form>
-    </main>
+    <div className='body-container'>
+      <DoubleInputQuestionaire title='Post' label1='Title' label2='Body' />
+    </div>
   );
 };

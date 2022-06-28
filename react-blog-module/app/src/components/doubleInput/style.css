@@ -1,0 +1,30 @@
+.input {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+}
+
+.input-label {
+  font-size: x-large;
+}
+
+.input-box {
+  width: 600px;
+  height: 50px;
+  border-radius: 5px;
+  background-color: white;
+  margin-bottom: 50px;
+  font-size: x-large;
+  padding-left: 10px;
+}
+
+.submit-button {
+  font-size: x-large;
+  padding: 10px;
+  width: 150px;
+  border: none;
+  background-color: #5e41d0;
+  color: white;
+  border-radius: 5px;
+}

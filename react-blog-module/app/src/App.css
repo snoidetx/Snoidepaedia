@@ -1,5 +1,24 @@
 .App {
   text-align: center;
+  max-width: 1064px;
+  width: 100%;
+}
+
+.App-container {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  background-color: #f5f6fa;
+}
+
+.body-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  flex-grow: 1;
 }
 
 .App-logo {
