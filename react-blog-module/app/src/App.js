@@ -7,9 +7,8 @@ import './App.css';
 function App() {
   return (
     <div className="App-container">
-      <div className="App" style={{display:"block"}}>
+      <div className="App">
         <Header label={siteName} />
-        
         <nav
           style={{
             borderBottom: "solid 1px",
