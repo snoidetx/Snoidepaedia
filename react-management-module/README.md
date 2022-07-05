@@ -1,3 +1,3 @@
 # Snoidepaedia `react-blog-module`
 
-This module is a React web app used to facilitate **Blog** section of ***Snoidepaedia***.
+This module is a React web app used to manage ***Snoidepaedia***.
