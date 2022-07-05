@@ -103,16 +103,19 @@ img {
 
 .table-profile {
   table-layout: fixed!important;
-  min-width: 50px;
+  min-width: 60px;
+  max-width: 100%;
 }
 
 .table-profile th {
-  min-width: 25px;
+  min-width: 30px;
+  max-width: 50%;
   border: none;
 }
 
 .table-profile td {
-  min-width: 25px;
+  min-width: 30px;
+  max-width: 50%;
   border: none;
 }
 
