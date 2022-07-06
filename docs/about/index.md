@@ -39,7 +39,7 @@ Portfolio of Tian Xiao *@snoidetx*
 
 | <img src="img/logos/logo-neyc.png" width=75> | Northeast Yucai School |
 | :-: | --- |
-| <img src="img/timeline-end.png" width="150%" height="100%"> | **NEYC Junior High School Programme**<br>China · Sep 2011 - Oct 2015<br>Full-time · 4 yrs 2 mos |
+| <img src="img/timeline-end.png" width="150%" height="100%"> | **NEYC Junior High School Programme**<br>China · Sep 2011 - Oct 2015<br>Full-time · 4 yrs 2 mos<br><br>**Awards and Honours**<br><br>• 2013年第十一届“走进美妙的数学花园”中国青少年数学论坛，沈阳市一等奖<br>• 2013年沈阳市青少年发明创造大赛，科技创新优秀设计奖<br>• 2013年第二十四届“希望杯”全国数学邀请赛，国家级二等奖、铜牌<br>• 2013年第十五届“语文报杯”全国中学生作文大赛，省级三等奖<br>• 2014年第二十五届“希望杯”全国数学邀请赛，国家级三等奖、铜牌、省级一等奖<br>• 2014年第二届辽宁省青少年数学创新应用大赛，二等奖<br>• 2014年全国青少年信息学奥林匹克竞赛（NOIP），辽宁赛区提高组三等奖<br>• 2014年第六届“21世纪报杯”英语竞赛，沈阳市三等奖<br>• 2014年第十一届“外研社杯”全国中小学生英语技能大赛，初中组市级三等奖<br>• 2015年第二十六届“希望杯”全国数学邀请赛，国家级铜牌、省级一等奖<br>• 2015年第三届“长江杯”全国数学邀请赛，国家级二等奖<br>• 2015年第三届辽宁省青少年数学创新应用大赛，一等奖<br>• 6.5/9.0, IELTS Academic 2015 |
 {: .table-about }
 
 ---
@@ -79,7 +79,7 @@ Portfolio of Tian Xiao *@snoidetx*
 
 | <img src="img/logos/logo-nus.png" width=75> | NUS Teach Singapore |
 | :-: | --- |
-| <img src="img/timeline-end.png" width="150%" height="100%"> | **Academic Coach**<br>Aug 2021 - December 2021<br>CCA · 5 mos<br><br>• Provided academic coaching and mentoring to children and teenagers under Christ Church Secondary School Champions Youth Tuition Programme, as a member of NUS Teach Singapore initiative. |
+| <img src="img/timeline-end.png" width="150%" height="100%"> | **Academic Coach**<br>Aug 2021 - Dec 2021<br>CCA · 5 mos<br><br>• Provided academic coaching and mentoring to children and teenagers under Christ Church Secondary School Champions Youth Tuition Programme, as a member of NUS Teach Singapore initiative. |
 {: .table-about }
 
 | <img src="img/logos/logo-kbcc.png" width=75> | Kebun Baru Community Centre Peer Mentorship Programme |
@@ -89,7 +89,7 @@ Portfolio of Tian Xiao *@snoidetx*
 
 | <img src="img/logos/logo-njc.png" width=75> | NJC Chinese Orchestra and Guzheng Ensemble |
 | :-: | --- |
-| <img src="img/timeline-end.png" width="150%" height="100%"> | **Section Leader**<br>June 2018 - June 2019<br>CCA · 10 mos<br><br>• Headed Bowed Strings Section in Chinese Orchestra and facilitated major events as part of the Execution Committee.<br>• Cooperated with conductors and other sections to achieve perfect coordination across orchestra and obtained a Certification of Distinction at Singapore Youth Festival 2019 Arts Presentation For Chinese Orchestra (Full Orchestra) - Junior College.<br>• Organised activities and outings to promote camaraderie within whole orchestra involving about 100 members. |
+| <img src="img/timeline-end.png" width="150%" height="100%"> | **Section Leader**<br>Jun 2018 - Jun 2019<br>CCA · 10 mos<br><br>• Headed Bowed Strings Section in Chinese Orchestra and facilitated major events as part of the Execution Committee.<br>• Cooperated with conductors and other sections to achieve perfect coordination across orchestra and obtained a Certification of Distinction at Singapore Youth Festival 2019 Arts Presentation For Chinese Orchestra (Full Orchestra) - Junior College.<br>• Organised activities and outings to promote camaraderie within whole orchestra involving about 100 members. |
 {: .table-about }
 
 | <img src="img/logos/logo-eos.png" width=75> | Citi-YMCA Youth for Causes: Project EOS |
@@ -99,7 +99,12 @@ Portfolio of Tian Xiao *@snoidetx*
 
 | <img src="img/logos/logo-chs.png" width=75> | CHS Chinese Drama |
 | :-: | --- |
-| <img src="img/timeline-end.png" width="150%" height="100%"> | **Student Director**<br>Jan 2016 - June 2017<br>CCA · 1 yr 6 mos<br><br>• Directed drama shows and supervised script-writing, trainings and performances.<br>• Consulted with Director, actors and 5 assisting units and was awarded a Certification of Distinction at Singapore Youth Festival 2017 Arts Presentation For Chinese Orchestra (Full Orchestra) - Secondary School. |
+| <img src="img/timeline-end.png" width="150%" height="100%"> | **Student Director**<br>Jan 2016 - Jun 2017<br>CCA · 1 yr 6 mos<br><br>• Directed drama shows and supervised script-writing, trainings and performances.<br>• Consulted with Director, actors and 5 assisting units and was awarded a Certification of Distinction at Singapore Youth Festival 2017 Arts Presentation For Chinese Orchestra (Full Orchestra) - Secondary School. |
+{: .table-about }
+
+| <img src="img/logos/logo-neyc.png" width=75> | NEYC Chinese Drama |
+| :-: | --- |
+| <img src="img/timeline-end.png" width="150%" height="100%"> | **Performer**<br>Sep 2012 - Jun 2015<br>CCA · 2 yr 10 mos<br><br>• Played Erhu and participated in school concerts.<br>• Travelled to Taiwan with the whole orchestra and went through musical exchange with local schools. |
 {: .table-about }
 
 ---
@@ -110,5 +115,5 @@ Portfolio of Tian Xiao *@snoidetx*
 | :-: | --- |
 | <img src="img/logos/logo-language.png" width=75> | **Languages**<br><br>• English (Bilingual or Native)<br>• Mandarin (Bilingual or Native) |
 | <img src="img/logos/logo-programming.png" width=75> | **IT Skillsets**<br><br>• Programming Languages (Bash, C, CSS, HTML, Java, JavaScript (with React, React Native and Redux), Kotlin, MATLAB, Python, R, TypeScript)<br>• Revision Control Softwares (Git (with BitBucket and Github platforms))<br>• Machine Learning Libraries (Keras, SkyLearn)<br>• Database Systems (MySQL)<br>• Operating Systems (MacOS, Linux, Windows)<br>• Productive Softwares (Adobe Photoshop, Adobe Audition, Studio One) |
-| <img src="img/logos/logo-music.png" width=75> | **Interests**<br><br>• Basketball<br>• Music<br>• Fine Arts |
+| <img src="img/logos/logo-music.png" width=75> | **Interests**<br><br>• Basketball<br>• Piano<br>• Erhu<br>• Fine Arts |
 {: .table-about#table-about-without-timeline }
