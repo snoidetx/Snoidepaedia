@@ -39,7 +39,7 @@ Portfolio of Tian Xiao *@snoidetx*
 
 | <img src="img/logos/logo-neyc.png" width=75> | Northeast Yucai School |
 | :-: | --- |
-| <img src="img/timeline-end.png" width="150%" height="100%"> | **NEYC Junior High School Programme**<br>China · Sep 2011 - Oct 2015<br>Full-time · 4 yrs 2 mos<br><br>**Awards and Honours**<br><br>• Awards and medals in junior high school ([view](./neyc-awards))<br>• 6.5/9.0, IELTS Academic 2015 |
+| <img src="img/timeline-end.png" width="150%" height="100%"> | **NEYC Junior High School Programme**<br>China · Sep 2011 - Oct 2015<br>Full-time · 4 yrs 2 mos<br><br>**Awards and Honours**<br><br>• Awards and honours in junior high school ([view](./neyc-awards))<br>• 6.5/9.0, IELTS Academic 2015 |
 {: .table-about }
 
 ---
