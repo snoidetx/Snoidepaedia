@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Awards in Junior High School
+title: Awards and Honours in Junior High School
 nav_exclude: true
 ---
 
-# Awards in Junior High School
+# Awards and Honours in Junior High School
 {: .fs-9 }
 
 NEYC
@@ -12,7 +12,7 @@ NEYC
 
 ---
 
-The followings are *@snoidetx*'s awards and medals in his junior high school:
+The followings are *@snoidetx*'s awards and honours in his junior high school:
 * 2013年第十一届“走进美妙的数学花园”中国青少年数学论坛，沈阳市一等奖
 * 2013年沈阳市青少年发明创造大赛，科技创新优秀设计奖
 * 2013年第二十四届“希望杯”全国数学邀请赛，国家级二等奖、铜牌
