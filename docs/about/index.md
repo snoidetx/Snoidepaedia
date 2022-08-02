@@ -55,7 +55,7 @@ Portfolio of Tian Xiao *@snoidetx*
 
 | <img src="img/logos/logo-singtel.png" width=75> | Singtel |
 | :-: | --- |
-| <img src="img/timeline-end.png" width="150%" height="100%"> | **Software Developer**<br>May 2022 - Aug 2022<br>Internship · 4 mos<br><br>• Developed cross-platform mobile applications (iOS and Android) as part of the mobile chapter.<br>Launched new modules (Broadband Protect and Wifi Coverage features) as core developer, optimised and fixed bugs for existing modules of My Singtel App. |
+| <img src="img/timeline-end.png" width="150%" height="100%"> | **Software Developer**<br>May 2022 - Aug 2022<br>Internship · 4 mos<br><br>• Developed cross-platform mobile applications (iOS and Android) as part of the mobile chapter.<br>• Launched new modules (Broadband Protect and Wifi Coverage features) as core developer, optimised and fixed bugs for existing modules of My Singtel App. |
 {: .table-about }
 
 | <img src="img/logos/logo-learnseeker.png" width=75> | Learnseeker |
