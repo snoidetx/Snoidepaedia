@@ -39,23 +39,23 @@ Portfolio of Tian Xiao *@snoidetx*
 
 | <img src="img/logos/logo-neyc.png" width=75> | Northeast Yucai School |
 | :-: | --- |
-| <img src="img/timeline-end.png" width="150%" height="100%"> | **NEYC Junior High School Programme**<br>China · Sep 2011 - Oct 2015<br>Full-time · 4 yrs 2 mos<br><br>**Awards and Honours**<br><br>• 2013年第十一届“走进美妙的数学花园”中国青少年数学论坛，沈阳市一等奖<br>• 2013年沈阳市青少年发明创造大赛，科技创新优秀设计奖<br>• 2013年第二十四届“希望杯”全国数学邀请赛，国家级二等奖、铜牌<br>• 2013年第十五届“语文报杯”全国中学生作文大赛，省级三等奖<br>• 2014年第二十五届“希望杯”全国数学邀请赛，国家级三等奖、铜牌、省级一等奖<br>• 2014年第二届辽宁省青少年数学创新应用大赛，二等奖<br>• 2014年全国青少年信息学奥林匹克竞赛（NOIP），辽宁赛区提高组三等奖<br>• 2014年第六届“21世纪报杯”英语竞赛，沈阳市三等奖<br>• 2014年第十一届“外研社杯”全国中小学生英语技能大赛，初中组市级三等奖<br>• 2015年第二十六届“希望杯”全国数学邀请赛，国家级铜牌、省级一等奖<br>• 2015年第三届“长江杯”全国数学邀请赛，国家级二等奖<br>• 2015年第三届辽宁省青少年数学创新应用大赛，一等奖<br>• 6.5/9.0, IELTS Academic 2015 |
+| <img src="img/timeline-end.png" width="150%" height="100%"> | **NEYC Junior High School Programme**<br>China · Sep 2011 - Oct 2015<br>Full-time · 4 yrs 2 mos<br><br>**Awards and Honours**<br><br>• Awards and medals in junior high Sschool ([view](./neyc-awards))<br>• 6.5/9.0, IELTS Academic 2015 |
 {: .table-about }
 
 ---
 
 ## Work and Internship Experiences
 
-| <img src="img/logos/logo-singtel.png" width=75> | Singtel |
-| :-: | --- |
-| <img src="img/timeline-end.png" width="150%" height="100%"> | **Software Developer**<br>May 2022 - Present<br>Internship · Ongoing<br><br>• Developed cross-platform mobile applications as part of the mobile chapter. |
-{: .table-about }
-
 | <img src="img/logos/logo-nus.png" width=75> | National University of Singapore |
 | :-: | --- |
 | <img src="img/timeline-end.png" width="150%" height="100%"> | **Teaching Assistant (CS3244 Machine Learning)**<br>Aug 2022 - Present<br>Part-time · Ongoing<br><br> | 
 | <img src="img/timeline-intermediate.png" width="150%" height="100%"> | **Teaching Assistant (CS2030/S Programming Methodology II)**<br>Jan 2022 - May 2022<br>Part-time · 5 mos<br><br>• Assisted professors in preparing and facilitating teaching of module CS2030 Programming Methodology II, a course to introduce fundamental programming methodology such as code design and coding style using Java involving more than 200 students.<br>• Supervised weekly laboratory sessions for students to get hands-on experience on applying certain methodologies and principles, reviewed their assignment submissions and gave feedbacks.<br><br> | 
 | <img src="img/timeline-intermediate.png" width="150%" height="100%"> | **Teaching Assistant (CS2040/S Data Structures and Algorithms)**<br>Aug 2021 - May 2022<br>Part-time · 10 mos<br><br>• Assisted professors in preparing and facilitating teaching of module CS2040/S Data Structures and Algorithms, a course to equip students with knowledge on basic data structures and algorithms in computing using Java involving more than 450 students.<br>• Developed class materials and conducted weekly laboratory sessions for students to reinforce conceptual knowledge and get hands-on experience on using certain data structures and algorithms and marked their assignments. |
+{: .table-about }
+
+| <img src="img/logos/logo-singtel.png" width=75> | Singtel |
+| :-: | --- |
+| <img src="img/timeline-end.png" width="150%" height="100%"> | **Software Developer**<br>May 2022 - Aug 2022<br>Internship · 4 mos<br><br>• Developed cross-platform mobile applications (iOS and Android) as part of the mobile chapter.<br>Launched new modules (Broadband Protect and Wifi Coverage features) as core developer, optimised and fixed bugs for existing modules of My Singtel App. |
 {: .table-about }
 
 | <img src="img/logos/logo-learnseeker.png" width=75> | Learnseeker |
