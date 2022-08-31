@@ -20,7 +20,10 @@ Over the years, *@snoidetx* has been making learning materials for the courses h
 
 ## Module Forecast
 ```
-- CS4234 Optimisation Algorithm
+- MA3205 Set Theory
+- MA3220 Ordinary Differential Equations
+- MA3236 Non-Linear Programming
+- MA3264 Mathematical Modelling
 ```
 
 ---
