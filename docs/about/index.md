@@ -10,6 +10,8 @@ nav_order: 3
 Portfolio of Tian Xiao *@snoidetx*
 {: .fs-6 .fw-300 }
 
+[&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;LinkedIn&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;](https://www.linkedin.com/in/snoidetx/){: .btn .btn-purple}
+
 ---
 
 ## Experiences
