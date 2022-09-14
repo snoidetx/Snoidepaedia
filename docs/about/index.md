@@ -116,6 +116,6 @@ Note: This section only documents *@snoidetx*'s selected major and long-term vol
 |  | Skills and Interests |
 | :-: | --- |
 | <img src="img/logos/logo-language.png" width=75> | **Languages**<br><br>• English (Bilingual or Native)<br>• Mandarin (Bilingual or Native) |
-| <img src="img/logos/logo-programming.png" width=75> | **IT Skillsets**<br><br>• Programming Languages (Bash, C, CSS, HTML, Java, JavaScript (with Express, React, React Native and Redux), Kotlin, MATLAB, Objective-C, Python, R, Swift, TypeScript)<br>• Revision Control Softwares (Git (with BitBucket and Github platforms))<br>• Machine Learning Libraries (Keras, SkyLearn)<br>• Database Systems (MySQL)<br>• Operating Systems (MacOS, Linux, Windows)<br>• Productive Softwares (Adobe Photoshop, Adobe Audition, Studio One) |
+| <img src="img/logos/logo-programming.png" width=75> | **IT Skillsets**<br><br>• Programming Languages (Bash, C, CSS, HTML, **Java**, **JavaScript** (with Express, React, React Native and Redux), Kotlin, MATLAB, Objective-C, **Python**, R, Swift, **TypeScript**)<br>• Revision Control Softwares (Git (with BitBucket and Github platforms))<br>• Machine Learning and Statistics Libraries (Keras, SkyLearn, Matplotlib, OpenCV, etc.)<br>• Database Systems (MySQL)<br>• Operating Systems (MacOS, Linux, Windows)<br>• Productive Softwares (Adobe Photoshop, Adobe Audition, Studio One) |
 | <img src="img/logos/logo-music.png" width=75> | **Interests**<br><br>• Basketball<br>• Piano<br>• Erhu<br>• Fine Arts |
 {: .table-about#table-about-without-timeline }
