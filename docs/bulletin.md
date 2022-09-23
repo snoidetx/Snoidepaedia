@@ -27,6 +27,7 @@ Below is a full list of directories and entries included in *Snoidepaedia*. Dire
   * [Modules](../nus/modules/)
     * [CS1231/S Discrete Structures](../nus/modules/cs1231/)
     * [CS3244 Machine Learning](../nus/modules/cs3244/)
+    * [FMS1218B How Come Aspirin Can Relieve My Headache?](../nus/modules/fms1218b/)
     * [MA2104 Multivariable Calculus](../nus/modules/ma2104/)
 * [Research](../research/)
   * [Identifying the Geometry of an Object Using Lock-in Thermography](../research/identifying-the-geometry/)

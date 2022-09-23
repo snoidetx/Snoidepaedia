@@ -22,8 +22,10 @@ Scientific research has been one of the favourite activities of *@snoidetx*. Whe
 * Machine Learning
 * Artificial Intelligence
 * Computation and Algorithm
+* Game Theory
+* Optimisation
 
 ### Research Interests
 
+* Collaborative Machine Learning
 * Data Valuation
-* Machine Unlearning
