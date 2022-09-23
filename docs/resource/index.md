@@ -43,6 +43,7 @@ Over the years, *@snoidetx* has been making learning materials for the courses h
 | **MA2214** | **Combinatorics and Graphs I** | • Final Examination Cheatsheet | [![](./img/icons/icon-view.png)](./pdf/NUS-MA2214-FinalExaminationCheatsheet.pdf) |
 |  |  | • Midterm Examination Cheatsheet | [![](./img/icons/icon-view.png)](./pdf/NUS-MA2214-MidtermExaminationCheatsheet.pdf) |
 | **MA3205** | **Set Theory** | • Midterm Examination Cheatsheet | [![](./img/icons/icon-view.png)](./pdf/NUS-MA3205-MidtermExaminationCheatsheet.pdf) |
+|  |  | • Midterm Examination Notes | [![](./img/icons/icon-view.png)](./pdf/NUS-MA3205-MidtermExaminationNotes.pdf) |
 | **MA3220** | **Ordinary Differential Equations** | • Midterm Examination Cheatsheet | [![](./img/icons/icon-view.png)](./pdf/NUS-MA3220-MidtermExaminationCheatsheet.pdf) |
 | **MA3236** | **Non-Linear Optimisation** | • Midterm Examination Cheatsheet | [![](./img/icons/icon-view.png)](./pdf/NUS-MA3236-MidtermExaminationCheatsheet.pdf) |
 | **MA3264** | **Mathematical Modelling** | • Quiz 1 Cheatsheet | [![](./img/icons/icon-view.png)](./pdf/NUS-MA3264-Quiz1Cheatsheet.pdf) |
