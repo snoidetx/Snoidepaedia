@@ -25,7 +25,7 @@ Note that *@snoidetx* has not graduated from NUS yet, hence the timetable below 
 |           | -       | ST2131   | MA2214  | -       |
 | **COMP**  | CS1010S | CS2040   | CS2030  | CS2103  |
 |           | CS1231  | -        | CS2100  | CS2106  |
-|           | ES1601  | ES1601   | -       | CS3230  |
+|           | ES1601  | ES1601   | IS1103  | CS3230  |
 |           | -       | -        | -       | CS3243  |
 |           | -       | -        | -       | CS3244  |
 | **GE**    | GEQ1917 | GEQ1917  | GEH1036 | GET1018 |
