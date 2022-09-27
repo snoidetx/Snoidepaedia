@@ -37,4 +37,5 @@ Below is a full list of directories and entries included in *Snoidepaedia*. Dire
 * [Teaching](../teaching/)
   * [CS2030/S Programming Methodology II](../teaching/cs2030/) 
   * [CS2040/S Data Structures and Algorithms](../teaching/cs2040/)
+  * [CS3244 Machine Learning](../teaching/cs3244/)
 * [Resource](../resource/)
