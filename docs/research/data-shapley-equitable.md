@@ -1,5 +1,6 @@
 ---
 layout: default
+nav_exclude: true
 title: Literature Review - Data Shapley: Equitable Valuation of Data for Machine Learning
 parent: Research
 ---
