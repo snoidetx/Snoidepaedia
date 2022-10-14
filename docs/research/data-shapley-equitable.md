@@ -1,11 +1,10 @@
 ---
 layout: default
-nav_exclude: true
-title: Literature Review - Data Shapley: Equitable Valuation of Data for Machine Learning
+title: Data Shapley
 parent: Research
 ---
 
-# Literature Review - Data Shapley: Equitable Valuation of Data for Machine Learning
+# [Literature Review] Data Shapley: Equitable Valuation of Data for Machine Learning
 {: .fs-9 }
 
 X. Tian. 2022.
