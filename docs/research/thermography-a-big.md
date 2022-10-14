@@ -2,6 +2,7 @@
 layout: default
 title: Thermography - A Big Data Problem (Experiments)
 parent: Research
+nav_exclude: true
 ---
 
 # Thermography - A Big Data Problem (Experiments)

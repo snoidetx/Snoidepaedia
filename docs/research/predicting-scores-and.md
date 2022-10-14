@@ -2,6 +2,7 @@
 layout: default
 title: Predicting Scores and Controversialities of Reddit Posts Using Machine Learning
 parent: Research
+nav_exclude: true
 ---
 
 # Predicting Scores and Controversialities of Reddit Posts Using Machine Learning

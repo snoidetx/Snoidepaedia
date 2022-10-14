@@ -2,6 +2,7 @@
 layout: default
 title: Data Shapley
 parent: Research
+nav_exclude: true
 ---
 
 # [Literature Review] Data Shapley: Equitable Valuation of Data for Machine Learning

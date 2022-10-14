@@ -2,6 +2,7 @@
 layout: default
 title: Identifying the Geometry of an Object Using Lock-in Thermography
 parent: Research
+nav_exclude: true
 ---
 
 # Identifying the Geometry of an Object Using Lock-in Thermography

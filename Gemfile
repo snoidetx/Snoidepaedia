@@ -10,3 +10,5 @@ gem "just-the-docs", git: "https://github.com/snoidetx/just-the-docs"
 group :jekyll_plugins do
   gem 'jekyll-remote-theme'
 end
+
+gem "webrick", "~> 1.7"

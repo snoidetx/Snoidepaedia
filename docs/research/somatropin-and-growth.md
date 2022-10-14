@@ -2,6 +2,7 @@
 layout: default
 title: Somatropin and Growth Hormone Deficiency
 parent: Research
+nav_exclude: true
 ---
 
 # Somatropin and Growth Hormone Deficiency
