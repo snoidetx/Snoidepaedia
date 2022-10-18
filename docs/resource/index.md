@@ -48,6 +48,7 @@ Over the years, *@snoidetx* has been making learning materials for the courses h
 | **MA3220** | **Ordinary Differential Equations** | • Midterm Examination Cheatsheet | [![](./img/icons/icon-view.png)](./pdf/NUS-MA3220-MidtermExaminationCheatsheet.pdf) |
 | **MA3236** | **Non-Linear Optimisation** | • Midterm Examination Cheatsheet | [![](./img/icons/icon-view.png)](./pdf/NUS-MA3236-MidtermExaminationCheatsheet.pdf) |
 | **MA3264** | **Mathematical Modelling** | • Quiz 1 Cheatsheet | [![](./img/icons/icon-view.png)](./pdf/NUS-MA3264-Quiz1Cheatsheet.pdf) |
+|  |  | • Quiz 2 Cheatsheet | [![](./img/icons/icon-view.png)](./pdf/NUS-MA3264-Quiz2Cheatsheet.pdf) |
 | **ST2131** | **Probability** | • Notes | [![](./img/icons/icon-view.png)](./pdf/NUS-ST2131-Notes.pdf) |
 | **ST3131** | **Regression Analysis** | • Final Examination Cheatsheet | [![](./img/icons/icon-view.png)](./pdf/NUS-ST3131-FinalExaminationCheatsheet.pdf) |
 |  |  | • Midterm Examination Cheatsheet | [![](./img/icons/icon-view.png)](./pdf/NUS-ST3131-MidtermExaminationCheatsheet.pdf) |
