@@ -29,3 +29,22 @@ Scientific research has been one of the favourite activities of *@snoidetx*. Whe
 
 * Collaborative Machine Learning
 * Data Valuation
+
+## Research Papers
+
+### [Predicting Scores and Controversialities of Reddit Posts Using Machine Learning](./predicting-scores-and.md)
+X. Tian, J. Fan, Z. Xin, J. Han, & B. Li · 2022 · National University of Singapore
+
+### [Somatropin and Growth Hormone Deficiency](./somatropin-and-growth.md)
+X. Tian, & J. Fan · 2021 · National University of Singapore
+
+### [Identifying the Geometry of an Object Using Lock-in Thermography](./identifying-the-geometry.md)
+X. Tian, M. Yin, & H. Goh · 2019 · ResearchGate
+
+### [Thermography - A Big Data Problem (Experiments)](./thermography-a-big.md)
+X. Tian, & H. Goh · 2019 · Agency for Science, Technology and Research
+
+## Other Materials
+
+### [[Paper Review] Data Shapley: Equitable Valuation of Data for Machine Learning](./data-shapley-equitable.md)
+X. Tian · 2022 · National University of Singapore
