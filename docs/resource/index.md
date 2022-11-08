@@ -85,7 +85,7 @@ Over the years, *@snoidetx* has been making learning materials for the courses h
 | Module | Name | Resources | View |
 | --- | --- | --- | :-: |
 | **GEQ1917** | **Understanding and Critiquing Sustainability** | • Notes | [![](./img/icons/icon-view.png)](./pdf/NUS-GEQ1917-Notes.pdf) |
-| **PC1101** | **Frontiers of Physics** | • Quiz 1 Notes | [![](./img/icons/icon-view.png)](./pdf/NUS-PC1101-Quiz1Notes.pdf) |
+| **PC1101** | **Frontiers of Physics** | • Notes | [![](./img/icons/icon-view.png)](./pdf/NUS-PC1101-Notes.pdf) |
 {: .table-resource }
 
 ---
