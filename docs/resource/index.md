@@ -48,8 +48,10 @@ Over the years, *@snoidetx* has been making learning materials for the courses h
 |  |  | • [Video] Construction of Bijective Function in Schröder–Bernstein Theorem | [![](./img/icons/icon-view.png)](https://www.youtube.com/watch?v=dQrfA29n27k) |
 | **MA3220** | **Ordinary Differential Equations** | • Midterm Examination Cheatsheet | [![](./img/icons/icon-view.png)](./pdf/NUS-MA3220-MidtermExaminationCheatsheet.pdf) |
 | **MA3236** | **Non-Linear Optimisation** | • Midterm Examination Cheatsheet | [![](./img/icons/icon-view.png)](./pdf/NUS-MA3236-MidtermExaminationCheatsheet.pdf) |
+|  |  | • Final Examination Cheatsheet | [![](./img/icons/icon-view.png)](./pdf/NUS-MA3236-FinalExaminationCheatsheet.pdf) |
 | **MA3264** | **Mathematical Modelling** | • Quiz 1 Cheatsheet | [![](./img/icons/icon-view.png)](./pdf/NUS-MA3264-Quiz1Cheatsheet.pdf) |
 |  |  | • Quiz 2 Cheatsheet | [![](./img/icons/icon-view.png)](./pdf/NUS-MA3264-Quiz2Cheatsheet.pdf) |
+|  |  | • Final Examination Cheatsheet | [![](./img/icons/icon-view.png)](./pdf/NUS-MA3264-FinalExaminationCheatsheet.pdf) |
 | **ST2131** | **Probability** | • Notes | [![](./img/icons/icon-view.png)](./pdf/NUS-ST2131-Notes.pdf) |
 | **ST3131** | **Regression Analysis** | • Final Examination Cheatsheet | [![](./img/icons/icon-view.png)](./pdf/NUS-ST3131-FinalExaminationCheatsheet.pdf) |
 |  |  | • Midterm Examination Cheatsheet | [![](./img/icons/icon-view.png)](./pdf/NUS-ST3131-MidtermExaminationCheatsheet.pdf) |
