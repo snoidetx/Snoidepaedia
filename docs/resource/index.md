@@ -42,7 +42,8 @@ Over the years, *@snoidetx* has been making learning materials for the courses h
 | **MA2213** | **Numerical Analysis I** | • Final Examination Cheatsheet | [![](./img/icons/icon-view.png)](./pdf/NUS-MA2213-FinalExaminationCheatsheet.pdf) |
 | **MA2214** | **Combinatorics and Graphs I** | • Final Examination Cheatsheet | [![](./img/icons/icon-view.png)](./pdf/NUS-MA2214-FinalExaminationCheatsheet.pdf) |
 |  |  | • Midterm Examination Cheatsheet | [![](./img/icons/icon-view.png)](./pdf/NUS-MA2214-MidtermExaminationCheatsheet.pdf) |
-| **MA3205** | **Set Theory** | • Midterm Examination 1 Cheatsheet | [![](./img/icons/icon-view.png)](./pdf/NUS-MA3205-MidtermExamination1Cheatsheet.pdf) |
+| **MA3205** | **Set Theory** | • Final Examination Cheatsheet | [![](./img/icons/icon-view.png)](./pdf/NUS-MA3205-FinalExaminationCheatsheet.pdf) |
+|  |  | • Midterm Examination 1 Cheatsheet | [![](./img/icons/icon-view.png)](./pdf/NUS-MA3205-MidtermExamination1Cheatsheet.pdf) |
 |  |  | • Midterm Examination 1 Notes | [![](./img/icons/icon-view.png)](./pdf/NUS-MA3205-MidtermExamination1Notes.pdf) |
 |  |  | • Midterm Examination 2 Cheatsheet | [![](./img/icons/icon-view.png)](./pdf/NUS-MA3205-MidtermExamination2Cheatsheet.pdf) |
 |  |  | • [Video] Construction of Bijective Function in Schröder–Bernstein Theorem | [![](./img/icons/icon-view.png)](https://www.youtube.com/watch?v=dQrfA29n27k) |
