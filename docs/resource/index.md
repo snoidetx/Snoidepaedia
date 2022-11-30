@@ -47,7 +47,8 @@ Over the years, *@snoidetx* has been making learning materials for the courses h
 |  |  | • Midterm Examination 1 Notes | [![](./img/icons/icon-view.png)](./pdf/NUS-MA3205-MidtermExamination1Notes.pdf) |
 |  |  | • Midterm Examination 2 Cheatsheet | [![](./img/icons/icon-view.png)](./pdf/NUS-MA3205-MidtermExamination2Cheatsheet.pdf) |
 |  |  | • [Video] Construction of Bijective Function in Schröder–Bernstein Theorem | [![](./img/icons/icon-view.png)](https://www.youtube.com/watch?v=dQrfA29n27k) |
-| **MA3220** | **Ordinary Differential Equations** | • Midterm Examination Cheatsheet | [![](./img/icons/icon-view.png)](./pdf/NUS-MA3220-MidtermExaminationCheatsheet.pdf) |
+| **MA3220** | **Ordinary Differential Equations** | • Final Examination Cheatsheet | [![](./img/icons/icon-view.png)](./pdf/NUS-MA3220-FinalExaminationCheatsheet.pdf) |
+|  |  | • Midterm Examination Cheatsheet | [![](./img/icons/icon-view.png)](./pdf/NUS-MA3220-MidtermExaminationCheatsheet.pdf) |
 | **MA3236** | **Non-Linear Optimisation** | • Midterm Examination Cheatsheet | [![](./img/icons/icon-view.png)](./pdf/NUS-MA3236-MidtermExaminationCheatsheet.pdf) |
 |  |  | • Final Examination Cheatsheet | [![](./img/icons/icon-view.png)](./pdf/NUS-MA3236-FinalExaminationCheatsheet.pdf) |
 | **MA3264** | **Mathematical Modelling** | • Quiz 1 Cheatsheet | [![](./img/icons/icon-view.png)](./pdf/NUS-MA3264-Quiz1Cheatsheet.pdf) |
