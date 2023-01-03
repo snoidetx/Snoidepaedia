@@ -15,7 +15,7 @@ A record of *@snoidetx*'s performance in NUS.
 
 Note that *@snoidetx* has not graduated from NUS yet, hence the transcript below is not complete and is an **unofficial** version. For request of official transcript, please approach *@snoidetx* in person.
 
-This version of transcript is uploaded on 21/06/2022.
+This version of transcript is uploaded on 03/01/2023.
 
 ![](../img/transcript-1.png)
 
