@@ -20,10 +20,10 @@ Over the years, *@snoidetx* has been making learning materials for the courses h
 
 ## Module Forecast
 ```
-- MA3205 Set Theory
-- MA3220 Ordinary Differential Equations
-- MA3236 Non-Linear Programming
-- MA3264 Mathematical Modelling
+- CS3236 Introduction to Information Theory
+- CS5340 Uncertainty Modellling in AI
+- MA4207 Mathematical Logic
+- MA4229 Fourier Analysis and Approximation
 ```
 
 ---

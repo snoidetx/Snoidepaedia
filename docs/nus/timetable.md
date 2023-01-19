@@ -36,11 +36,12 @@ Note that *@snoidetx* has not graduated from NUS yet, hence the timetable below 
 
 | Semester | AY2022/23 Semester 1 | AY2022/23 Semester 2 | AY2023/24 Semester 1 | AY2023/24 Semester 2|
 | :------:  | :-----: | :------: | :-----: | :-----: |
-| **SCI** | MA3205 |  |  |  |
-|  | MA3220 |  |  |  |
-|  | MA3236 |  |  |  |
-|  | MA3264 |  |  |  |
-|  | PC1101 |  |  |  |
-| **COMP** | CS2309 |  |  |  |
-|  | CS3209 |  |  |  |
-| **Total** | **28 MC** | **0 MC** | **0 MC** | **0 MC** |
+| **SCI** | MA3205 | MA4207 |  |  |
+|  | MA3220 | MA4229 |  |  |
+|  | MA3236 | - |  |  |
+|  | MA3264 | - |  |  |
+|  | PC1101 | - |  |  |
+| **COMP** | CP3209 | CP3209 |  |  |
+|  | CS2309 | CS3236 |  |  |
+|  | - | CS5340 | | |
+| **Total** | **28 MC** | **20 MC** | **0 MC** | **0 MC** |
