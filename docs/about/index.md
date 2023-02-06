@@ -2,6 +2,7 @@
 layout: default
 title: About @snoidetx
 nav_order: 3
+has_children: true
 ---
 
 # About Me
