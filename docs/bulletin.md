@@ -19,6 +19,7 @@ Below is a full list of directories and entries included in *Snoidepaedia*. Dire
 
 * [Home](../)
 * [About *@snoidetx*](../about/)
+  * [Schedule](../about/schedule/)
 * [Blog](../blog/)
 * [Education](../nus/)
   * [Timetable](../nus/timetable/)
