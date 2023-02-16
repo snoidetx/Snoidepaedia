@@ -83,7 +83,7 @@ Over the years, *@snoidetx* has been making learning materials for the courses h
 |  |  | • Midterm Examination Cheatsheet | [![](./img/icons/icon-view.png)](./pdf/NUS-CS3243-MidtermExaminationCheatsheet.pdf) |
 | **CS3244** | **Machine Learning** | • Final Examination Cheatsheet | [![](./img/icons/icon-view.png)](./pdf/NUS-CS3244-FinalExaminationCheatsheet.pdf) |
 |  |  | • Midterm Examination Cheatsheet | [![](./img/icons/icon-view.png)](./pdf/NUS-CS3244-MidtermExaminationCheatsheet.pdf) |
-| **CS5340** | **Machine Learning** | • Quiz 1 Notes | [![](./img/icons/icon-view.png)](./pdf/NUS-CS5340-Quiz1Notes.pdf) |
+| **CS5340** | **Uncertainty Modelling in AI** | • Quiz 1 Notes | [![](./img/icons/icon-view.png)](./pdf/NUS-CS5340-Quiz1Notes.pdf) |
 {: .table-resource }
 
 ## Others
