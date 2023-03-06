@@ -46,7 +46,6 @@ Over the years, *@snoidetx* has been making learning materials for the courses h
 |  |  | • Midterm Examination 1 Cheatsheet | [![](./img/icons/icon-view.png)](./pdf/NUS-MA3205-MidtermExamination1Cheatsheet.pdf) |
 |  |  | • Midterm Examination 1 Notes | [![](./img/icons/icon-view.png)](./pdf/NUS-MA3205-MidtermExamination1Notes.pdf) |
 |  |  | • Midterm Examination 2 Cheatsheet | [![](./img/icons/icon-view.png)](./pdf/NUS-MA3205-MidtermExamination2Cheatsheet.pdf) |
-|  |  | • [Video] Construction of Bijective Function in Schröder–Bernstein Theorem | [![](./img/icons/icon-view.png)](https://www.youtube.com/watch?v=dQrfA29n27k) |
 | **MA3220** | **Ordinary Differential Equations** | • Final Examination Cheatsheet | [![](./img/icons/icon-view.png)](./pdf/NUS-MA3220-FinalExaminationCheatsheet.pdf) |
 |  |  | • Midterm Examination Cheatsheet | [![](./img/icons/icon-view.png)](./pdf/NUS-MA3220-MidtermExaminationCheatsheet.pdf) |
 | **MA3236** | **Non-Linear Optimisation** | • Midterm Examination Cheatsheet | [![](./img/icons/icon-view.png)](./pdf/NUS-MA3236-MidtermExaminationCheatsheet.pdf) |
@@ -54,6 +53,7 @@ Over the years, *@snoidetx* has been making learning materials for the courses h
 | **MA3264** | **Mathematical Modelling** | • Quiz 1 Cheatsheet | [![](./img/icons/icon-view.png)](./pdf/NUS-MA3264-Quiz1Cheatsheet.pdf) |
 |  |  | • Quiz 2 Cheatsheet | [![](./img/icons/icon-view.png)](./pdf/NUS-MA3264-Quiz2Cheatsheet.pdf) |
 |  |  | • Final Examination Cheatsheet | [![](./img/icons/icon-view.png)](./pdf/NUS-MA3264-FinalExaminationCheatsheet.pdf) |
+| **MA4207** | ***Mathematical Logic** | • Midterm Examination Cheatsheet | [![](./img/icons/icon-view.png)](./pdf/NUS-MA4207-MidtermExaminationCheatsheet.pdf) |
 | **MA4229** | **Fourier Analysis and Approximation** | • Quiz 1 Cheatsheet | [![](./img/icons/icon-view.png)](./pdf/NUS-MA4229-Quiz1Cheatsheet.pdf) |
 | **ST2131** | **Probability** | • Notes | [![](./img/icons/icon-view.png)](./pdf/NUS-ST2131-Notes.pdf) |
 | **ST3131** | **Regression Analysis** | • Final Examination Cheatsheet | [![](./img/icons/icon-view.png)](./pdf/NUS-ST3131-FinalExaminationCheatsheet.pdf) |
