@@ -53,8 +53,8 @@ Over the years, *@snoidetx* has been making learning materials for the courses h
 | **MA3264** | **Mathematical Modelling** | • Quiz 1 Helpsheet | [![](./img/icons/icon-view.png)](./pdf/NUS-MA3264-Quiz1Helpsheet.pdf) |
 |  |  | • Quiz 2 Helpsheet | [![](./img/icons/icon-view.png)](./pdf/NUS-MA3264-Quiz2Helpsheet.pdf) |
 |  |  | • Final Examination Helpsheet | [![](./img/icons/icon-view.png)](./pdf/NUS-MA3264-FinalExaminationHelpsheet.pdf) |
-| **MA4207** | ***Mathematical Logic** | • Midterm Examination Helpsheet | [![](./img/icons/icon-view.png)](./pdf/NUS-MA4207-MidtermExaminationHelpsheet.pdf) |
-| **MA4229** | **Fourier Analysis and Approximation** | • Midterm Examination Helpsheet | [![](./img/icons/icon-view.png)](./pdf/NUS-MA4229-Quiz1Helpsheet.pdf) |
+| **MA4207** | **Mathematical Logic** | • Midterm Examination Helpsheet | [![](./img/icons/icon-view.png)](./pdf/NUS-MA4207-MidtermExaminationHelpsheet.pdf) |
+| **MA4229** | **Fourier Analysis and Approximation** | • Midterm Examination Helpsheet | [![](./img/icons/icon-view.png)](./pdf/NUS-MA4229-MidtermExaminationHelpsheet.pdf) |
 | **ST2131** | **Probability** | • Notes | [![](./img/icons/icon-view.png)](./pdf/NUS-ST2131-Notes.pdf) |
 | **ST3131** | **Regression Analysis** | • Final Examination Helpsheet | [![](./img/icons/icon-view.png)](./pdf/NUS-ST3131-FinalExaminationHelpsheet.pdf) |
 |  |  | • Midterm Examination Helpsheet | [![](./img/icons/icon-view.png)](./pdf/NUS-ST3131-MidtermExaminationHelpsheet.pdf) |
