@@ -21,8 +21,6 @@ Over the years, *@snoidetx* has been making learning materials for the courses h
 ## Module Forecast
 ```
 - CS3236 Introduction to Information Theory
-- CS5340 Uncertainty Modellling in AI
-- MA4207 Mathematical Logic
 - MA4229 Fourier Analysis and Approximation
 ```
 
@@ -54,6 +52,7 @@ Over the years, *@snoidetx* has been making learning materials for the courses h
 |  |  | • Quiz 2 Helpsheet | [![](./img/icons/icon-view.png)](./pdf/NUS-MA3264-Quiz2Helpsheet.pdf) |
 |  |  | • Final Examination Helpsheet | [![](./img/icons/icon-view.png)](./pdf/NUS-MA3264-FinalExaminationHelpsheet.pdf) |
 | **MA4207** | **Mathematical Logic** | • Midterm Examination Helpsheet | [![](./img/icons/icon-view.png)](./pdf/NUS-MA4207-MidtermExaminationHelpsheet.pdf) |
+|  |  | • Final Examination Helpsheet | [![](./img/icons/icon-view.png)](./pdf/NUS-MA4207-FinalExaminationHelpsheet.pdf) |
 | **MA4229** | **Fourier Analysis and Approximation** | • Midterm Examination Helpsheet | [![](./img/icons/icon-view.png)](./pdf/NUS-MA4229-MidtermExaminationHelpsheet.pdf) |
 | **ST2131** | **Probability** | • Notes | [![](./img/icons/icon-view.png)](./pdf/NUS-ST2131-Notes.pdf) |
 | **ST3131** | **Regression Analysis** | • Final Examination Helpsheet | [![](./img/icons/icon-view.png)](./pdf/NUS-ST3131-FinalExaminationHelpsheet.pdf) |
@@ -85,6 +84,7 @@ Over the years, *@snoidetx* has been making learning materials for the courses h
 | **CS3244** | **Machine Learning** | • Final Examination Helpsheet | [![](./img/icons/icon-view.png)](./pdf/NUS-CS3244-FinalExaminationHelpsheet.pdf) |
 |  |  | • Midterm Examination Helpsheet | [![](./img/icons/icon-view.png)](./pdf/NUS-CS3244-MidtermExaminationHelpsheet.pdf) |
 | **CS5340** | **Uncertainty Modelling in AI** | • Quiz 1 Notes | [![](./img/icons/icon-view.png)](./pdf/NUS-CS5340-Quiz1Notes.pdf) |
+|  |  | • Quiz 2 Notes | [![](./img/icons/icon-view.png)](./pdf/NUS-CS5340-Quiz2Notes.pdf) |
 {: .table-resource }
 
 ## Others
