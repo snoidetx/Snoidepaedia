@@ -84,7 +84,7 @@ Portfolio of Tian Xiao *@snoidetx*
 | <img src="img/timeline-end.png" width="150%" height="100%"> | **Student Director**<br>Jan 2016 - Jun 2017<br>CCA · 1 yr 6 mos<br><br>• Directed drama shows and supervised script-writing, trainings and performances.<br>• Consulted with Director, actors and 5 assisting units and was awarded a Certification of Distinction at Singapore Youth Festival 2017 Arts Presentation For Chinese Orchestra (Full Orchestra) - Secondary School. |
 {: .table-about }
 
-| <img src="img/logos/logo-neyc.png" width=75> | NEYC Chinese Drama |
+| <img src="img/logos/logo-neyc.png" width=75> | NEYC Chinese Orchestra |
 | :-: | --- |
 | <img src="img/timeline-end.png" width="150%" height="100%"> | **Performer**<br>Sep 2012 - Jun 2015<br>CCA · 2 yr 10 mos<br><br>• Played Erhu and participated in school concerts.<br>• Travelled to Taiwan with the whole orchestra and went through musical exchange with local schools. |
 {: .table-about }

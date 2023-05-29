@@ -79,6 +79,7 @@ Over the years, *@snoidetx* has been making learning materials for the courses h
 | **CS3230** | **Design and Analysis of Algorithms** | • Final Examination Helpsheet | [![](./img/icons/icon-view.png)](./pdf/NUS-CS3230-FinalExaminationHelpsheet.pdf) |
 |  |  | • Midterm Examination Helpsheet | [![](./img/icons/icon-view.png)](./pdf/NUS-CS3230-MidtermExaminationHelpsheet.pdf) |
 | **CS3236** | **Introduction to Information Theory** | • Midterm Examination Helpsheet | [![](./img/icons/icon-view.png)](./pdf/NUS-CS3236-MidtermExaminationHelpsheet.pdf) |
+|  |  | • Final Examination Helpsheet | [![](./img/icons/icon-view.png)](./pdf/NUS-CS3236-FinalExaminationHelpsheet.pdf) |
 | **CS3243** | **Introduction to Artificial Intelligence** | • Final Examination Helpsheet | [![](./img/icons/icon-view.png)](./pdf/NUS-CS3243-FinalExaminationHelpsheet.pdf) |
 |  |  | • Midterm Examination Helpsheet | [![](./img/icons/icon-view.png)](./pdf/NUS-CS3243-MidtermExaminationHelpsheet.pdf) |
 | **CS3244** | **Machine Learning** | • Final Examination Helpsheet | [![](./img/icons/icon-view.png)](./pdf/NUS-CS3244-FinalExaminationHelpsheet.pdf) |
