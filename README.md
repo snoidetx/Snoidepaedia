@@ -1,6 +1,6 @@
 # Snoídepaedia
 
-*[Snoídepaedia](https://snoidetx.github.io/Snoidepaedia/)* is an online ducumentation website of [***@snoidetx***](https://github.com/snoidetx). It is hosted on [**GitHub Pages**](https://pages.github.com/), and uses the [**Just The Docs**](https://github.com/just-the-docs/just-the-docs) theme.
+*[Snoídepaedia](https://snoidetx.github.io/Snoidepaedia/)* is an online ducumentation website of [*@snoidetx*](https://github.com/snoidetx). It is hosted on [**GitHub Pages**](https://pages.github.com/), and uses the [**Just The Docs**](https://github.com/just-the-docs/just-the-docs) theme.
 
 ## How to view
 
