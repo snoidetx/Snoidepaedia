@@ -2,7 +2,7 @@
 layout: default
 title: Research
 nav_order: 6
-has_children: true
+has_children: false
 ---
 
 # Research
@@ -29,6 +29,15 @@ Scientific research has been one of the favourite activities of *@snoidetx*. Whe
 
 * Collaborative Machine Learning
 * Data Valuation
+
+### Publications
+
+##### [Identifying the Geometry of an Object Using Lock-In Thermography](./identifying-the-geometry) 
+<sup>X. Tian, M. Yin, & H. Goh · 2019 · arXiv</sup>
+
+### Projects
+
+Please refer to *@snoidetx*'s [LinkedIn page](https://www.linkedin.com/in/snoidetx/details/projects/).
 
 <!--
 

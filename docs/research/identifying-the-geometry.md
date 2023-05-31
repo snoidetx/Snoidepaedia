@@ -5,13 +5,13 @@ parent: Research
 nav_exclude: true
 ---
 
-# Identifying the Geometry of an Object Using Lock-in Thermography
+# Identifying the Geometry of an Object Using Lock-In Thermography
 {: .fs-9 }
 
 X. Tian, M. Yin, & H. Goh. 2019.
 {: .fs-6 .fw-300 }
 
-[View Full Text](../pdf/identifying-the-geometry-of-an-object-using-lock-in-thermography.pdf){: .btn .btn-purple}
+[View on Source](https://arxiv.org/abs/1903.02854){: .btn .btn-purple}
 
 ---
 

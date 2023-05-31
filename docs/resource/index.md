@@ -12,15 +12,15 @@ Produced by *@snoidetx*.
 
 ---
 
-Over the years, *@snoidetx* has been making learning materials for the courses he took and taught, including helpsheets, notes, mindmaps, etc., to help both others and himself. He has collated all the resource and put them here. You can also find the resource for each module under `Education - Modules - { ModuleName }`. Enjoy!
+Over the years, *@snoidetx* has been making learning materials for the courses he took and taught, including helpsheets, notes, mindmaps, etc., to help both others and himself. He has collated all the resource and put them here. Enjoy!
 
-**Note: Some of the resources are generated from LaTeX and not available for printing. Please convert them to printable format for printing purpose.**
+**Note: Some of the resources are generated from LaTeX and not available for printing. Please convert them to printable format (e.g. screenshot) for printing purpose.**
 
 ---
 
 ## Module Forecast
 ```
-- CS3236 Introduction to Information Theory
+N.A.
 ```
 
 ---

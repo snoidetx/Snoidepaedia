@@ -4,10 +4,10 @@ title: Home
 nav_order: 1
 ---
 
-# Snoidepaedia
+# Snoídepaedia
 {: .fs-9 }
 
-Everything of @snoidetx.
+Everything related to @snoidetx.
 {: .fs-6 .fw-300 }
 
 [&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bulletin&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;](./bulletin/){: .btn .btn-purple} &nbsp; &nbsp; [About *@snoidetx*](./about/){: .btn}
@@ -16,7 +16,7 @@ Everything of @snoidetx.
 
 ## Get Started
 
-***[Snoidepaedia](./)*** is an online documentation archive of *[@snoidetx](./about/)*. Click on the **Bulletin** button to start browsing through all entries stored in *Snoidepaedia*. Click on the **About *@snoidetx*** button to know more about the author. Enjoy your journey!
+*[Snoídepaedia](./)* is an online documentation website of *[@snoidetx](./about/)*. Click on the **Bulletin** button to start browsing through all entries stored in *Snoídepaedia*. Click on the **About *@snoidetx*** button to know more about the author. Enjoy your journey!
 
 ### Notations
 
@@ -27,7 +27,7 @@ Everything of @snoidetx.
 
 ### Where is *snoidetx.github.io*?
 
-The former *snoidetx.github.io* has been depreciated since 21/06/2022. However, in memory of its contributions, now you can view an archived version of the former *snoidetx.github.io* by this link: [snoidetx.github.io/archive/](https://snoidetx.github.io/archive/).
+The former *snoidetx.github.io* has been depreciated since 21/06/2022. However, in memory of its contributions, now you can view an archived version of the former *snoidetx.github.io* through this link: [snoidetx.github.io/archive/](https://snoidetx.github.io/archive/).
 
 ## Highlights
 
