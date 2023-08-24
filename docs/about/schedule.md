@@ -15,5 +15,4 @@ parent: About @snoidetx
 
 Please refer to the calendar below for *@snoidetx*'s personal schedule.
 
-<iframe src="https://calendar.google.com/calendar/embed?src=tianxiaos1202%40gmail.com&ctz=Asia%2FSingapore" style="border: 0" width="100%" height="600" frameborder="0" scrolling="no"></iframe>
-
+<iframe src="https://calendar.google.com/calendar/embed?src=snoidetx%40gmail.com&ctz=Asia%2FSingapore" style="border: 0" width="100%" height="600" frameborder="0" scrolling="no"></iframe>
