@@ -1,18 +1,26 @@
 ---
 layout: default
-title: Timetable
+title: Exchange
 nav_order: 1
 parent: Education
 ---
 
-# Timetable
+# Exchange
 {: .fs-9 }
 
-*@snoidetx*'s NUS schedule.
+Life in Japan.
 {: .fs-6 .fw-300 }
-
-[View in Google Sheets](https://docs.google.com/spreadsheets/d/1IpqoDesgajQGZhBb92R3FE97-x84DLLb9dFpP-f8KUg/edit?usp=sharing){: .btn .btn-purple}
 
 ---
 
-Note that *@snoidetx* has not graduated from NUS yet, hence the timetable below is a combination of *@snoidetx*'s undertaken modules and his academic plan. 
+In AY2023/24 Semester 1, *@snoidetx* went for a **Student Exchange Programme** (SEP) to Tokyo Institute of Technology (Tokyo Tech, Japanese: 東京工業大学), which composes his 5-month life in Japan. Here is a list of courses he took (temporarily):
+
+* ART.T466 3D Computer Vision
+* CVE.G402 Environmental Statistics
+* GEG.T414 Linear Wave Theory and Simulation
+* LAJ.J411 Basic Japanese 1
+* MCS.T405 Theory of Algorithms
+* SCE.A405 Inverse Problems and Data Assimilation
+* SCE.I435 Visual and Knowledge Information Processing
+
+*@snoidetx* stayed at Shofu Dormitory in Aobadai, a nice and quiet place.

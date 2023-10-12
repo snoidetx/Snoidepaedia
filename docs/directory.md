@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Bulletin
+title: Directory
 nav_order: 2
 has_children: false
 ---
