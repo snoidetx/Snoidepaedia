@@ -5,22 +5,23 @@ nav_order: 2
 has_children: false
 ---
 
-# Bulletin
+# Directory
 {: .fs-9 }
 
-An exhaustive list of directories.
+An exhaustive list of entries.
 {: .fs-6 .fw-300 }
 
 ---
 
 ## Get Started
 
-Below is a full list of directories and entries included in *Snoidepaedia*. Directories and sub-directories are differentiated via indentation. You can also use the **Search** function at the top to navigate to your desired pages.
+Below is a full list of entries included in *Snoidepaedia*. Directories and sub-directories are differentiated via indentation. You can also use the **Search** function at the top to navigate to your desired pages.
 
 * [Home](../)
 * [About *@snoidetx*](../about/)
   * [Schedule](../about/schedule/)
 * [Education](../nus/)
+  * [Exchange](../nus/exchange)
   * [Timetable](../nus/timetable/)
   * [Transcript](../nus/transcript/)
 * [Research](../research/)
