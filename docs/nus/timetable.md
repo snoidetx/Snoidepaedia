@@ -5,7 +5,7 @@ nav_order: 1
 parent: Education
 ---
 
-# Timetable
+# Academic Schedule
 {: .fs-9 }
 
 *@snoidetx*'s NUS schedule.
