@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Exchange
-nav_order: 1
+nav_order: 3
 parent: Education
 ---
 
@@ -16,7 +16,6 @@ Life in Japan.
 In AY2023/24 Semester 1, *@snoidetx* went for a **Student Exchange Programme** (SEP) to Tokyo Institute of Technology (Tokyo Tech, Japanese: 東京工業大学), which composes his 5-month life in Japan. Here is a list of courses he took (temporarily):
 
 * ART.T466 3D Computer Vision
-* CVE.G402 Environmental Statistics
 * GEG.T414 Linear Wave Theory and Simulation
 * LAJ.J411 Basic Japanese 1
 * MCS.T405 Theory of Algorithms

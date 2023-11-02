@@ -15,15 +15,15 @@ An exhaustive list of entries.
 
 ## Get Started
 
-Below is a full list of entries included in *Snoidepaedia*. Directories and sub-directories are differentiated via indentation. You can also use the **Search** function at the top to navigate to your desired pages.
+Below is a full list of entries included in *Snoidepaedia*. Entries and sub-entries are differentiated via indentation. You can also use the **Search** function at the top to navigate to your desired pages.
 
 * [Home](../)
 * [About *@snoidetx*](../about/)
   * [Schedule](../about/schedule/)
 * [Education](../nus/)
-  * [Exchange](../nus/exchange)
-  * [Timetable](../nus/timetable/)
+  * [Academic Schedule](../nus/timetable/)
   * [Transcript](../nus/transcript/)
+  * [Exchange](../nus/exchange)
 * [Research](../research/)
 * [Teaching](../teaching/)
   * [CS2030/S Programming Methodology II](../teaching/cs2030/) 
