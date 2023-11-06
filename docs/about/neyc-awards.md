@@ -7,7 +7,7 @@ nav_exclude: true
 # Awards and Honours in Junior High School
 {: .fs-9 }
 
-NEYC
+NEYC.
 {: .fs-6 .fw-300 }
 
 ---

@@ -1,21 +1,19 @@
 ---
 layout: default
-title: Timetable
+title: Academic Plan
 nav_order: 1
 parent: Education
 ---
 
-# Academic Schedule
+# Academic Plan
 {: .fs-9 }
 
 *@snoidetx*'s NUS schedule.
 {: .fs-6 .fw-300 }
 
-[View in Google Sheets](https://docs.google.com/spreadsheets/d/1IpqoDesgajQGZhBb92R3FE97-x84DLLb9dFpP-f8KUg/edit?usp=sharing){: .btn .btn-purple}
+[View in Google Sheets](https://docs.google.com/spreadsheets/d/1t5A2k4gFv_IYc4teYlm2Lii0fDRE_2yDAPmqYK4nIes/edit?usp=sharing){: .btn .btn-purple}
 
----
-
-Note that *@snoidetx* has not graduated from NUS yet, hence the timetable below is a combination of *@snoidetx*'s undertaken modules and his academic plan. 
+--- 
 
 | Semester | AY2020/21 Semester 1 | AY2020/21 Semester 2 | AY2021/22 Semester 1 | AY2021/22 Semester 2|
 | :------:  | :-----: | :------: | :-----: | :-----: |
@@ -34,7 +32,7 @@ Note that *@snoidetx* has not graduated from NUS yet, hence the timetable below 
 |           | WR1401  | WR1401   | -       | -       |
 | **Total** | **22 MCs** | **28 MCs** | **32 MCs** | **28 MCs** |
 
-| Semester | AY2022/23 Semester 1 | AY2022/23 Semester 2 | AY2023/24 Semester 1 | AY2023/24 Semester 2|
+| Semester | AY2022/23 Semester 1 | AY2022/23 Semester 2 | AY2023/24 Semester 2 | AY2024/25 Semester 1|
 | :------:  | :-----: | :------: | :-----: | :-----: |
 | **SCI** | MA3205 | MA4207 |  |  |
 |  | MA3220 | MA4229 |  |  |
@@ -44,4 +42,4 @@ Note that *@snoidetx* has not graduated from NUS yet, hence the timetable below 
 | **COMP** | CP3209 | CP3209 |  |  |
 |  | CS2309 | CS3236 |  |  |
 |  | - | CS5340 | | |
-| **Total** | **28 MC** | **20 MC** | **0 MC** | **0 MC** |
+| **Total** | **28 MCs** | **20 MCs** | **0 MC** | **0 MC** |

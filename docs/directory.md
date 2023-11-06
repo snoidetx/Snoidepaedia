@@ -13,7 +13,7 @@ An exhaustive list of entries.
 
 ---
 
-## Get Started
+## Getting Started
 
 Below is a full list of entries included in *Snoidepaedia*. Entries and sub-entries are differentiated via indentation. You can also use the **Search** function at the top to navigate to your desired pages.
 
@@ -21,7 +21,7 @@ Below is a full list of entries included in *Snoidepaedia*. Entries and sub-entr
 * [About *@snoidetx*](../about/)
   * [Schedule](../about/schedule/)
 * [Education](../nus/)
-  * [Academic Schedule](../nus/timetable/)
+  * [Academic Plan](../nus/timetable/)
   * [Transcript](../nus/transcript/)
   * [Exchange](../nus/exchange)
 * [Research](../research/)

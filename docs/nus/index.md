@@ -15,7 +15,7 @@ Singapore. NUS.
 
 ## Overview
 
-The **Education** section and its sub-sections mainly contain information and documentations about *@snoidetx*'s experience in **National University of Singapore** (NUS), including his timeline in NUS, information about modules taken, etc. For information about *@snoidetx*'s education background, please take a look at [**Education Background**](#education-background) below.
+The **Education** section and its sub-sections mainly contain information and documentations about *@snoidetx*'s experience at **National University of Singapore** (NUS), including his academic plan, transcript, etc. For information about *@snoidetx*'s education background, please take a look at the **Education Background** section below.
 
 ## Education Background
 ### Primary and Lower Secondary Education
@@ -50,7 +50,7 @@ In 2018, *@snoidetx* was admitted into **Singapore National Junior College** (NJ
 Beyond curricular, *@snoidetx* also served as Section Leader of NJC Chinese Orchestra and Guzheng Ensemble (Bowed String Section) and Member of NJC Mathematics Society.
 
 ### Tertiary Education
-In 2020, *@snoidetx* joined **National University of Singapore** (NUS, Chinese: 新加坡国立大学) as an undergraduate, and was granted Science & Technology Undergraduate Merit Scholarship. He was admitted into **Double Degree Programme in Applied Mathematics and Computer Science**, where he took the two courses concurrently. He was also in the **Ridge View Residential College Programme**, a distinct two-year living-and-learning experience focused on sustainability and experiential and outdoor learning<sup>[1](#references)</sup>.
+In 2020, *@snoidetx* joined **National University of Singapore** (NUS, Chinese: 新加坡国立大学) as an undergraduate, and was granted Science & Technology Undergraduate Merit Scholarship (S&T). He was admitted into **Double Degree Programme in Applied Mathematics and Computer Science**, where he took the two degrees concurrently. He was also in the **Ridge View Residential College Programme**, a distinct two-year living-and-learning experience focused on sustainability and experiential and outdoor learning<sup>[1](#references)</sup>.
 
 ---
 
