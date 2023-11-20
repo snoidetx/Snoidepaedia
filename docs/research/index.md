@@ -11,6 +11,8 @@ has_children: false
 Explore. Adventure.
 {: .fs-6 .fw-300 }
 
+[&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Google Scholar&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;](https://scholar.google.com/citations?user=FdGSDcQAAAAJ&hl=en){: .btn .btn-purple} &nbsp; &nbsp; [&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GitHub&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;](https://github.com/snoidetx){: .btn}
+
 ---
 
 ## Overview
