@@ -93,6 +93,7 @@ N.A.
 | Module | Name | Resources | View |
 | --- | --- | --- | :-: |
 | **GEQ1917** | **Understanding and Critiquing Sustainability** | • Notes | [![](./img/icons/icon-view.png)](./pdf/NUS-GEQ1917-Notes.pdf) |
+| **LAJ.J401** | **Basic Japanese 1** | • Notes | [![](./img/icons/icon-view.png)](./pdf/TITech-LAJJ401-Notes.pdf) |
 | **PC1101** | **Frontiers of Physics** | • Notes | [![](./img/icons/icon-view.png)](./pdf/NUS-PC1101-Notes.pdf) |
 {: .table-resource }
 
