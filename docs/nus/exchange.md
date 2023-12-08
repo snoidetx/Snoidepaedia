@@ -13,13 +13,15 @@ Life in Japan.
 
 ---
 
-In AY2023/24 Semester 1, *@snoidetx* went for a **Student Exchange Programme**<sup>[?](https://www.science.nus.edu.sg/undergraduates/study-abroad-programmes/outgoing/student-exchange-programme-sep/)</sup> (SEP) to **Tokyo Institute of Technology** (Tokyo Tech, Japanese: 東京工業大学), which composes his 5-month life in Japan. Here is a list of courses he took (temporarily):
+In AY2023/24 Semester 1, *@snoidetx* was enrolled in **Tokyo Institute of Technology** (Tokyo Tech, Japanese: 東京工業大学) as his **Student Exchange Programme**<sup>[?](https://www.science.nus.edu.sg/undergraduates/study-abroad-programmes/outgoing/student-exchange-programme-sep/)</sup> (SEP), which composes his 5-month life in Japan. Here is a list of courses he took:
 
 * ART.T466 3D Computer Vision
 * GEG.T414 Linear Wave Theory and Simulation
-* LAJ.J411 Basic Japanese 1
+* LAJ.J401 Basic Japanese 1
+* LAJ.J412 Basic Japanese 2
 * MCS.T405 Theory of Algorithms
+* SCE.A402 Advanced Course of Sensing System Theory
 * SCE.A405 Inverse Problems and Data Assimilation
 * SCE.I435 Visual and Knowledge Information Processing
 
-*@snoidetx* stayed at Shofu Dormitory in Aobadai, a nice and quiet place.
+*@snoidetx* stayed at Shofu Dormitory in Aobadai, Yokohama.

@@ -20,7 +20,9 @@ Over the years, *@snoidetx* has been making learning materials for the courses h
 
 ## Module Forecast
 ```
-N.A.
+- MA3252 Linear and Network Optimisation
+- MA4264 Game Theory
+- MA4270 Data Modelling and Computation
 ```
 
 ---
