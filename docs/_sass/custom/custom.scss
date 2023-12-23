@@ -186,7 +186,14 @@ summary {
 }
 
 summary::before {
-  content: ''; /* No content, effectively removing the symbol */
+  content: '' !important;
+  background: none !important;
+  border: none !important;
+  width: 0 !important;
+  height: 0 !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  display: none !important; /* This property can hide the pseudo-element entirely */
 }
 
 summary::after {
