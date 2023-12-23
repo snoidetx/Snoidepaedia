@@ -178,22 +178,19 @@ img {
 }
 
 // COLLAPSIBLES
+details > summary {
+  list-style: none;
+}
+
+details > summary::-webkit-details-marker {
+  display: none;
+}
+
 summary {
   display: inline-block; /* Use inline-block for better control */
   list-style: none;
   position: relative; /* For positioning the pseudo-element */
   padding-right: 30px; /* Space for the triangle */
-}
-
-summary::before {
-  content: '' !important;
-  background: none !important;
-  border: none !important;
-  width: 0 !important;
-  height: 0 !important;
-  margin: 0 !important;
-  padding: 0 !important;
-  display: none !important; /* This property can hide the pseudo-element entirely */
 }
 
 summary::after {
