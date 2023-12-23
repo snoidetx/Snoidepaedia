@@ -15,7 +15,9 @@ Portfolio of Tian Xiao *@snoidetx*.
 
 ---
 
-## Experiences
+Tian Xiao *@snoidetx* is a final year undergraduate student at National University of Singapore pursuing a double degree in Applied Mathematics and Computer Science. Click on each section below or view his résumé to learn more about him.
+
+<details markdown="block"><summary><h2>Experiences</h2></summary>
 
 | <img src="img/logos/logo-nus.png" width=75> | National University of Singapore |
 | :-: | --- |
@@ -40,9 +42,11 @@ Portfolio of Tian Xiao *@snoidetx*.
 | <img src="img/timeline-end.png" width="150%" height="100%"> | **Researcher**<br>Mar 2018 - Feb 2019<br>Internship · 1 yr<br><br>• Conducted research on possibilities of using Lock-in Thermography Technique to detect 3-dimensional geometries of an object and evaluated its practicability of being applied to real life scenarios.<br>• Computed Python machine learning algorithms (regression analysis & machine learning) to determine correlations within large datasets retrieved from Lock-in Thermography Technique.<br>• Collaborated with colleagues to predict general trends beyond pre-engineered prototypes. |
 {: .table-about }
 
----
+</details>
 
-## Education
+<div class="collapsible-gap"></div>
+
+<details markdown="block"><summary><h2>Education</h2></summary>
 
 | <img src="img/logos/logo-nus.png" width="150%" height="100%"> | National University of Singapore |
 | :-: | --- |
@@ -66,9 +70,11 @@ Portfolio of Tian Xiao *@snoidetx*.
 | <img src="img/timeline-end.png" width="150%" height="100%"> | **NEYC Junior High School Programme**<br>China · Sep 2011 - Oct 2015<br>Full-time · 4 yrs 2 mos<br><br>**Awards and Honours**<br><br>• Awards and honours in junior high school ([view](./neyc-awards))<br>• 6.5/9.0, IELTS Academic 2015 |
 {: .table-about }
 
----
+</details>
 
-## Co-curricular Activities (CCAs)
+<div class="collapsible-gap"></div>
+
+<details markdown="block"><summary><h2>Co-Curricular Activities (CCAs)</h2></summary>
 
 | <img src="img/logos/logo-mathsoc.png" width=75> | NUS Mathematics Society |
 | :-: | --- |
@@ -90,9 +96,11 @@ Portfolio of Tian Xiao *@snoidetx*.
 | <img src="img/timeline-end.png" width="150%" height="100%"> | **Performer**<br>Sep 2012 - Jun 2015<br>CCA · 2 yr 10 mos<br><br>• Played Erhu and participated in school concerts.<br>• Travelled to Taiwan with the whole orchestra and went through musical exchange with local schools. |
 {: .table-about }
 
----
+</details>
 
-## Volunteering
+<div class="collapsible-gap"></div>
+
+<details markdown="block"><summary><h2>Volunteering</h2></summary>
 
 Note: This section only documents *@snoidetx*'s selected major and long-term volunteer experiences. For a full list of his volunteering experiences, see *@snoidetx*'s [LinkedIn page](https://www.linkedin.com/in/snoidetx/details/volunteering-experiences/).
 
@@ -111,9 +119,11 @@ Note: This section only documents *@snoidetx*'s selected major and long-term vol
 | <img src="img/timeline-end.png" width="150%" height="100%"> | **Chairperson**<br>Feb 2018 - Oct 2018<br>Volunteer · 9 mos<br><br>• Initialised and chaired Project EOS to raise funds (around S$3k) and awareness for underprivileged children in Singapore, collaborating with Singapore Children's Society.<br>• Contributed a total of 136 hours, including making plans, recruiting volunteers, conducting street sales, liaising with partner organisations, etc.<br>• Participated in YMCA-NUS Business School Volunteer Service Management Programme, a course facilitated by NUS Business School Alumni Association. |
 {: .table-about }
 
----
+</details>
 
-## Additional Information
+<div class="collapsible-gap"></div>
+
+<details markdown="block"><summary><h2>Additional Information</h2></summary>
 
 |  | Skills and Interests |
 | :-: | --- |
@@ -121,3 +131,5 @@ Note: This section only documents *@snoidetx*'s selected major and long-term vol
 | <img src="img/logos/logo-programming.png" width=75> | **IT Skillsets**<br><br>• Programming Languages (Bash, C, CSS, HTML, **Java**, **JavaScript** (with Express, React, React Native and Redux), Kotlin, MATLAB, Objective-C, **Python**, R, Swift, **TypeScript**)<br>• Revision Control Softwares (Git (with BitBucket and Github platforms))<br>• Machine Learning and Statistics Libraries (Keras, SkyLearn, Matplotlib, OpenCV, etc.)<br>• Database Systems (MySQL)<br>• Operating Systems (MacOS, Linux, Windows)<br>• Productive Softwares (Adobe Photoshop, Adobe Audition, Studio One) |
 | <img src="img/logos/logo-music.png" width=75> | **Interests**<br><br>• Basketball<br>• Piano<br>• Erhu<br>• Fine Arts |
 {: .table-about#table-about-without-timeline }
+
+</details>

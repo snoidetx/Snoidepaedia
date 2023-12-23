@@ -17,7 +17,9 @@ Explore. Adventure.
 
 ## Overview
 
-Scientific research has been one of the favourite activities of *@snoidetx*. When he was very young, he tried to research and write papers about the optimal angle when shooting basketballs. Afterwards, *@snoidetx* has been actively seeking for research opportunities. He took H3 Science Research in National Junior College (NJC), where he got a chance to research in Agency for Science, Technology and Research (A\*STAR) for 1 year. In National University of Singapore (NUS), *@snoidetx* proactively chose modules with research aspect to enrich his research experience. Currently, *@snoidetx* is doing research under the Undergraduate Research Opportunity Programme (UROP<sup>[?](https://www.comp.nus.edu.sg/programmes/ug/project/urop/)</sup>), mentored by Prof Bryan Low Kian Hsiang<sup>[?](https://www.comp.nus.edu.sg/cs/people/lowkh/)</sup>.
+Scientific research has been one of the favourite activities of *@snoidetx*. When he was very young, he tried to research and write papers about the optimal angle when shooting basketballs. Afterwards, *@snoidetx* has been actively seeking for research opportunities. He took H3 Science Research in National Junior College (NJC), where he got a chance to research in Agency for Science, Technology and Research (A\*STAR) for 1 year. In National University of Singapore (NUS), *@snoidetx* proactively chose modules with research aspect to enrich his research experience. He enrolled in the Undergraduate Research Opportunity Programme (UROP<sup>[?](https://www.comp.nus.edu.sg/programmes/ug/project/urop/)</sup>) under the supervision of Prof. Bryan Low Kian Hsiang<sup>[?](https://www.comp.nus.edu.sg/cs/people/lowkh/)</sup> and the paper has been accepted into the AAAI-24<sup>[?](https://aaai.org/aaai-conference/)</sup> conference.
+
+Currently, *@snoidetx* is preparing for his Integrated Honours Project (IHT) thesis.
 
 ### Research Areas
 
