@@ -27,5 +27,12 @@ Lock-in Thermography (LIT) is a type of Infrared Thermography (IRT) that can be 
 ## Cite
 
 ```
-Tian, X., Yin, M., & Goh, H. (2019). Identifying the Geometry of an Object Using Lock-in Thermography. Retrieved from https://doi.org/10.48550/arXiv.1903.02854. 
+@misc{tian2019identifying,
+  title={Identifying the Geometry of an Object Using Lock-In Thermography}, 
+  author={Xiao Tian and Meng Yuan Yin and Kok Hin Henry Goh},
+  year={2019},
+  eprint={1903.02854},
+  archivePrefix={arXiv},
+  primaryClass={physics.app-ph}
+}
 ```
