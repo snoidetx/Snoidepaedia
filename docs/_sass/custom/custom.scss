@@ -185,6 +185,10 @@ summary {
   padding-right: 30px; /* Space for the triangle */
 }
 
+summary::before {
+  content: ''; /* No content, effectively removing the symbol */
+}
+
 summary::after {
   content: '';
   position: absolute;
