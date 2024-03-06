@@ -33,6 +33,8 @@ Currently, *@snoidetx* is preparing for his Integrated Honours Project (IHT) the
 
 * Collaborative Machine Learning
 * Data Valuation
+* Privacy
+* Federated Learning
 
 ### Publications
 
