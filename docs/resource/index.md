@@ -47,8 +47,9 @@ Over the years, *@snoidetx* has been making learning materials for the courses h
 |  |  | • Midterm Examination 2 Helpsheet | [![](./img/icons/icon-view.png)](./pdf/NUS-MA3205-MidtermExamination2Helpsheet.pdf) |
 | **MA3220** | **Ordinary Differential Equations** | • Final Examination Helpsheet | [![](./img/icons/icon-view.png)](./pdf/NUS-MA3220-FinalExaminationHelpsheet.pdf) |
 |  |  | • Midterm Examination Helpsheet | [![](./img/icons/icon-view.png)](./pdf/NUS-MA3220-MidtermExaminationHelpsheet.pdf) |
-| **MA3236** | **Non-Linear Optimisation** | • Midterm Examination Helpsheet | [![](./img/icons/icon-view.png)](./pdf/NUS-MA3236-MidtermExaminationHelpsheet.pdf) |
+| **MA3236** | **Non-Linear Programming** | • Midterm Examination Helpsheet | [![](./img/icons/icon-view.png)](./pdf/NUS-MA3236-MidtermExaminationHelpsheet.pdf) |
 |  |  | • Final Examination Helpsheet | [![](./img/icons/icon-view.png)](./pdf/NUS-MA3236-FinalExaminationHelpsheet.pdf) |
+| **MA3252** | **Linear Programming** | • Midterm Examination Helpsheet | [![](./img/icons/icon-view.png)](./pdf/NUS-MA3252-MidtermExaminationHelpsheet.pdf) |
 | **MA3264** | **Mathematical Modelling** | • Quiz 1 Helpsheet | [![](./img/icons/icon-view.png)](./pdf/NUS-MA3264-Quiz1Helpsheet.pdf) |
 |  |  | • Quiz 2 Helpsheet | [![](./img/icons/icon-view.png)](./pdf/NUS-MA3264-Quiz2Helpsheet.pdf) |
 |  |  | • Final Examination Helpsheet | [![](./img/icons/icon-view.png)](./pdf/NUS-MA3264-FinalExaminationHelpsheet.pdf) |
