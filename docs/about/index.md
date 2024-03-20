@@ -5,26 +5,27 @@ nav_order: 3
 has_children: true
 ---
 
-# About Me
+# **<u>Tian</u>** Xiao *@snoidetx*
 {: .fs-9 }
 
-Portfolio of Tian Xiao *@snoidetx*.
+Honours year undergraduate student at National University of Singapore.
 {: .fs-6 .fw-300 }
 
 [&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;LinkedIn&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;](https://www.linkedin.com/in/snoidetx/){: .btn .btn-purple} &nbsp; &nbsp; [&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Résumé&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;](./pdf/TianXiao_resume_20230819.pdf){: .btn}
 
 ---
 
-Tian Xiao *@snoidetx* is a final year undergraduate student at National University of Singapore pursuing a double degree in Applied Mathematics and Computer Science. Click on each section below or view his résumé to learn more about him.
+Tian Xiao *@snoidetx* is an honours year undergraduate student at National University of Singapore pursuing a double degree in Applied Mathematics and Computer Science. Click on each section below or view his résumé to learn more about him.
 
-<details markdown="block"><summary><h2>Experiences</h2></summary>
+## Research and Professional Experiences
+
+Tian Xiao *@snoidetx* is currently working on his honours year thesis under the supervision of Prof Bryan Kian Hsiang Low. For details about his research areas, interests, publications and projects, please refer to the [**Research**](../research) section.
+
+Below gives a timeline of his research and professional experiences:
 
 | <img src="img/logos/logo-nus.png" width=75> | National University of Singapore |
 | :-: | --- |
 | <img src="img/timeline-end.png" width="150%" height="100%"> | **Researcher**<br>May 2023 - Sep 2023<br>Internship · 5 mos<br><br>• Conducted research on collaborative machine learning under new constraints and assumptions and ran experiments to evaluate its practicability to be applied into real life collaborative machine learning scenarios (*more details to be released*), under the supervision of Associate Professor Low Kian Hsiang, Bryan<sup>[?](https://www.comp.nus.edu.sg/cs/people/lowkh/)</sup>.<br><br> |
-| <img src="img/timeline-intermediate.png" width="150%" height="100%"> | **Teaching Assistant (CS3244 Machine Learning)**<br>Aug 2022 - May 2023<br>Part-time · 10 mos<br><br>• Assisted professors in preparing and facilitating teaching of module CS3244 Machine Learning, a course to introduce machine learning and deep learning models, theories and techniques involving more than 400 students.<br>• Developed class materials and conducted weekly tutorial sessions for students to reinforce their understanding and get more practice.<br>• Mentored project groups to give students hands-on experience on how to train machine learning models properly with Python libraries.<br>• Prepared tutorial and examination questions as topic expert.<br>• Obtained a teaching rating of 4.5/5.0 while the average faculty rating was 4.2/5.0.<br><br> |
-| <img src="img/timeline-intermediate.png" width="150%" height="100%"> | **Teaching Assistant (CS2030/S Programming Methodology II)**<br>Jan 2022 - May 2023<br>Part-time · 10 mos<br><br>• Assisted professors in preparing and facilitating teaching of module CS2030 Programming Methodology II, a course to introduce fundamental programming methodology such as code design and coding style using Java involving more than 600 students.<br>• Developed class materials, conducted weekly laboratory sessions for students to get hands-on experience on applying certain methodologies and principles, reviewed their assignment submissions and gave feedbacks.<br>• Obtained a teaching rating of 4.8/5.0 while the average faculty rating was 4.2/5.0.<br><br> | 
-| <img src="img/timeline-intermediate.png" width="150%" height="100%"> | **Teaching Assistant (CS2040/S Data Structures and Algorithms)**<br>Aug 2021 - May 2022<br>Part-time · 10 mos<br><br>• Assisted professors in preparing and facilitating teaching of module CS2040/S Data Structures and Algorithms, a course to equip students with knowledge on basic data structures and algorithms in computing using Java involving more than 450 students.<br>• Developed class materials, conducted weekly laboratory sessions for students to reinforce conceptual knowledge and get hands-on experience on using certain data structures and algorithms and marked their assignments.<br>• Obtained a teaching rating of 4.6/5.0 while the average faculty rating was 4.2/5.0. |
 {: .table-about }
 
 | <img src="img/logos/logo-singtel.png" width=75> | Singtel |
@@ -32,25 +33,32 @@ Tian Xiao *@snoidetx* is a final year undergraduate student at National Universi
 | <img src="img/timeline-end.png" width="150%" height="100%"> | **Software Developer**<br>May 2022 - Aug 2022<br>Internship · 4 mos<br><br>• Acquired core skills and technologies in cross-platform mobile application development (e.g. setting up dependencies and environment, building API connections and layers, implementing key logic, preparing test cases) with 20k+ lines of code.<br>• Developed WiFi Coverage Tool and Broadband Protect Service functionalities in My Singtel App from start as the core developer. Both features have been released in Version 9.3 of My Singtel App in both App Store and Google Play Store.<br>• Optimised performances and fixed bugs for a few other features in My Singtel App (e.g. SIM Registration, Customer Inbox, etc.). <br><br>Click [here](video/singtel.mp4) to view a video illustrating this experience!|
 {: .table-about }
 
-| <img src="img/logos/logo-learnseeker.png" width=75> | Learnseeker |
-| :-: | --- |
-| <img src="img/timeline-end.png" width="150%" height="100%"> | **Education Strategist & Creator**<br>Oct 2021 - Jan 2022<br>Internship · 4 mos<br><br>• Facilitated the operation of LearnSeeker, an AI data visualisation and automatic grading tool for schools.<br>• Created digital education resources.<br>• Managed the classification and curation of education resources. |
-{: .table-about }
-
 | <img src="img/logos/logo-astar.png" width=75> | Agency for Science, Technology and Research |
-| :-: | --- |
+| :-: | --- | 
 | <img src="img/timeline-end.png" width="150%" height="100%"> | **Researcher**<br>Mar 2018 - Feb 2019<br>Internship · 1 yr<br><br>• Conducted research on possibilities of using Lock-in Thermography Technique to detect 3-dimensional geometries of an object and evaluated its practicability of being applied to real life scenarios.<br>• Computed Python machine learning algorithms (regression analysis & machine learning) to determine correlations within large datasets retrieved from Lock-in Thermography Technique.<br>• Collaborated with colleagues to predict general trends beyond pre-engineered prototypes. |
 {: .table-about }
 
-</details>
+
+## Teaching Experiences
+
+Tian Xiao *@snoidetx* has been actively teaching machine learning, algorithm and programming courses under School of Computing at National University of Singapore. He was placed in the Honour List of Student Tutors for two consecutive years (4 semesters). For details about the courses he has taught, please refer to the [**Teaching**](../teaching) section.
+
+The table below shows the teaching ratings Tian Xiao *@snoidetx* received from his students for each of the courses he taught, in comparison to the faculty average rating at School of Computing.
+
+| Course | Name | Tian Xiao's Rating | Faculty Average Rating |
+| :-: | :-- | :-: | :-: |
+| **CS2040** | **Data Structures and Algorithms** | **4.6**/5.0 | 4.2/5.0 |
+| **CS2030/S** | **Programming Methodology II** | **4.8**/5.0 | 4.2/5.0 |
+| **CS3244** | **Machine Learning** | **4.5**/5.0 | 4.2/5.0 |
+{: .table-rating }
 
 <div class="collapsible-gap"></div>
 
-<details markdown="block"><summary><h2>Education</h2></summary>
+<details markdown="block"><summary><h2>Education Background</h2></summary>
 
 | <img src="img/logos/logo-nus.png" width="150%" height="100%"> | National University of Singapore |
 | :-: | --- |
-| <img src="img/timeline-end.png" width="150%" height="100%"> | **Bachelor of Science & Bachelor of Computing**<br>Singapore · Aug 2020 - Present<br>Full-time · Ongoing<br><br>• Applied Mathematics and Computer Science (Double Degree)<br>• Expected Date of Graduation: May 2024<br>• CAP (Applied Mathematics): 4.93/5.00<br>• CAP (Computer Science): 4.90/5.00<br><br>**Awards and Honours**<br><br>• NUS Science & Technology Undergraduate Merit Scholarship holder<br>• 1<sup>st</sup> out of 634 students, CS1010S Programming Methodology (AY2020/21 Semester 1)<br>• 1<sup>st</sup> out of 435 students, CS1231 Discrete Structures (AY2020/21 Semester 1)<br>• Top 9 Finalist, Beyond Health Hack ‘21<br>• Top 7 Finalist, Tencent Green Game Jam for Youth 2021<br>• Honour List of Student Tutors (AY2021/22)<br>• Dean’s List, Bachelor of Science (AY2021/22 Semester 1)<br>• Dean’s List, Bachelor of Computing (Computer Science) (AY2021/22 Semester 1)<br>• 1<sup>st</sup> out of 214 students, CS3244 Machine Learning (AY2021/22 Semester 2)<br>• 6<sup>th</sup> out of 381 students, CS3230 Design and Analysis of Algorithms (AY2021/22 Semester 2)<br>• Dean’s List, Bachelor of Science (AY2022/23 Semester 1)<br>• 1<sup>st</sup> out of 24 students, CS2309 Research Methodology (AY2022/23 Semester 1)<br>• Dean’s List, Bachelor of Computing (Computer Science) (AY2022/23 Semester 2)<br><br>**Relevant Courses Taken**<br><br>Artificial Intelligence · Calculus · Combinatorics and Graphs · Computer Organisation · Data Structure and Algorithms · Design and Analysis of Algorithms · Differential Equations · Discrete Structures · Fourier Analysis and Approximation · Game Theory · Information Theory · Linear Algebra · Linear Programming · Machine Learning · Mathematical Analysis · Mathematical Logic · Mathematical Modelling · Non-Linear Programming · Numerical Analysis · Operating Systems · Probability · Programming Methodology · Regression Analysis · Research Methodology · Set Theory · Software Engineering · Uncertainty Modelling<br><br> | 
+| <img src="img/timeline-end.png" width="150%" height="100%"> | **Bachelor of Science & Bachelor of Computing**<br>Singapore · Aug 2020 - Present<br>Full-time · Ongoing<br><br>• Applied Mathematics and Computer Science (Double Degree)<br>• Expected Date of Graduation: May 2024<br>• CAP (Applied Mathematics): 4.93/5.00<br>• CAP (Computer Science): 4.90/5.00<br><br>**Awards and Honours**<br><br>• NUS Science & Technology Undergraduate Merit Scholarship holder<br>• 1<sup>st</sup> out of 634 students, CS1010S Programming Methodology (AY2020/21 Semester 1)<br>• 1<sup>st</sup> out of 435 students, CS1231 Discrete Structures (AY2020/21 Semester 1)<br>• Top 9 Finalist, Beyond Health Hack ‘21<br>• Top 7 Finalist, Tencent Green Game Jam for Youth 2021<br>• Dean’s List, Bachelor of Science (AY2021/22 Semester 1)<br>• Dean’s List, Bachelor of Computing (Computer Science) (AY2021/22 Semester 1)<br>• 1<sup>st</sup> out of 214 students, CS3244 Machine Learning (AY2021/22 Semester 2)<br>• 6<sup>th</sup> out of 381 students, CS3230 Design and Analysis of Algorithms (AY2021/22 Semester 2)<br>• Dean’s List, Bachelor of Science (AY2022/23 Semester 1)<br>• 1<sup>st</sup> out of 24 students, CS2309 Research Methodology (AY2022/23 Semester 1)<br>• Dean’s List, Bachelor of Computing (Computer Science) (AY2022/23 Semester 2)<br>• SoC Take on the World Award (SToW) awardee<br><br>**Relevant Courses Taken**<br><br>Artificial Intelligence · Calculus · Combinatorics and Graphs · Computer Organisation · Data Structure and Algorithms · Design and Analysis of Algorithms · Differential Equations · Discrete Structures · Fourier Analysis and Approximation · Game Theory · Information Theory · Linear Algebra · Linear Programming · Machine Learning · Mathematical Analysis · Mathematical Logic · Mathematical Modelling · Non-Linear Programming · Numerical Analysis · Operating Systems · Probability · Programming Methodology · Regression Analysis · Research Methodology · Set Theory · Software Engineering · Uncertainty Modelling<br><br> | 
 | <img src="img/timeline-intermediate.png" width="150%" height="100%"> | **Tokyo Institute of Technology Student Exchange Programme**<br>Japan · Sep 2023 - Feb 2024<br>Full-time · 6 mos<br><br>**Relevant Courses Taken**<br><br>Computer Vision · Data Assimilation · Information Processing · Inverse Problems · Statistics · Theory of Algorithms<br><br> |
 | <img src="img/timeline-intermediate.png" width="150%" height="100%"> | **Ridge View Residential College Programme**<br>Singapore · Aug 2020 - May 2022<br>Full-time · 1 yr 10 mos<br><br>• Completed RVRC Year One & Two Programme.<br>• Led Project GreenFood@NUS in Action For Sustainability Symposium and achieved Best Project - Influencer Award. |
 {: .table-about }
