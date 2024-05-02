@@ -38,11 +38,14 @@ Currently, *@snoidetx* is preparing for his Integrated Honours Project (IHT) the
 
 ### Publications
 
+##### Deletion-Anticipative Data Acquisition
+<sup>R.H.L. Sim, J. Fan, **X. Tian**, & B.K.H. Low · 2024 · The 41st International Conference on Machine Learning</sup>
+
 ##### [DeRDaVa: Deletion-Robust Data Valuation for Machine Learning](./derdava-deletion-robust) 
-<sup>X. Tian, R.H.L. Sim, & J. Fan, & B.K.H. Low · 2023 · The 38th Annual AAAI Conference on Artificial Intelligence</sup>
+<sup>**X. Tian**, R.H.L. Sim, J. Fan, & B.K.H. Low · 2024 · The 38th Annual AAAI Conference on Artificial Intelligence</sup>
 
 ##### [Identifying the Geometry of an Object Using Lock-In Thermography](./identifying-the-geometry) 
-<sup>X. Tian, M. Yin, & H. Goh · 2019 · arXiv</sup>
+<sup>**X. Tian**, M. Yin, & H. Goh · 2019 · arXiv</sup>
 
 ### Projects
 

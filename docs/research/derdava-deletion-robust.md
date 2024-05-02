@@ -21,17 +21,19 @@ Data valuation is concerned with determining a fair valuation of data from data 
 
 ## Gallery
 
-*To be uploaded.*
+![](../img/thumbnails/thumbnail-derdava-deletion-robust.png)
+{: .thumbnail }
 
 ## Cite
 
 ```
-@misc{tian2023derdava,
-  title={DeRDaVa: Deletion-Robust Data Valuation for Machine Learning}, 
-  author={Xiao Tian and Rachael Hwee Ling Sim and Jue Fan and Bryan Kian Hsiang Low},
-  year={2023},
-  eprint={2312.11413},
-  archivePrefix={arXiv},
-  primaryClass={cs.LG}
+@inproceedings{tian2024derdava,
+  title={DeRDaVa: Deletion-Robust Data Valuation for Machine Learning},
+  author={Tian, Xiao and Sim, Rachael Hwee Ling and Fan, Jue and Low, Bryan Kian Hsiang},
+  booktitle={Proc. AAAI},
+  volume={38},
+  number={14},
+  pages={15373--15381},
+  year={2024}
 }
 ```
