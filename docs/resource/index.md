@@ -61,6 +61,7 @@ Over the years, *@snoidetx* has been making learning materials for the courses h
 | **MA4264** | **Game Theory** | • Midterm Examination Helpsheet | [![](./img/icons/icon-view.png)](./pdf/NUS-MA4264-MidtermExaminationHelpsheet.pdf) |
 |  |  | • Final Examination Helpsheet | [![](./img/icons/icon-view.png)](./pdf/NUS-MA4264-FinalExaminationHelpsheet.pdf) |
 | **MA4270** | **Data Modelling and Computation** | • Midterm Examination Helpsheet | [![](./img/icons/icon-view.png)](./pdf/NUS-MA4270-MidtermExaminationHelpsheet.pdf) |
+|  |  | • Final Examination Helpsheet | [![](./img/icons/icon-view.png)](./pdf/NUS-MA4270-FinalExaminationHelpsheet.pdf) |
 | **ST2131** | **Probability** | • Notes | [![](./img/icons/icon-view.png)](./pdf/NUS-ST2131-Notes.pdf) |
 | **ST3131** | **Regression Analysis** | • Final Examination Helpsheet | [![](./img/icons/icon-view.png)](./pdf/NUS-ST3131-FinalExaminationHelpsheet.pdf) |
 |  |  | • Midterm Examination Helpsheet | [![](./img/icons/icon-view.png)](./pdf/NUS-ST3131-MidtermExaminationHelpsheet.pdf) |
