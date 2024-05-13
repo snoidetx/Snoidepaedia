@@ -21,28 +21,19 @@ Scientific research has been one of the favourite activities of *@snoidetx*. Whe
 
 Currently, *@snoidetx* is preparing for his Integrated Honours Project (IHT) thesis.
 
-### Research Areas
-
-* Machine Learning
-* Artificial Intelligence
-* Computation and Algorithm
-* Game Theory
-* Optimisation
-
 ### Research Interests
 
-* Collaborative Machine Learning
-* Data Valuation
-* Privacy
-* Federated Learning
+* Data-centric machine learning (e.g., data valuation, active learning, machine unlearning)
+* Multi-agent machine learning (e.g., collaborative/federated learning, incentive mechanism)
+* Privacy-preserving machine learning (e.g., differentially private machine learning)
 
 ### Publications
 
 ##### Deletion-Anticipative Data Acquisition
-<sup>R.H.L. Sim, J. Fan, **X. Tian**, & B.K.H. Low · 2024 · The 41st International Conference on Machine Learning</sup>
+<sup>R.H.L. Sim, J. Fan, **X. Tian**, & B.K.H. Low · 2024 · The 41st International Conference on Machine Learning (**ICML-24**)</sup>
 
 ##### [DeRDaVa: Deletion-Robust Data Valuation for Machine Learning](./derdava-deletion-robust) 
-<sup>**X. Tian**, R.H.L. Sim, J. Fan, & B.K.H. Low · 2024 · The 38th Annual AAAI Conference on Artificial Intelligence</sup>
+<sup>**X. Tian**, R.H.L. Sim, J. Fan, & B.K.H. Low · 2024 · The 38th Annual AAAI Conference on Artificial Intelligence (**AAAI-24**)</sup>
 
 ##### [Identifying the Geometry of an Object Using Lock-In Thermography](./identifying-the-geometry) 
 <sup>**X. Tian**, M. Yin, & H. Goh · 2019 · arXiv</sup>
