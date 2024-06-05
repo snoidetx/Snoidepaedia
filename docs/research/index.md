@@ -41,7 +41,7 @@ Currently, *@snoidetx* is preparing for his Integrated Honours Project (IHT) the
 ### Course Projects
 
 ##### [Differentially Private Machine Learning](./pdf/differentially-private-machine-learning.pdf)
-<sup>**X. Tian** & J. Fan · 2024 · MA4270 Data Modelling and Computation</sup>
+<sup>J. Fan & **X. Tian** · 2024 · MA4270 Data Modelling and Computation</sup>
 
 ##### [[Paper Review] PointGuard: Provably Robust 3D Point Cloud Classification](./pdf/pointguard-provably-robust-3d-point-cloud-classification.pdf)
 <sup>**X. Tian** · 2024 · ART.T466 3D Computer Vision</sup>
