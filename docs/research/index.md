@@ -29,7 +29,7 @@ Currently, *@snoidetx* is preparing for his Integrated Honours Project (IHT) the
 
 ### Publications
 
-##### Deletion-Anticipative Data Acquisition
+##### Deletion-Anticipative Data Selection With a Limited Budget
 <sup>R.H.L. Sim, J. Fan, **X. Tian**, & B.K.H. Low · 2024 · The 41st International Conference on Machine Learning (**ICML-24**)</sup>
 
 ##### [DeRDaVa: Deletion-Robust Data Valuation for Machine Learning](./derdava-deletion-robust) 
