@@ -33,11 +33,42 @@ Currently, *@snoidetx* is preparing for his Integrated Honours Project (IHT) the
 <sup>R.H.L. Sim, J. Fan, **X. Tian**, & B.K.H. Low · 2024 · The 41st International Conference on Machine Learning (**ICML-24**)</sup>
 
 ##### [DeRDaVa: Deletion-Robust Data Valuation for Machine Learning](./derdava-deletion-robust) 
-<sup>**X. Tian**, R.H.L. Sim, J. Fan, & B.K.H. Low · 2024 · The 38th Annual AAAI Conference on Artificial Intelligence (**AAAI-24**)</sup>
+<sup>**X. Tian**, R.H.L. Sim, J. Fan & B.K.H. Low · 2024 · The 38th Annual AAAI Conference on Artificial Intelligence (**AAAI-24**)</sup>
 
 ##### [Identifying the Geometry of an Object Using Lock-In Thermography](./identifying-the-geometry) 
-<sup>**X. Tian**, M. Yin, & H. Goh · 2019 · arXiv</sup>
+<sup>**X. Tian**, M. Yin & H. Goh · 2019 · arXiv</sup>
 
-### Projects
+### Course Projects
 
-Please refer to *@snoidetx*'s [LinkedIn page](https://www.linkedin.com/in/snoidetx/details/projects/).
+##### [Differentially Private Machine Learning](./pdf/differentially-private-machine-learning.pdf)
+<sup>**X. Tian** & J. Fan · 2024 · MA4270 Data Modelling and Computation</sup>
+
+##### [[Paper Review] PointGuard: Provably Robust 3D Point Cloud Classification](./pdf/pointguard-provably-robust-3d-point-cloud-classification.pdf)
+<sup>**X. Tian** · 2024 · ART.T466 3D Computer Vision</sup>
+
+##### [[Paper Review] Scalable and Efficient Training of Large Convolutional Neural Networks with Differential Privacy](./pdf/scalable-and-efficient-training-of-large-convolutional-neural-networks-with-differential-privacy.pdf)
+<sup>**X. Tian** · 2024 · SCE.I435 Visual and Knowledge Information Processing</sup>
+
+##### [Inverse Analysis of Heat Transfer in Blast Furnaces](./pdf/inverse-analysis-of-heat-transfer-in-blast-furnaces.pdf)
+<sup>**X. Tian** · 2023 · SCE.A405 Inverse Problems and Data Assimilation</sup>
+
+##### [Face Mask Detection for Disease X: A Probabilistic Approach](./pdf/face-mask-detection-for-disease-x-a-probabilistic-approach.pdf)
+<sup>J. Fan, G. Gao, Y. Mo & **X. Tian** · 2023 · CS5340 Uncertainty Modelling in AI</sup>
+
+##### [Reed-Solomon Codes: Mechanism, Improvement and Application](./pdf/reed-solomon-codes-mechanism-improvement-and-application.pdf)
+<sup>J. Fan & **X. Tian** · 2023 · CS3236 Introduction to Information Theory</sup>
+
+##### [Data Valuation for Machine Learning](./pdf/data-valuation-for-machine-learning.pdf)
+<sup>**X. Tian** · 2022 · CS2309 CS Research Methodology</sup>
+
+##### [[Paper Review] Data Shapley: Equitable Valuation of Data for Machine Learning[Paper Review] Data Shapley: Equitable Valuation of Data for Machine Learning](./pdf/data-shapley-equitable-valuation-of-data-for-machine-learning.pdf)
+<sup>**X. Tian** · 2022 · CS2309 CS Research Methodology</sup>
+
+##### [Predicting Scores and Controversialities of Reddit Posts Using Machine LearningPredicting Scores and Controversialities of Reddit Posts Using Machine Learning](./pdf/predicting-scores-and-controversialities-of-reddit-posts-using-machine-learning.pdf)
+<sup>J. Fan, J. Han, B. Li, **X. Tian** & Z. Xin · 2022 · CS3244 Machine Learning</sup>
+
+##### [Somatotropin and Growth Hormone Deficiency](./pdf/somatropin-and-growth-hormone-deficiency.pdf)
+<sup>J. Fan & **X. Tian** · 2021 · FMS1218B How Come Aspirin Can Relieve My Headache?</sup>
+
+##### [Thermography - A Big Data Problem (Experiments)](./pdf/thermography-a-big-data-problem-experiments.pdf)
+<sup>**X. Tian** & H.K.H. Goh · 2019 · NJC H3 Research</sup>
