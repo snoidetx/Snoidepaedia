@@ -15,19 +15,17 @@ Explore. Adventure.
 
 ---
 
-## Overview
-
 Scientific research has been one of the favourite activities of *@snoidetx*. When he was very young, he tried to research and write papers about the optimal angle when shooting basketballs. Afterwards, *@snoidetx* has been actively seeking for research opportunities. He took H3 Science Research in National Junior College (NJC), where he got a chance to research in Agency for Science, Technology and Research (A\*STAR) for 1 year. In National University of Singapore (NUS), *@snoidetx* proactively chose modules with research aspect to enrich his research experience. He enrolled in the Undergraduate Research Opportunity Programme (UROP<sup>[?](https://www.comp.nus.edu.sg/programmes/ug/project/urop/)</sup>) under the supervision of Prof. Bryan Low Kian Hsiang<sup>[?](https://www.comp.nus.edu.sg/cs/people/lowkh/)</sup> and the paper has been accepted into the AAAI-24<sup>[?](https://aaai.org/aaai-conference/)</sup> conference.
 
 Currently, *@snoidetx* is preparing for his Integrated Honours Project (IHT) thesis.
 
-### Research Interests
+## Research Interests
 
 * Data-centric machine learning (e.g., data valuation, active learning, machine unlearning)
 * Multi-agent machine learning (e.g., collaborative/federated learning, incentive mechanism)
 * Privacy-preserving machine learning (e.g., differentially private machine learning)
 
-### Publications
+## Publications
 
 ##### Deletion-Anticipative Data Selection With a Limited Budget
 <sup>R.H.L. Sim, J. Fan, **X. Tian** & B.K.H. Low · 2024 · The 41st International Conference on Machine Learning (**ICML-24**)</sup>
@@ -38,7 +36,7 @@ Currently, *@snoidetx* is preparing for his Integrated Honours Project (IHT) the
 ##### [Identifying the Geometry of an Object Using Lock-In Thermography](./identifying-the-geometry) 
 <sup>**X. Tian**, M. Yin & H. Goh · 2019 · arXiv</sup>
 
-### Course Projects
+## Course Projects
 
 ##### [Differentially Private Machine Learning](./pdf/differentially-private-machine-learning.pdf)
 <sup>J. Fan & **X. Tian** · 2024 · MA4270 Data Modelling and Computation</sup>
@@ -61,13 +59,13 @@ Currently, *@snoidetx* is preparing for his Integrated Honours Project (IHT) the
 ##### [Data Valuation for Machine Learning](./pdf/data-valuation-for-machine-learning.pdf)
 <sup>**X. Tian** · 2022 · CS2309 CS Research Methodology</sup>
 
-##### [[Paper Review] Data Shapley: Equitable Valuation of Data for Machine Learning[Paper Review] Data Shapley: Equitable Valuation of Data for Machine Learning](./pdf/data-shapley-equitable-valuation-of-data-for-machine-learning.pdf)
+##### [[Paper Review] Data Shapley: Equitable Valuation of Data for Machine Learning](./pdf/data-shapley-equitable-valuation-of-data-for-machine-learning.pdf)
 <sup>**X. Tian** · 2022 · CS2309 CS Research Methodology</sup>
 
-##### [Predicting Scores and Controversialities of Reddit Posts Using Machine LearningPredicting Scores and Controversialities of Reddit Posts Using Machine Learning](./pdf/predicting-scores-and-controversialities-of-reddit-posts-using-machine-learning.pdf)
+##### [Predicting Scores and Controversialities of Reddit Posts Using Machine Learning](./pdf/predicting-scores-and-controversialities-of-reddit-posts-using-machine-learning.pdf)
 <sup>J. Fan, J. Han, B. Li, **X. Tian** & Z. Xin · 2022 · CS3244 Machine Learning</sup>
 
-##### [Somatotropin and Growth Hormone Deficiency](./pdf/somatropin-and-growth-hormone-deficiency.pdf)
+##### [Somatropin and Growth Hormone Deficiency](./pdf/somatropin-and-growth-hormone-deficiency.pdf)
 <sup>J. Fan & **X. Tian** · 2021 · FMS1218B How Come Aspirin Can Relieve My Headache?</sup>
 
 ##### [Thermography - A Big Data Problem (Experiments)](./pdf/thermography-a-big-data-problem-experiments.pdf)
