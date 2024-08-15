@@ -20,9 +20,10 @@ Over the years, *@snoidetx* has been making learning materials for the courses h
 
 ## Course Forecast
 ```
-- MA3252 Linear and Network Optimisation
-- MA4264 Game Theory
-- MA4270 Data Modelling and Computation
+- ST2334 Probability and Statistics
+- MA4254 Discrete Optimisation
+- CS4234 Optimisation Algorithms
+- CS5234 Algorithms at Scale
 ```
 
 ---
