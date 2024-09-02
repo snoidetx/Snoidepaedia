@@ -42,4 +42,4 @@ parent: Education
 | **COMP** | CP3209 | CP3209 | - | CS4234 |
 |  | CS2309 | CS3236 | - | CS5234 |
 |  | - | CS5340 | - | ES2660 |
-| **Total** | **28 MCs** | **20 MCs** | **18 MC** | **30 MC** |
+| **Total** | **28 MCs** | **20 MCs** | **18 MCs** | **30 MCs** |

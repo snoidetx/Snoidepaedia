@@ -46,6 +46,7 @@ In 2018, *@snoidetx* was admitted into **Singapore National Junior College** (NJ
 * H2 Further Mathematics
 * H2 Mathematics
 * H2 Physics
+* H3 Science Research
 
 Beyond curricular, *@snoidetx* also served as Section Leader of NJC Chinese Orchestra and Guzheng Ensemble (Bowed String Section) and Member of NJC Mathematics Society.
 
