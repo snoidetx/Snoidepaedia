@@ -13,7 +13,7 @@ Life in Japan.
 
 ---
 
-In AY2023/24 Semester 1, *@snoidetx* was enrolled in **Tokyo Institute of Technology** (Tokyo Tech, Japanese: 東京工業大学) as his **Student Exchange Programme**<sup>[?](https://www.science.nus.edu.sg/undergraduates/study-abroad-programmes/outgoing/student-exchange-programme-sep/)</sup> (SEP), which composes his 5-month life in Japan. Here is a list of courses he took:
+In AY2023/24 Semester 1, *@snoidetx* was enrolled in **Tokyo Institute of Technology** (Tokyo Tech, Japanese: 東京工業大学) through **Student Exchange Programme**<sup>[?](https://www.science.nus.edu.sg/undergraduates/study-abroad-programmes/outgoing/student-exchange-programme-sep/)</sup> (SEP), which composes his 5-month life in Japan. Here is a list of courses he took:
 
 * ART.T466 3D Computer Vision
 * GEG.T414 Linear Wave Theory and Simulation
