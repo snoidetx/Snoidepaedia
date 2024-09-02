@@ -5,13 +5,13 @@ parent: Research
 nav_exclude: true
 ---
 
-# Deletion-Robust Data Valuation for Machine Learning
+# DeRDaVa: Deletion-Robust Data Valuation for Machine Learning
 {: .fs-9 }
 
 X. Tian, R.H.L. Sim, J. Fan, & B.K.H. Low. 2024.
 {: .fs-6 .fw-300 }
 
-[View Source](https://arxiv.org/abs/2312.11413){: .btn .btn-purple}
+[View Source](https://ojs.aaai.org/index.php/AAAI/article/view/29462){: .btn .btn-purple}
 
 ---
 
