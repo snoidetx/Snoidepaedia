@@ -3,6 +3,9 @@ description: Everything related to @snoidetx
 
 remote_theme: snoidetx/just-the-docs
 
+includes:
+  - head_custom.html
+
 plugins:
   - jekyll-remote-theme
 
