@@ -54,7 +54,7 @@ The table below shows the teaching ratings Tian Xiao *@snoidetx* received from h
 
 <div class="collapsible-gap"></div>
 
-<details markdown="block" open><summary><h2>Education Background</h2></summary>
+<details markdown="block"><summary><h2>Education Background</h2></summary>
 
 | <img src="img/logos/logo-nus.png" width="150%" height="100%"> | National University of Singapore |
 | :-: | --- |
