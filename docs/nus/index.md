@@ -38,7 +38,7 @@ Prior to landing in Singapore, *@snoidetx* completed his primary and lower secon
 Beyond curriculum, *@snoidetx* was also a member of CHS Chinese Drama, where he played a role of Student Director.
 
 ### Junior College Education
-In 2018, *@snoidetx* was admitted into **Singapore National Junior College** (NJC, Chinese: 国家初级学院) through O-Level. He studied there for 2 years and took the Singapore Cambridge GCE A-Level Examination. Here is a list of courses he took:
+In 2018, *@snoidetx* was admitted into **Singapore National Junior College** (NJC; Chinese: 国家初级学院) through O-Level. He studied there for 2 years and took the Singapore Cambridge GCE A-Level Examination. Here is a list of courses he took:
 
 * H1 General Paper
 * H1 Project Work
@@ -51,7 +51,7 @@ In 2018, *@snoidetx* was admitted into **Singapore National Junior College** (NJ
 Beyond curricular, *@snoidetx* also served as Section Leader of NJC Chinese Orchestra and Guzheng Ensemble (Bowed String Section) and Member of NJC Mathematics Society.
 
 ### Tertiary Education
-In 2020, *@snoidetx* joined **National University of Singapore** (NUS, Chinese: 新加坡国立大学) as an undergraduate, and was granted Science & Technology Undergraduate Merit Scholarship (S&T). He was enrolled in the **Double Degree Programme in Applied Mathematics and Computer Science**, where he took the two degrees concurrently. He was also in the **Ridge View Residential College Programme**, a distinct two-year living-and-learning experience focused on sustainability and experiential and outdoor learning<sup>[1](#references)</sup>.
+In 2020, *@snoidetx* joined **National University of Singapore** (NUS; Chinese: 新加坡国立大学) as an undergraduate, and was granted Science & Technology Undergraduate Merit Scholarship (S&T). He was enrolled in the **Double Degree Programme in Applied Mathematics and Computer Science**, where he took the two degrees concurrently. He was also in the **Ridge View Residential College Programme**, a distinct two-year living-and-learning experience focused on sustainability and experiential and outdoor learning<sup>[1](#references)</sup>.
 
 ---
 

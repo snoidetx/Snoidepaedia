@@ -14,7 +14,7 @@ Produced by *@snoidetx*.
 
 Over the years, *@snoidetx* has been making learning materials for the courses he took and taught, including helpsheets, notes, mindmaps, etc., to help both others and himself. He has collated all the resource and put them here. Enjoy!
 
-**Note: Some of the resources are generated from LaTeX and not available for printing. Please convert them to printable format (e.g. screenshot) for printing purpose.**
+**Note: Some of the resources are generated from LaTeX and not available for printing directly. Please convert them to printable format (e.g., screenshot) for printing purpose.**
 
 ---
 
