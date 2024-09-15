@@ -15,7 +15,7 @@ Honours year undergraduate student at National University of Singapore.
 
 ---
 
-**I will be joining National University of Singapore as a Ph.D. in Computer Science student in Spring 2015.**
+**I will be joining National University of Singapore as a Ph.D. in Computer Science student in Spring 2025.**
 
 I am <u>Tian</u> Xiao (a.k.a. *@snoidetx*), an honours year undergraduate student at National University of Singapore pursuing a double degree in Applied Mathematics and Computer Science. Click on each section below or view my résumé to learn more about me.
 
