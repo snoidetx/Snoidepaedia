@@ -8,7 +8,7 @@ nav_exclude: true
 # Deletion-Anticipative Data Selection with a Limited Budget
 {: .fs-9 }
 
-R.H.L. Sim, J. Fan, X. Tian, & B.K.H. Low. 2024.
+R.H.L. Sim, J. Fan, X. Tian, B.K.H. Low, and P. Jaillet. 2024.
 {: .fs-6 .fw-300 }
 
 [View Source](https://proceedings.mlr.press/v235/sim24a.html){: .btn .btn-purple}
@@ -29,7 +29,7 @@ Learners with a limited budget can use supervised data subset selection and acti
 ```
 @inproceedings{sim2024deletion,
   title={Deletion-Anticipative Data Selection with a Limited Budget},
-  author={Sim, Rachael Hwee Ling and Fan, Jue and Tian, Xiao and Low, Bryan Kian Hsiang},
+  author={Sim, Rachael Hwee Ling and Fan, Jue and Tian, Xiao and Low, Bryan Kian Hsiang and Jaillet, Patrick},
   booktitle={Proc. ICML},
   volume={235},
   pages={45468--45507},
