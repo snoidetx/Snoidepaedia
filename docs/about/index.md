@@ -15,13 +15,15 @@ Honours year undergraduate student at National University of Singapore.
 
 ---
 
-Tian Xiao *@snoidetx* is an honours year undergraduate student at National University of Singapore pursuing a double degree in Applied Mathematics and Computer Science. Click on each section below or view his résumé to learn more about him.
+**I will be joining National University of Singapore as a Ph.D. in Computer Science student in Spring 2025.**
+
+I am <u>Tian</u> Xiao (a.k.a. *@snoidetx*), an honours year undergraduate student at National University of Singapore pursuing a double degree in Applied Mathematics and Computer Science. Click on each section below or view my résumé to learn more about me.
 
 ## Research and Professional Experiences
 
-Tian Xiao *@snoidetx* is currently working on his honours year thesis under the supervision of Prof Bryan Kian Hsiang Low. For details about his research areas, interests, publications and projects, please refer to the [**Research**](../research) section.
+I am currently working on my honours year thesis under the supervision of Prof Bryan Kian Hsiang Low. For details about my research areas, interests, publications and projects, please refer to the [**Research**](../research) section.
 
-Below gives a timeline of his research and professional experiences:
+Below gives a timeline of my research and professional experiences:
 
 | <img src="img/logos/logo-nus.png" width=75> | National University of Singapore |
 | :-: | --- |
@@ -41,9 +43,9 @@ Below gives a timeline of his research and professional experiences:
 
 ## Teaching Experiences
 
-Tian Xiao *@snoidetx* has been actively teaching machine learning, algorithm and programming courses under School of Computing at National University of Singapore. He was placed in the Honour List of Student Tutors for two consecutive years (4 semesters). For details about the courses he has taught, please refer to the [**Teaching**](../teaching) section.
+I have been actively teaching machine learning, algorithm and programming courses under School of Computing at National University of Singapore. I was placed in the Honour List of Student Tutors for two consecutive years (4 semesters). For details about the courses I taught, please refer to the [**Teaching**](../teaching) section.
 
-The table below shows the teaching ratings Tian Xiao *@snoidetx* received from his students for each of the courses he taught, in comparison to the faculty average rating at School of Computing.
+The table below shows the teaching ratings I received from my students for each of the courses I taught, in comparison to the faculty average rating at NUS School of Computing.
 
 | Course | Name | Tian Xiao's Rating | Faculty Average Rating |
 | :-: | :-- | :-: | :-: |
