@@ -15,19 +15,19 @@ Honours year undergraduate student at National University of Singapore.
 
 ---
 
-**I will be joining National University of Singapore as a Ph.D. in Computer Science student in Spring 2025.**
+I am <u>Tian</u> Xiao (a.k.a. *@snoidetx*), an honours year undergraduate student at National University of Singapore pursuing a double degree in Applied Mathematics and Computer Science. **I will be joining National University of Singapore as a Ph.D. in Computer Science student in Spring 2025.** My supervisor is Assoc. Prof. Bryan Kian Hsiang Low<sup>[?](https://www.comp.nus.edu.sg/cs/people/lowkh/)</sup>.
 
-I am <u>Tian</u> Xiao (a.k.a. *@snoidetx*), an honours year undergraduate student at National University of Singapore pursuing a double degree in Applied Mathematics and Computer Science. Click on each section below or view my résumé to learn more about me.
+Click on each section below or view my résumé to learn more about me.
 
 ## Research and Professional Experiences
 
-I am currently working on my honours year thesis under the supervision of Prof Bryan Kian Hsiang Low. For details about my research areas, interests, publications and projects, please refer to the [**Research**](../research) section.
+I am currently working on my honours year thesis under the supervision of Assoc. Prof. Bryan Kian Hsiang Low. For details about my research areas, interests, publications and projects, please refer to the [**Research**](../research) section.
 
 Below gives a timeline of my research and professional experiences:
 
 | <img src="img/logos/logo-nus.png" width=75> | National University of Singapore |
 | :-: | --- |
-| <img src="img/timeline-end.png" width="150%" height="100%"> | **Researcher**<br>May 2023 - Sep 2023<br>Internship · 5 mos<br><br>• Conducted research on collaborative machine learning and privacy-preserving machine learning under the supervision of A/P Bryan Kian Hsiang Low<sup>[?](https://www.comp.nus.edu.sg/cs/people/lowkh/)</sup>.<br><br> |
+| <img src="img/timeline-end.png" width="150%" height="100%"> | **Researcher**<br>May 2023 - Sep 2023<br>Internship · 5 mos<br><br>• Conducted research on collaborative machine learning and privacy-preserving machine learning under the supervision of Assoc. Prof. Bryan Kian Hsiang Low.<br><br> |
 {: .table-about }
 
 | <img src="img/logos/logo-singtel.png" width=75> | Singtel |
@@ -47,7 +47,7 @@ I have been actively teaching machine learning, algorithm and programming course
 
 The table below shows the teaching ratings I received from my students for each of the courses I taught, in comparison to the faculty average rating at NUS School of Computing.
 
-| Course | Name | Tian Xiao's Rating | Faculty Average Rating |
+| Course | Name | My Rating | Faculty Average Rating |
 | :-: | :-- | :-: | :-: |
 | **CS2040** | **Data Structures and Algorithms** | **4.6**/5.0 | 4.2/5.0 |
 | **CS2030/S** | **Programming Methodology II** | **4.8**/5.0 | 4.2/5.0 |

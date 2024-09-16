@@ -15,7 +15,7 @@ Explore. Adventure.
 
 ---
 
-Scientific research has been one of the favourite activities of *@snoidetx*. When he was very young, he tried to research and write papers about the optimal angle when shooting basketballs. Afterwards, *@snoidetx* has been actively seeking for research opportunities. He took H3 Science Research in National Junior College (NJC), where he got a chance to research in Agency for Science, Technology and Research (A\*STAR) for 1 year. In National University of Singapore (NUS), *@snoidetx* proactively chose modules with research aspect to enrich his research experience. He enrolled in the Undergraduate Research Opportunity Programme (UROP<sup>[?](https://www.comp.nus.edu.sg/programmes/ug/project/urop/)</sup>) under the supervision of Prof. Bryan Kian Hsiang Low<sup>[?](https://www.comp.nus.edu.sg/cs/people/lowkh/)</sup> and the paper has been accepted into the AAAI-24<sup>[?](https://aaai.org/aaai-conference/)</sup> conference.
+Scientific research has been one of the favourite activities of *@snoidetx*. When he was very young, he tried to research and write papers about the optimal angle when shooting basketballs. Afterwards, *@snoidetx* has been actively seeking for research opportunities. He took H3 Science Research in National Junior College (NJC), where he got a chance to research in Agency for Science, Technology and Research (A\*STAR) for 1 year. In National University of Singapore (NUS), *@snoidetx* proactively chose modules with research aspect to enrich his research experience. He enrolled in the Undergraduate Research Opportunity Programme (UROP<sup>[?](https://www.comp.nus.edu.sg/programmes/ug/project/urop/)</sup>) under the supervision of Assoc. Prof. Bryan Kian Hsiang Low<sup>[?](https://www.comp.nus.edu.sg/cs/people/lowkh/)</sup> and the paper has been accepted into the AAAI-24<sup>[?](https://aaai.org/aaai-conference/)</sup> conference.
 
 Currently, *@snoidetx* is preparing for his Integrated Honours Project (IHT) thesis.
 
@@ -27,8 +27,8 @@ Currently, *@snoidetx* is preparing for his Integrated Honours Project (IHT) the
 
 ## Publications
 
-##### [Deletion-Anticipative Data Selection With a Limited Budget](./deletion-anticipative-data)
-<sup>R.H.L. Sim, J. Fan, **X. Tian** & B.K.H. Low · 2024 · The 41st International Conference on Machine Learning (**ICML-24**)</sup>
+##### [Deletion-Anticipative Data Selection with a Limited Budget](./deletion-anticipative-data)
+<sup>R.H.L. Sim, J. Fan, **X. Tian**, B.K.H. Low & P. Jaillet · 2024 · The 41st International Conference on Machine Learning (**ICML-24**)</sup>
 
 ##### [DeRDaVa: Deletion-Robust Data Valuation for Machine Learning](./derdava-deletion-robust) 
 <sup>**X. Tian**, R.H.L. Sim, J. Fan & B.K.H. Low · 2024 · The 38th Annual AAAI Conference on Artificial Intelligence (**AAAI-24**)</sup>
