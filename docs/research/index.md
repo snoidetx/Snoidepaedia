@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Research
-nav_order: 6
+nav_order: 4
 has_children: false
 ---
 
@@ -11,7 +11,7 @@ has_children: false
 Explore. Adventure.
 {: .fs-6 .fw-300 }
 
-[&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Google Scholar&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;](https://scholar.google.com/citations?user=FdGSDcQAAAAJ&hl=en){: .btn .btn-purple} &nbsp; &nbsp; [&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GitHub&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;](https://github.com/snoidetx){: .btn}
+[Google Scholar](https://scholar.google.com/citations?user=FdGSDcQAAAAJ&hl=en){: .btn-left} <span class='btn-filler'></span> [GitHub](https://github.com/snoidetx){: .btn-right}
 
 ---
 

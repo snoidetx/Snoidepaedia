@@ -1,3 +1,105 @@
+@import "./custom_news_list.scss";
+@import "./custom_buttons.scss";
+
+// LAYOUT
+$nav-width: 360px;
+
+.site-nav,
+.site-header,
+.site-footer {
+  width: 100%;
+
+  @include mq(lg) {
+    width: $nav-width;
+  }
+}
+
+.side-bar {
+  z-index: 0;
+  display: flex;
+  flex-wrap: wrap;
+  background-color: $sidebar-color;
+
+  @include mq(md) {
+    flex-wrap: nowrap;
+    position: fixed;
+    width: $nav-width-md;
+    height: 100%;
+    flex-direction: column;
+    border-right: $border $border-color;
+    align-items: flex-end;
+  }
+
+  @include mq(lg) {
+    width: calc((100% - #{$nav-width + $content-width}) / 2 + #{$nav-width});
+    min-width: $nav-width;
+  }
+}
+
+.main {
+  @include mq(md) {
+    position: relative;
+    max-width: $content-width;
+    margin-left: $nav-width-md;
+  }
+
+  @include mq(lg) {
+    margin-left: calc(
+      (100% - #{$nav-width + $content-width}) / 2 + #{$nav-width}
+    );
+  }
+}
+
+.footer {
+  @include container;
+
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: left;
+  font-size: 14px;
+  padding-bottom: $sp-3;
+
+  @include mq(lg) {
+    width: $nav-width;
+  }
+}
+
+.footer-item {
+  display: flex;
+  @include fs-4;
+  @include mq(md) {
+    @include fs-3;
+  }
+}
+
+.site-profile {
+  width: 100%; 
+  display: flex; 
+  align-items: center; 
+  padding: 0; 
+  padding-top: 0; 
+  padding-bottom: $sp-3;
+
+  &.nav-open {
+    padding-top: $sp-3;
+  }
+}
+
+.site-contact {
+  display: none;
+  padding-top: $sp-3;
+  padding-bottom: $sp-3;
+
+  &.nav-open {
+    display: block;
+  }
+
+  @include mq(md) {
+    display: block;
+  }
+}
+
 // IMAGES
 img {
   max-width: 100%;
@@ -247,4 +349,3 @@ summary h2 {
 .collapsible-gap {
   margin-top: 12px;
 }
-

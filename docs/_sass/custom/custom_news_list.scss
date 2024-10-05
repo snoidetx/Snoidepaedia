@@ -1,0 +1,13 @@
+@import "./buttons.scss";
+
+.hidden-news {
+  display: none;
+}
+
+.list-news-btn {
+  @extend .btn;
+}
+
+#list-news-btn {
+  display: none;
+}

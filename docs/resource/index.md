@@ -14,16 +14,16 @@ Produced by *@snoidetx*.
 
 Over the years, *@snoidetx* has been making learning materials for the courses he took and taught, including helpsheets, notes, mindmaps, etc., to help both others and himself. He has collated all the resource and put them here. Enjoy!
 
-**Note: Some of the resources are generated from LaTeX and not available for printing directly. Please convert them to printable format (e.g., screenshot) for printing purpose.**
+Do note that some of the resources are generated from LaTeX and may not be available for direct printing. Please convert them to printable format (e.g., screenshot) for printing purpose.
 
 ---
 
 ## Course Forecast
 ```
-- ST2334 Probability and Statistics
-- MA4254 Discrete Optimisation
 - CS4234 Optimisation Algorithms
 - CS5234 Algorithms at Scale
+- MA4254 Discrete Optimisation
+- ST2334 Probability and Statistics
 ```
 
 ---
