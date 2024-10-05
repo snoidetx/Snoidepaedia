@@ -24,9 +24,9 @@ You may find my schedule by clicking on the **Timetable** button above!
 ## News 🔥
 
 - *13/06/2024* - 🏆 I was awarded the **Outstanding Undergraduate Researcher Prize** as the best individual undergraduate researcher in NUS.
-- *02/05/2024* - 🎉 Our paper *Deletion-Anticipative Data Selection with a Limited Budget* was accepted to **ICML-24**.
+- *02/05/2024* - 🎉 Our paper [*Deletion-Anticipative Data Selection with a Limited Budget*](./research/deletion-anticipative-data.md) was accepted to **ICML-24**.
 - *20/02/2024* - I attended **AAAI-24**.
-- *09/12/2023* - 🎉 Our paper *DeRDaVa: Deletion-Robust Data Valuation for Machine Learning* was accepted to **AAAI-24**.
+- *09/12/2023* - 🎉 Our paper [*DeRDaVa: Deletion-Robust Data Valuation for Machine Learning*](./research/derdava-deletion-robust.md) was accepted to **AAAI-24**.
 {: #list-news }
 
 <div style="display: flex; justify-content: center; align-items: center;">

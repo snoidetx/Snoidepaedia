@@ -25,7 +25,7 @@ Currently, *@snoidetx* is preparing for his Integrated Honours Project (IHT) the
 * Multi-agent machine learning (e.g., collaborative/federated learning, incentive mechanism)
 * Privacy-preserving machine learning (e.g., differentially private machine learning)
 
-## Publications
+## Publications and Preprints
 
 ##### [Deletion-Anticipative Data Selection with a Limited Budget](./deletion-anticipative-data)
 <sup>R.H.L. Sim, J. Fan, **X. Tian**, B.K.H. Low & P. Jaillet · 2024 · The 41st International Conference on Machine Learning (**ICML-24**)</sup>
