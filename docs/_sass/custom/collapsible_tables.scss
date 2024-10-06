@@ -1,0 +1,41 @@
+details > summary {
+  list-style: none;
+}
+
+details > summary::-webkit-details-marker {
+  display: none;
+}
+
+summary {
+  display: inline-block; /* Use inline-block for better control */
+  list-style: none;
+  position: relative; /* For positioning the pseudo-element */
+  padding-right: 30px; /* Space for the triangle */
+}
+
+summary::after {
+  content: '';
+  position: absolute;
+  right: 10px; /* Adjust as needed */
+  top: 60%;
+  border-left: 7px solid transparent;
+  border-right: 7px solid transparent;
+  border-top: 12.124px solid black; /* Height of the equilateral triangle */
+  transform: translateY(-50%);
+}
+
+details[open] summary::after {
+  top: 55%;
+  border-top: none;
+  border-bottom: 12.124px solid black; /* Triangle pointing upwards */
+}
+
+summary h2 {
+  display: inline; /* Make h2 an inline element */
+  margin: 0; /* Remove default margin */
+  vertical-align: middle;
+}
+
+.collapsible-gap {
+  margin-top: 12px;
+}
