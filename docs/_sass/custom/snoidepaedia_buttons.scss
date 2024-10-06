@@ -1,0 +1,141 @@
+@import "buttons";
+@import "snoidepaedia_colors";
+
+$button-width: 170px;
+$button-small-width: 85px;
+$btn-secondary-color: $s-lightblue;
+
+.btn-secondary {
+  @include btn-color($s-white, $btn-secondary-color);
+}
+
+.btn-left {
+  @extend .btn;
+  @extend .btn-primary;
+
+  width: calc(
+    (100% - #{$sp-3}) / 2
+  );
+  text-align: center;
+  margin-left: 0;
+
+  @include mq(lg) {
+    width: $button-width;
+    margin-left: 0;
+  }
+}
+
+.btn-right {
+  @extend .btn;
+  width: calc(
+    (100% - 3 * #{$sp-3}) / 2
+  );
+  text-align: center;
+
+  @include mq(lg) {
+    width: $button-width;
+  }
+}
+
+.btn-whole {
+  @extend .btn;
+  @include btn-color($white, $purple-100);
+  width: 100%;
+  text-align: center;
+  margin-left: 0;
+
+  @include mq(lg) {
+    width: $button-width;
+    margin-left: 0;
+  }
+}
+
+.btn-filler {
+  display: inline-block;
+  width: $sp-3;
+}
+
+.btn-small-1 {
+  @extend .btn;
+  @extend .btn-secondary;
+  @extend .addition;
+
+  width: calc(
+    (100% - #{$sp-1} * 3) / 4
+  );
+  text-align: center;
+  margin-left: 0;
+  padding-left: 0;
+  padding-right: 0;
+
+  @include mq(lg) {
+    width: $button-small-width;
+    margin-left: 0;
+  }
+}
+
+.btn-small-2 {
+  @extend .btn;
+  @extend .addition;
+
+  width: calc(
+    (100% - #{$sp-1} * 3) / 4
+  );
+  text-align: center;
+
+  @include mq(lg) {
+    width: $button-small-width;
+    margin-left: 0;
+  }
+}
+
+.btn-small-3 {
+  @extend .btn;
+  @extend .addition;
+  @extend .btn-secondary;
+
+  width: calc(
+    (100% - #{$sp-1} * 3) / 4
+  );
+  text-align: center;
+
+  @include mq(lg) {
+    width: $button-small-width;
+    margin-left: 0;
+  }
+}
+
+.btn-small-4 {
+  @extend .btn;
+  @extend .addition;
+
+  width: calc(
+    (100% - #{$sp-1} * 3) / 4
+  );
+  text-align: center;
+
+  @include mq(lg) {
+    width: $button-small-width;
+    margin-left: 0;
+  }
+}
+
+.btn-small-filler {
+  display: inline-block;
+  width: $sp-1;
+}
+
+.btn-small-download {
+  @extend .btn;
+  @extend .addition;
+
+  width: calc(
+    (var(--screen-width) - #{$sp-1} * 3) / 4
+  );
+  text-align: center;
+
+  @include mq(lg) {
+    width: $button-small-width;
+    margin-left: 0;
+  }
+}

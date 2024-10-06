@@ -11,7 +11,7 @@ nav_exclude: true
 X. Tian, M. Yin, & H. Goh. 2019.
 {: .fs-6 .fw-300 }
 
-[View Source](https://arxiv.org/abs/1903.02854){: .btn .btn-purple}
+[View Source](https://arxiv.org/abs/1903.02854){: .btn-whole }
 
 ---
 

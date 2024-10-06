@@ -1,3 +1,16 @@
+
+
+function updateScreenWidth() {
+  const width = window.innerWidth;
+  document.documentElement.style.setProperty('--screen-width', `${width}px`);
+}
+
+updateScreenWidth();
+window.addEventListener('resize', updateScreenWidth);
+
+{% include js/resource_table_formatter.js %}
+formatResourceTable();
+
 document.addEventListener('DOMContentLoaded', function() {
   const siteProfile = document.getElementById('site-profile');
   const siteContact = document.getElementById('site-contact');

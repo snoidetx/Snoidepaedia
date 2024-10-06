@@ -11,7 +11,7 @@ nav_exclude: true
 R.H.L. Sim, J. Fan, X. Tian, B.K.H. Low, and P. Jaillet. 2024.
 {: .fs-6 .fw-300 }
 
-[View Source](https://proceedings.mlr.press/v235/sim24a.html){: .btn .btn-purple}
+[View Source](https://proceedings.mlr.press/v235/sim24a.html){: .btn-whole}
 
 ---
 

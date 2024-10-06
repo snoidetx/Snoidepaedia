@@ -27,7 +27,7 @@ Things related to Xiao Tian *@snoidetx*.
 
 ### snoidetx.github.io
 
-**<ins>snoidetx.github.io</ins>** is a shortcut to the **About Me** page of Snoídepaedia, i.e., it is the portfolio page of *@snoidetx*. 
+**<ins>snoidetx.github.io</ins>** is a shortcut to the **Home** page of Snoídepaedia. 
 
 Previously, <ins>snoidetx.github.io</ins> alone serves as the personal website of *@snoidetx*, until its depreciation on 21/06/2022. However, in memory of its contribution, you can still view an archived version of the former <ins>snoidetx.github.io</ins> through this link: [snoidetx.github.io/archive/](https://snoidetx.github.io/archive/).
 

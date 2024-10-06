@@ -11,7 +11,7 @@ nav_exclude: true
 X. Tian, R.H.L. Sim, J. Fan, & B.K.H. Low. 2024.
 {: .fs-6 .fw-300 }
 
-[View Source](https://ojs.aaai.org/index.php/AAAI/article/view/29462){: .btn .btn-purple}
+[View Source](https://ojs.aaai.org/index.php/AAAI/article/view/29462){: .btn-whole}
 
 ---
 

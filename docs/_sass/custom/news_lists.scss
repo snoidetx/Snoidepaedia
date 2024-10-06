@@ -1,11 +1,12 @@
-@import "./buttons.scss";
+@import "buttons";
+@import "./snoidepaedia_buttons.scss";
 
 .hidden-news {
   display: none;
 }
 
 .list-news-btn {
-  @extend .btn;
+  @extend .btn-small-1;
 }
 
 #list-news-btn {
