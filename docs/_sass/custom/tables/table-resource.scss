@@ -1,0 +1,25 @@
+.table-resource-new {
+  table-layout: fixed;
+  width: 100%;
+}
+
+.table-resource-new th {
+  @include fs-5;
+  text-align: left;
+  border-bottom-width: 3px;
+  border-bottom-color: #a9a9a9;
+}
+
+.table-resource-new td {
+  @include fs-4;
+  overflow-wrap: break-word;
+  word-wrap: break-all;
+  -ms-word-break: break-all;
+  word-break: break-word;
+  border-bottom: none;
+
+  &:last-child {
+    text-align: center;
+  }
+}
+

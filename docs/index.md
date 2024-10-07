@@ -34,4 +34,4 @@ You may find my schedule by clicking on the **Timetable** button above!
   <button id="list-news-btn" class="list-news-btn">Show more</button>
 </div>
 
-
+<script>{% include js/home/control_news_list.js %}</script>

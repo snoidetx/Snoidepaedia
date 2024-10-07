@@ -1,0 +1,540 @@
+{
+  "Mathematics": [
+    {
+      "code": "N/A",
+      "name": "Integration and Differential Equation",
+      "resources": [
+        {
+          "title": "Formula List",
+          "link": "./pdf/NUS-UniversityIntegrationAndDifferentialEquationFormulaList.pdf"
+        }
+      ]
+    },
+    {
+      "code": "MA1101R",
+      "name": "Linear Algebra I",
+      "resources": [
+        {
+          "title": "Notes",
+          "link": "./pdf/NUS-MA1101R-Notes.pdf"
+        }
+      ]
+    },
+    {
+      "code": "MA1102R",
+      "name": "Calculus",
+      "resources": [
+        {
+          "title": "Notes",
+          "link": "./pdf/NUS-MA1102R-Notes.pdf"
+        },
+        {
+          "title": "SageMath Commands",
+          "link": "./pdf/NUS-MA1102R-SagemathCommands.pdf"
+        }
+      ]
+    },
+    {
+      "code": "MA2101",
+      "name": "Linear Algebra II",
+      "resources": [
+        {
+          "title": "Midterm Examination Helpsheet",
+          "link": "./pdf/NUS-MA2101-MidtermExaminationHelpsheet.pdf"
+        }
+      ]
+    },
+    {
+      "code": "MA2104",
+      "name": "Multivariable Calculus",
+      "resources": [
+        {
+          "title": "Notes",
+          "link": "./pdf/NUS-MA2104-Notes.pdf"
+        }
+      ]
+    },
+    {
+      "code": "MA2108",
+      "name": "Mathematical Analysis I",
+      "resources": [
+        {
+          "title": "Notes",
+          "link": "./pdf/NUS-MA2108-Notes.pdf"
+        }
+      ]
+    },
+    {
+      "code": "MA2213",
+      "name": "Numerical Analysis I",
+      "resources": [
+        {
+          "title": "Final Examination Helpsheet",
+          "link": "./pdf/NUS-MA2213-FinalExaminationHelpsheet.pdf"
+        }
+      ]
+    },
+    {
+      "code": "MA2214",
+      "name": "Combinatorics and Graphs I",
+      "resources": [
+        {
+          "title": "Final Examination Helpsheet",
+          "link": "./pdf/NUS-MA2214-FinalExaminationHelpsheet.pdf"
+        },
+        {
+          "title": "Midterm Examination Helpsheet",
+          "link": "./pdf/NUS-MA2214-MidtermExaminationHelpsheet.pdf"
+        }
+      ]
+    },
+    {
+      "code": "MA3205",
+      "name": "Set Theory",
+      "resources": [
+        {
+          "title": "Final Examination Helpsheet",
+          "link": "./pdf/NUS-MA3205-FinalExaminationHelpsheet.pdf"
+        },
+        {
+          "title": "Midterm Examination 1 Helpsheet",
+          "link": "./pdf/NUS-MA3205-MidtermExamination1Helpsheet.pdf"
+        },
+        {
+          "title": "Midterm Examination 1 Notes",
+          "link": "./pdf/NUS-MA3205-MidtermExamination1Notes.pdf"
+        },
+        {
+          "title": "Midterm Examination 2 Helpsheet",
+          "link": "./pdf/NUS-MA3205-MidtermExamination2Helpsheet.pdf"
+        }
+      ]
+    },
+    {
+      "code": "MA3220",
+      "name": "Ordinary Differential Equations",
+      "resources": [
+        {
+          "title": "Final Examination Helpsheet",
+          "link": "./pdf/NUS-MA3220-FinalExaminationHelpsheet.pdf"
+        },
+        {
+          "title": "Midterm Examination Helpsheet",
+          "link": "./pdf/NUS-MA3220-MidtermExaminationHelpsheet.pdf"
+        }
+      ]
+    },
+    {
+      "code": "MA3236",
+      "name": "Non-Linear Programming",
+      "resources": [
+        {
+          "title": "Midterm Examination Helpsheet",
+          "link": "./pdf/NUS-MA3236-MidtermExaminationHelpsheet.pdf"
+        },
+        {
+          "title": "Final Examination Helpsheet",
+          "link": "./pdf/NUS-MA3236-FinalExaminationHelpsheet.pdf"
+        }
+      ]
+    },
+    {
+      "code": "MA3252",
+      "name": "Linear Programming",
+      "resources": [
+        {
+          "title": "Midterm Examination Helpsheet",
+          "link": "./pdf/NUS-MA3252-MidtermExaminationHelpsheet.pdf"
+        },
+        {
+          "title": "Final Examination Helpsheet",
+          "link": "./pdf/NUS-MA3252-FinalExaminationHelpsheet.pdf"
+        }
+      ]
+    },
+    {
+      "code": "MA3264",
+      "name": "Mathematical Modelling",
+      "resources": [
+        {
+          "title": "Quiz 1 Helpsheet",
+          "link": "./pdf/NUS-MA3264-Quiz1Helpsheet.pdf"
+        },
+        {
+          "title": "Quiz 2 Helpsheet",
+          "link": "./pdf/NUS-MA3264-Quiz2Helpsheet.pdf"
+        },
+        {
+          "title": "Final Examination Helpsheet",
+          "link": "./pdf/NUS-MA3264-FinalExaminationHelpsheet.pdf"
+        }
+      ]
+    },
+    {
+      "code": "MA4207",
+      "name": "Mathematical Logic",
+      "resources": [
+        {
+          "title": "Midterm Examination Helpsheet",
+          "link": "./pdf/NUS-MA4207-MidtermExaminationHelpsheet.pdf"
+        },
+        {
+          "title": "Final Examination Helpsheet",
+          "link": "./pdf/NUS-MA4207-FinalExaminationHelpsheet.pdf"
+        }
+      ]
+    },
+    {
+      "code": "MA4229",
+      "name": "Fourier Analysis and Approximation",
+      "resources": [
+        {
+          "title": "Midterm Examination Helpsheet",
+          "link": "./pdf/NUS-MA4229-MidtermExaminationHelpsheet.pdf"
+        },
+        {
+          "title": "Final Examination Helpsheet",
+          "link": "./pdf/NUS-MA4229-FinalExaminationHelpsheet.pdf"
+        }
+      ]
+    },
+    {
+      "code": "MA4254",
+      "name": "Discrete Optimisation",
+      "resources": [
+        {
+          "title": "Midterm Examination Helpsheet",
+          "link": "./pdf/NUS-MA4254-MidtermExaminationHelpsheet.pdf"
+        }
+      ]
+    },
+    {
+      "code": "MA4264",
+      "name": "Game Theory",
+      "resources": [
+        {
+          "title": "Midterm Examination Helpsheet",
+          "link": "./pdf/NUS-MA4264-MidtermExaminationHelpsheet.pdf"
+        },
+        {
+          "title": "Final Examination Helpsheet",
+          "link": "./pdf/NUS-MA4264-FinalExaminationHelpsheet.pdf"
+        }
+      ]
+    },
+    {
+      "code": "MA4270",
+      "name": "Data Modelling and Computation",
+      "resources": [
+        {
+          "title": "Midterm Examination Helpsheet",
+          "link": "./pdf/NUS-MA4270-MidtermExaminationHelpsheet.pdf"
+        },
+        {
+          "title": "Final Examination Helpsheet",
+          "link": "./pdf/NUS-MA4270-FinalExaminationHelpsheet.pdf"
+        }
+      ]
+    },
+    {
+      "code": "ST2131",
+      "name": "Probability",
+      "resources": [
+        {
+          "title": "Notes",
+          "link": "./pdf/NUS-ST2131-Notes.pdf"
+        }
+      ]
+    },
+    {
+      "code": "ST3131",
+      "name": "Regression Analysis",
+      "resources": [
+        {
+          "title": "Final Examination Helpsheet",
+          "link": "./pdf/NUS-ST3131-FinalExaminationHelpsheet.pdf"
+        },
+        {
+          "title": "Midterm Examination Helpsheet",
+          "link": "./pdf/NUS-ST3131-MidtermExaminationHelpsheet.pdf"
+        }
+      ]
+    }
+  ],
+  "Computer Science": [
+    {
+      "code": "CS1010/S",
+      "name": "Programming Methodology",
+      "resources": [
+        {
+          "title": "Final Examination Helpsheet",
+          "link": "./pdf/NUS-CS1010S-FinalExaminationHelpsheet.pdf"
+        },
+        {
+          "title": "Midterm Examination Helpsheet",
+          "link": "./pdf/NUS-CS1010S-MidtermExaminationHelpsheet.pdf"
+        },
+        {
+          "title": "Order of Growth Notes",
+          "link": "./pdf/NUS-CS1010S-OrderOfGrowthNotes.pdf"
+        }
+      ]
+    },
+    {
+      "code": "CS1231/S",
+      "name": "Discrete Structures",
+      "resources": [
+        {
+          "title": "Final Examination Helpsheet",
+          "link": "./pdf/NUS-CS1231-FinalExaminationHelpsheet.pdf"
+        },
+        {
+          "title": "Midterm Examination Helpsheet",
+          "link": "./pdf/NUS-CS1231-MidtermExaminationHelpsheet.pdf"
+        }
+      ]
+    },
+    {
+      "code": "CS2030/S",
+      "name": "Programming Methodology II",
+      "resources": [
+        {
+          "title": "Final Examination Helpsheet",
+          "link": "./pdf/NUS-CS2030-FinalExaminationHelpsheet.pdf"
+        },
+        {
+          "title": "Practical Assessment 2 Helpsheet",
+          "link": "./pdf/NUS-CS2030-PracticalAssessment2Helpsheet.pdf"
+        }
+      ]
+    },
+    {
+      "code": "CS2040/S",
+      "name": "Data Structures and Algorithms",
+      "resources": [
+        {
+          "title": "Final Examination Helpsheet",
+          "link": "./pdf/NUS-CS2040-FinalExaminationHelpsheet.pdf"
+        },
+        {
+          "title": "Notes",
+          "link": "./pdf/NUS-CS2040-Notes.pdf"
+        }
+      ]
+    },
+    {
+      "code": "CS2100",
+      "name": "Computer Organisation",
+      "resources": [
+        {
+          "title": "Final Examination Helpsheet",
+          "link": "./pdf/NUS-CS2100-FinalExaminationHelpsheet.pdf"
+        }
+      ]
+    },
+    {
+      "code": "CS2103",
+      "name": "Software Engineering",
+      "resources": [
+        {
+          "title": "Final Examination Helpsheet",
+          "link": "./pdf/NUS-CS2103-FinalExaminationHelpsheet.pdf"
+        }
+      ]
+    },
+    {
+      "code": "CS2106",
+      "name": "Introduction to Operating Systems",
+      "resources": [
+        {
+          "title": "Final Examination Helpsheet",
+          "link": "./pdf/NUS-CS2106-FinalExaminationHelpsheet.pdf"
+        },
+        {
+          "title": "Midterm Examination Helpsheet",
+          "link": "./pdf/NUS-CS2106-MidtermExaminationHelpsheet.pdf"
+        }
+      ]
+    },
+    {
+      "code": "CS3230",
+      "name": "Design and Analysis of Algorithms",
+      "resources": [
+        {
+          "title": "Final Examination Helpsheet",
+          "link": "./pdf/NUS-CS3230-FinalExaminationHelpsheet.pdf"
+        },
+        {
+          "title": "Midterm Examination Helpsheet",
+          "link": "./pdf/NUS-CS3230-MidtermExaminationHelpsheet.pdf"
+        }
+      ]
+    },
+    {
+      "code": "CS3236",
+      "name": "Introduction to Information Theory",
+      "resources": [
+        {
+          "title": "Midterm Examination Helpsheet",
+          "link": "./pdf/NUS-CS3236-MidtermExaminationHelpsheet.pdf"
+        },
+        {
+          "title": "Final Examination Helpsheet",
+          "link": "./pdf/NUS-CS3236-FinalExaminationHelpsheet.pdf"
+        }
+      ]
+    },
+    {
+      "code": "CS3243",
+      "name": "Introduction to Artificial Intelligence",
+      "resources": [
+        {
+          "title": "Final Examination Helpsheet",
+          "link": "./pdf/NUS-CS3243-FinalExaminationHelpsheet.pdf"
+        },
+        {
+          "title": "Midterm Examination Helpsheet",
+          "link": "./pdf/NUS-CS3243-MidtermExaminationHelpsheet.pdf"
+        }
+      ]
+    },
+    {
+      "code": "CS3244",
+      "name": "Machine Learning",
+      "resources": [
+        {
+          "title": "Final Examination Helpsheet",
+          "link": "./pdf/NUS-CS3244-FinalExaminationHelpsheet.pdf"
+        },
+        {
+          "title": "Midterm Examination Helpsheet",
+          "link": "./pdf/NUS-CS3244-MidtermExaminationHelpsheet.pdf"
+        }
+      ]
+    },
+    {
+      "code": "CS5340",
+      "name": "Uncertainty Modelling in AI",
+      "resources": [
+        {
+          "title": "Quiz 1 Notes",
+          "link": "./pdf/NUS-CS5340-Quiz1Notes.pdf"
+        },
+        {
+          "title": "Quiz 2 Notes",
+          "link": "./pdf/NUS-CS5340-Quiz2Notes.pdf"
+        }
+      ]
+    }
+  ],
+  "Others": [
+    {
+      "code": "GEQ1917",
+      "name": "Understanding and Critiquing Sustainability",
+      "resources": [
+        {
+          "title": "Notes",
+          "link": "./pdf/NUS-GEQ1917-Notes.pdf"
+        }
+      ]
+    },
+    {
+      "code": "LAJ.J401",
+      "name": "Basic Japanese 1",
+      "resources": [
+        {
+          "title": "Notes",
+          "link": "./pdf/TITech-LAJJ401-Notes.pdf"
+        }
+      ]
+    },
+    {
+      "code": "LAJ.J412",
+      "name": "Basic Japanese 2",
+      "resources": [
+        {
+          "title": "Notes",
+          "link": "./pdf/TITech-LAJJ412-Notes.pdf"
+        }
+      ]
+    },
+    {
+      "code": "PC1101",
+      "name": "Frontiers of Physics",
+      "resources": [
+        {
+          "title": "Notes",
+          "link": "./pdf/NUS-PC1101-Notes.pdf"
+        }
+      ]
+    }
+  ],
+  "A-Level": [
+    {
+      "code": "8807",
+      "name": "H1 General Paper",
+      "resources": [
+        {
+          "title": "Essay Resources Package",
+          "link": "./zip/ALevel-H2GeneralPaper-EssayResourcesPackage.zip"
+        },
+        {
+          "title": "Essay Skills Package",
+          "link": "./zip/ALevel-H2GeneralPaper-EssaySkillsPackage.zip"
+        }
+      ]
+    },
+    {
+      "code": "9757",
+      "name": "H2 Economics",
+      "resources": [
+        {
+          "title": "Macroeconomics Notes",
+          "link": "./pdf/ALevel-H2Economics-MacroEconomicsNotes.pdf"
+        },
+        {
+          "title": "Microeconomics Notes",
+          "link": "./pdf/ALevel-H2Economics-MicroEconomicsNotes.pdf"
+        }
+      ]
+    },
+    {
+      "code": "9649",
+      "name": "H2 Further Mathematics",
+      "resources": [
+        {
+          "title": "Notes",
+          "link": "./pdf/ALevel-H2FurtherMathematics-Notes.pdf"
+        }
+      ]
+    },
+    {
+      "code": "9758",
+      "name": "H2 Mathematics",
+      "resources": [
+        {
+          "title": "Notes",
+          "link": "./pdf/ALevel-H2Mathematics-Notes.pdf"
+        }
+      ]
+    },
+    {
+      "code": "9749",
+      "name": "H2 Physics",
+      "resources": [
+        {
+          "title": "Notes",
+          "link": "./pdf/ALevel-H2Physics-PracticalNotes.pdf"
+        },
+        {
+          "title": "Practical Examination Notes",
+          "link": "./pdf/ALevel-H2Physics-Notes.pdf"
+        },
+        {
+          "title": "Revision Notes Package",
+          "link": "./zip/ALevel-H2Physics-RevisionNotesPackage.zip"
+        }
+      ]
+    }
+  ]
+}

@@ -128,6 +128,7 @@ $btn-secondary-color: $s-lightblue;
 .btn-small-download {
   @extend .btn;
   @extend .addition;
+  @extend .btn-secondary;
 
   width: calc(
     (var(--screen-width) - #{$sp-1} * 3) / 4
