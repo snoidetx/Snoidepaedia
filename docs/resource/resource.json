@@ -1,7 +1,7 @@
 {
   "Mathematics": [
     {
-      "code": "",
+      "code": "bu",
       "name": "Integration and Differential Equation",
       "resources": [
         {
@@ -243,6 +243,16 @@
         {
           "title": "Notes",
           "link": "./pdf/NUS-ST2131-Notes.pdf"
+        }
+      ]
+    },
+    {
+      "code": "ST2334",
+      "name": "Probability and Statistics",
+      "resources": [
+        {
+          "title": "Midterm Examination Helpsheet",
+          "link": "./pdf/NUS-ST2334-MidtermExaminationHelpsheet.pdf"
         }
       ]
     },
