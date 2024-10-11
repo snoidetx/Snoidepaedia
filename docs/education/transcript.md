@@ -15,8 +15,10 @@ A record of *@snoidetx*'s performance at NUS.
 
 ---
 
-The following version of *@snoidetx*'s undergraduate transcript was uploaded on 24 June 2024. Since *@snoidetx* has not graduated from NUS yet, the transcript is not complete and is an **unofficial** version. For request of his official transcript, please approach *@snoidetx* in person.
+The following version of my undergraduate transcript was uploaded on 24 June 2024. Since I have not graduated from NUS yet, the transcript is not complete and is an **unofficial** version. Please approach me in person if you need my official transcript.
 
-You may also click on the **Academic Plan** button to refer to *@snoidetx*'s academic plan for his undergraduated studies if that helps (e.g., if you are a freshman).
+You may also click on the **Academic Plan** button to refer to my academic plan for my undergraduated studies if that helps (e.g., if you are a freshman).
 
-<iframe src="../pdf/transcript.pdf" style="border: 0" width="100%" height="600" frameborder="0" scrolling="no"></iframe>
+<div class="iframe-pdf-wrapper">
+  <iframe src="https://drive.google.com/viewerng/viewer?embedded=true&url=https://raw.githubusercontent.com/snoidetx/Snoidepaedia/main/docs/education/pdf/transcript.pdf" width="100%" height="600" frameborder="0" scrolling="auto"></iframe>
+</div>

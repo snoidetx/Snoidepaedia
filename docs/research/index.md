@@ -15,9 +15,9 @@ Explore. Adventure.
 
 ---
 
-Scientific research has been one of the favourite activities of *@snoidetx*. When he was very young, he tried to research and write papers about the optimal angle when shooting basketballs. Afterwards, *@snoidetx* has been actively seeking for research opportunities. He took H3 Science Research in National Junior College (NJC), where he got a chance to research in Agency for Science, Technology and Research (A\*STAR) for 1 year. In National University of Singapore (NUS), *@snoidetx* proactively chose modules with research aspect to enrich his research experience. He enrolled in the Undergraduate Research Opportunity Programme (UROP<sup>[?](https://www.comp.nus.edu.sg/programmes/ug/project/urop/)</sup>) under the supervision of Assoc. Prof. Bryan Kian Hsiang Low<sup>[?](https://www.comp.nus.edu.sg/cs/people/lowkh/)</sup> and the paper has been accepted into the AAAI-24<sup>[?](https://aaai.org/aaai-conference/)</sup> conference.
+When I was young, I tried to research and write papers about the optimal angle when shooting basketballs, which marked the start of my research journey. Afterwards, I have been actively seeking for research opportunities. I took H3 Science Research in National Junior College (NJC), where I got a chance to research in [**Agency for Science, Technology and Research**](https://www.a-star.edu.sg/) (A\*STAR) for 1 year. In National University of Singapore (NUS), I proactively chose modules with research aspect to enrich my research experience. I enrolled in the [**Undergraduate Research Opportunity Programme**](https://www.comp.nus.edu.sg/programmes/ug/project/urop/) under the supervision of [**Prof. Bryan Kian Hsiang Low**](https://www.comp.nus.edu.sg/cs/people/lowkh/) and the paper has been accepted into the [**AAAI-24**](https://aaai.org/aaai-conference/) conference.
 
-Currently, *@snoidetx* is preparing for his Integrated Honours Project (IHT) thesis.
+Currently, I am preparing for my Integrated Honours Project (IHT) thesis.
 
 ## Research Interests
 

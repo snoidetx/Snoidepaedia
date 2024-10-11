@@ -1,0 +1,13 @@
+@import "../snoidepaedia_colors.scss";
+
+.iframe-pdf-wrapper {
+  display: block;
+  width: 100%;
+  max-width: 100%;
+  margin-top: $sp-5;
+  margin-bottom: $sp-5;
+  overflow-x: auto;
+  background-color: $s-pdf-grey;
+  border-radius: $border-radius;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.12), 0 3px 10px rgba(0, 0, 0, 0.08);
+}

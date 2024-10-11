@@ -12,9 +12,7 @@ Produced by *@snoidetx*.
 
 ---
 
-Over the years, *@snoidetx* has been making learning materials for the courses he took and taught, including helpsheets, notes, mindmaps, etc., to help both others and himself. He has collated all the resource and put them here. Enjoy!
-
-Do note that some of the resources are generated from LaTeX and may not be available for direct printing. Please convert them to printable format (e.g., screenshot) for printing purpose.
+Over the years, I have been making learning materials for the courses I took and taught, including helpsheets, notes, mindmaps, etc., to help both others and myself. I have collated all the resource and put them here. Enjoy!
 
 ---
 
@@ -58,4 +56,4 @@ Here are some Singapore-Cambridge GCE A-Level resources collated by *@snoidetx*.
 
 All resources displayed in this page are produced by *@snoidetx*. Please credit for reuse.
 
-<script>{% include js/resource/adjust_table_spacing.js %}</script>
+<script>{% include js/resource/adjust_style.js %}</script>

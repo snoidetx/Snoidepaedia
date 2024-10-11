@@ -16,14 +16,14 @@ Things related to Xiao Tian *@snoidetx*.
 
 ## Getting Started
 
-**Snoídepaedia** is an online documentation website of ***[@snoidetx](../experience/)***. Click the **Home** button to know more about the author. Click the **Resource** button to browse through the academic resource and materials stored in Snoídepaedia. Enjoy your journey!
+**Snoídepaedia** is an online documentation website of ***[@snoidetx](../experience/)***. Click the **Home** button to see the homepage of *@snoidetx*. Click the **Resource** button to browse through the academic resource and materials stored in Snoídepaedia. Enjoy your journey!
 
 ### Notations
 
 | Notations with Examples | Meaning |
 | :-: | :-- |
 | Superscripted Numbers (e.g. XXX<sup>1</sup>) | This represents that the piece of text before the superscripted number is a **quote**. Click the superscripted number or scroll down all the way to view the references. |
-| Superscripted Question Marks (e.g. XXX<sup>?</sup>) | This represents that the term before the question mark is a **special term** or **jargon** that may not be understood without prior knowledge. Click the superscripted question mark to view an explanation of the term. |
+| Hyperlinks (e.g. [XXX]()) | This represents that the term is a **special term** or **jargon** that may not be understood without prior knowledge. Click the superscripted question mark to view an explanation of the term. |
 
 ### snoidetx.github.io
 

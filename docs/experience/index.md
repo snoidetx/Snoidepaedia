@@ -11,17 +11,17 @@ has_children: true
 Xiao Tian *@snoidetx*'s curriculum vitae.
 {: .fs-6 .fw-300 }
 
-[LinkedIn](https://www.linkedin.com/in/snoidetx/){: .btn-left} <span class='btn-filler'></span> [Résumé (PDF)](./resume/){: .btn-right}
+[Résumé (PDF)](./resume/){: .btn-left} <span class='btn-filler'></span> [LinkedIn](https://www.linkedin.com/in/snoidetx/){: .btn-right} 
 
 ---
 
-To learn more about *@snoidetx*, see each section below or download *@snoidetx*'s résumé in PDF by clicking the **Résumé (PDF)** button.
+To learn more about me, see each section below or download my résumé in PDF by clicking the **Résumé (PDF)** button. You can connect with me on LinkedIn by clicking the **LinkedIn** button.
 
 ## Research and Professional Experiences
 
-*@snoidetx* is currently working on his honours year thesis under the supervision of Assoc. Prof. Bryan Kian Hsiang Low. For details about his research areas, interests, publications and projects, please refer to the [**Research**](../research) section.
+I am currently working on my honours year thesis under the supervision of Prof. Bryan Kian Hsiang Low. For details about my research areas, interests, publications and projects, please refer to the [**Research**](../research) section.
 
-Below gives a timeline of his research and professional experiences:
+Below gives a timeline of my research and professional experiences:
 
 | <img src="img/logos/logo-nus.png" width=75> | National University of Singapore |
 | :-: | --- |
@@ -41,9 +41,9 @@ Below gives a timeline of his research and professional experiences:
 
 ## Teaching Experiences
 
-*@snoidetx* has been actively teaching machine learning, algorithm and programming courses under School of Computing at National University of Singapore. He was placed in the Honour List of Student Tutors for two consecutive years (4 semesters). For details about the courses he taught, please refer to the [**Teaching**](../teaching) section.
+I have been actively teaching machine learning, algorithm and programming courses under School of Computing at National University of Singapore. I was placed in the Honour List of Student Tutors for two consecutive years (4 semesters). For details about the courses I taught, please refer to the [**Teaching**](../teaching) section.
 
-The table below shows the teaching ratings he received from his students for each of the courses he taught, in comparison to the faculty average rating at NUS School of Computing.
+The table below shows the teaching ratings I received from my students for each of the courses I taught, in comparison to the faculty average rating at NUS School of Computing.
 
 | Course | Name | My Rating | Faculty Average Rating |
 | :-: | :-- | :-: | :-: |
