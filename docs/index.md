@@ -12,7 +12,7 @@ has_toc: false
 Personal website of Xiao Tian *@snoidetx*.
 {: .fs-6 .fw-300 }
 
-[My Schedule](./home/schedule){: .btn-left}
+[My Schedule](./home/schedule){: .btn-whole}
 
 ---
 
