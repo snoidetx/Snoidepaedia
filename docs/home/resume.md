@@ -16,5 +16,5 @@ Record of experiences in PDF.
 The following version of my résumé was uploaded on 2 September 2024.
 
 <div class="iframe-pdf-wrapper">
-  <iframe src="https://drive.google.com/viewerng/viewer?embedded=true&url=https://raw.githubusercontent.com/snoidetx/Snoidepaedia/main/docs/experience/pdf/résumé.pdf" width="100%" height="600" frameborder="0" scrolling="auto"></iframe>
+  <iframe src="https://drive.google.com/viewerng/viewer?embedded=true&url=https://raw.githubusercontent.com/snoidetx/Snoidepaedia/main/docs/home/pdf/résumé.pdf" width="100%" height="600" frameborder="0" scrolling="auto"></iframe>
 </div>
