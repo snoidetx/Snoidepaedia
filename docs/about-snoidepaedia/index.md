@@ -33,9 +33,9 @@ Previously, <ins>snoidetx.github.io</ins> alone serves as the personal website o
 
 ## Quick Navigation
 
-- [*@snoidetx*'s portfolio](../experience/)
 - [*@snoidetx*'s research](../research/)
-- [*@snoidetx*'s resource](../resource/)
+- [*@snoidetx*'s teaching](../teaching/)
+- [*@snoidetx*'s education](../education/)
 
 ## Theme
 

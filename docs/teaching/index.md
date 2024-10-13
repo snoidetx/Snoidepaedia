@@ -1,8 +1,9 @@
 ---
 layout: default
 title: Teaching
-nav_order: 5
+nav_order: 4
 has_children: true
+has_toc: false
 ---
 
 # Teaching
@@ -13,16 +14,20 @@ Exchange of knowledge.
 
 ---
 
-## Overview
+## Teaching Assistant at NUS
 
-The **Teaching** section and its sub-sections mainly documents my teaching experiences after entry into NUS. To view my entire teaching experience in third-person perspective, see **Teaching Background** section below.
+I have been serving as teaching assistant at NUS School of Computing since Fall 2021. I was placed in the **Honour List of Student Tutors** for 2 consecutive years (4 semesters). The table below shows the teaching ratings I received from my students for each of the courses I taught, in comparison to the faculty average rating at NUS School of Computing.
 
-## Teaching Background
+| Course | Name | My Rating | Faculty Average Rating |
+| :-: | :-- | :-: | :-: |
+| [**CS2040/S**](./cs2040.md) | **Data Structures and Algorithms** | **4.6**/5.0 | 4.2/5.0 |
+| [**CS2030/S**](./cs2030.md) | **Programming Methodology II** | **4.8**/5.0 | 4.2/5.0 |
+| [**CS3244**](./CS3244.md) | **Machine Learning** | **4.5**/5.0 | 4.2/5.0 |
+{: .table-rating }
 
-### Teaching as Volunteer
+You may also click on each course to view its detail and my teacher reports.
 
-*@snoidetx* has been keen on teaching. He was passionate about answering questions from his peers when he was in school, and took part in many volunteer activities about teaching. While in NJC, *@snoidetx* initiated [**Peer Mentorship Programme @Kebun Baru Community Centre**](https://www.onepa.gov.sg/cc/kebun-baru-cc) to provide free mentorship and tutorship for underprivileged children. After getting into NUS, *@snoidetx* joined the [**NUS Teach Singapore**](https://nus.edu.sg/osa/student-life/community-engagement/teach-sg) initiative and provided academic coaching and mentoring to children and teenagers under Christ Church Secondary School Champions Youth Tuition Programme.
+## Teaching as Volunteer
 
-### Teaching Assistant in NUS
+When I was in NJC, I initiated the [**Peer Mentorship Programme @Kebun Baru Community Centre**](https://www.onepa.gov.sg/cc/kebun-baru-cc) to provide free mentorship and tutorship for underprivileged children. After getting into NUS, I joined the [**NUS Teach Singapore**](https://nus.edu.sg/osa/student-life/community-engagement/teach-sg) initiative and provided academic coaching and mentoring to children and teenagers under Christ Church Secondary School Champions Youth Tuition Programme.
 
-NUS School of Computing (SOC) offers a great initiative for undergraduate students to work part-time as teaching assistant (TA). *@snoidetx* has been actively participating in this initiative and started his TA career in Fall 2021, when he worked as a TA for CS2040/S Data Structures and Algorithms.

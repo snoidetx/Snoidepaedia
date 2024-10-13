@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Research
-nav_order: 4
-has_children: false
+nav_order: 3
+has_children: true
 ---
 
 # Research
@@ -11,13 +11,15 @@ has_children: false
 Explore. Adventure.
 {: .fs-6 .fw-300 }
 
-[Google Scholar](https://scholar.google.com/citations?user=FdGSDcQAAAAJ&hl=en){: .btn-left} <span class='btn-filler'></span> [GitHub](https://github.com/snoidetx){: .btn-right}
+[View Timeline](./timeline){: .btn-left} <span class='btn-filler'></span> [Google Scholar](https://scholar.google.com/citations?user=FdGSDcQAAAAJ&hl=en){: .btn-right}
 
 ---
 
 When I was young, I tried to research and write papers about the optimal angle when shooting basketballs, which marked the start of my research journey. Afterwards, I have been actively seeking for research opportunities. I took H3 Science Research in National Junior College (NJC), where I got a chance to research in [**Agency for Science, Technology and Research**](https://www.a-star.edu.sg/) (A\*STAR) for 1 year. In National University of Singapore (NUS), I proactively chose modules with research aspect to enrich my research experience. I enrolled in the [**Undergraduate Research Opportunity Programme**](https://www.comp.nus.edu.sg/programmes/ug/project/urop/) under the supervision of [**Prof. Bryan Kian Hsiang Low**](https://www.comp.nus.edu.sg/cs/people/lowkh/) and the paper has been accepted into the [**AAAI-24**](https://aaai.org/aaai-conference/) conference.
 
 Currently, I am preparing for my Integrated Honours Project (IHT) thesis.
+
+You can view my research experiences by clicking the View Timeline button above.
 
 ## Research Interests
 

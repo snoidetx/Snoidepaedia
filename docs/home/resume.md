@@ -2,7 +2,7 @@
 layout: default
 title: Résumé
 nav_order: 1
-parent: Experience
+parent: Home
 ---
 
 # Résumé

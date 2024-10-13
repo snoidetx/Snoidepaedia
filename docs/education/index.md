@@ -1,8 +1,9 @@
 ---
 layout: default
 title: Education
-nav_order: 6
+nav_order: 5
 has_children: true
+has_toc: false
 ---
 
 # Education
@@ -11,11 +12,13 @@ has_children: true
 From China to Singapore.
 {: .fs-6 .fw-300 }
 
+[View Timeline](./timeline){: .btn-whole}
+
 ---
 
 ## Overview
 
-The **Education** section and its subsections mainly contain information about my experience at **National University of Singapore** (NUS), including my transcript, exchange experience, etc. Below gives a brief summary of my education background in third-person perspective.
+The **Education** section and its subsections mainly contain information about my experience at **National University of Singapore** (NUS), including my transcript, exchange experience, etc. Below gives a brief summary of my education background in third-person perspective. You can also view my education experiences, awards and co-curricular activities in timeline by clicking the **View Timeline** button above.
 
 ## Education Background
 ### Primary and Lower Secondary Education

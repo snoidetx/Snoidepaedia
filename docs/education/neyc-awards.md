@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Awards and Honours in Junior High School
+parent: Education
 nav_exclude: true
 ---
 

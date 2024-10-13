@@ -10,13 +10,13 @@ summary {
   display: inline-block; /* Use inline-block for better control */
   list-style: none;
   position: relative; /* For positioning the pseudo-element */
-  padding-right: 30px; /* Space for the triangle */
+  padding-right: $sp-6; /* Space for the triangle */
 }
 
 summary::after {
   content: '';
   position: absolute;
-  right: 10px; /* Adjust as needed */
+  right: 10px;
   top: 60%;
   border-left: 7px solid transparent;
   border-right: 7px solid transparent;

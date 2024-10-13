@@ -1,0 +1,76 @@
+.table-about {
+  table-layout: fixed;
+  width: 100%;
+}
+
+.table-about th {
+  border-left-width: 0px;
+  border-right-width: 0px;
+  border-bottom-width: 5px;
+}
+
+.table-about td {
+  border-left-width: 0px;
+  border-right-width: 0px;
+  border-bottom-width: 5px;
+}
+
+.table-about th {
+  @include fs-5;
+  text-align: left;
+}
+
+.table-about th:first-of-type {
+  width: 15%;
+
+  @include mq(lg) {
+    width: 17%;
+  }
+}
+
+.table-about th:nth-of-type(2) {
+  width: 85%;
+
+  @include mq(lg) {
+    width: 83%;
+  }
+}
+
+.table-about td {
+  position: relative;
+}
+
+.table-about td:first-of-type {
+  vertical-align: top;
+  padding: 0;
+}
+
+.table-about td img {
+  position: absolute;
+  width: 100%;
+  height: calc(100%);
+  -ms-transform: translate(-50%, 0px);
+  transform: translate(-50%, 0px);
+  z-index: 1;
+
+  &.timeline-top {
+    height: auto;
+    -ms-transform: translate(-50%, 0px) scaleY(4.8);
+    transform: translate(-50%, 0px) scaleY(4.8);
+    transform-origin: top center;
+    z-index: 2;
+
+    @include mq(lg) {
+      -ms-transform: translate(-50%, 0px) scaleY(2.5);
+      transform: translate(-50%, 0px) scaleY(2.5);
+    }
+  }
+}
+
+.table-about#table-about-without-timeline td img {
+  position:relative;
+  width: 100%;
+  height: auto;
+  -ms-transform: none;
+  transform: none;
+}

@@ -5,6 +5,7 @@
 @import "./images/image-gallery.scss";
 
 @import "./tables/table.scss";
+@import "./tables/table-about.scss";
 @import "./tables/table-rating.scss";
 @import "./tables/table-resource.scss";
 
@@ -111,4 +112,8 @@ $nav-width: 360px;
   @include mq(md) {
     display: block;
   }
+}
+
+.see-more {
+  @include fs-4;
 }
