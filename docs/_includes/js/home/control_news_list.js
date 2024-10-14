@@ -2,7 +2,7 @@ document.addEventListener('DOMContentLoaded', function() {
   const newsList = document.getElementById('list-news');
   var listItems = newsList.children;
   const newsButton = document.getElementById('list-news-btn');
-  const maxVisibleItems = 4;  // Maximum number of visible items
+  const maxVisibleItems = 10;  // Maximum number of visible items
     
   if (listItems.length > maxVisibleItems) {
     for (var i = maxVisibleItems; i < listItems.length; i++) {

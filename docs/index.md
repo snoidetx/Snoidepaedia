@@ -36,6 +36,7 @@ Check out my **résumé** above to know more about me!
 - *09/2024* - I received my Ph.D. offer from NUS School of Computing.
 - *06/2024* - 🏆 I was awarded the **Outstanding Undergraduate Researcher Prize** as the best individual undergraduate researcher in NUS.
 - *05/2024* - 🎉 Our paper [*Deletion-Anticipative Data Selection with a Limited Budget*](./research/deletion-anticipative-data.md) was accepted to **ICML-24**.
+- *02/2024* - 🏆 I was placed in the **Honour List of Student Tutors** by NUS School of Computing.
 - *02/2024* - I attended **AAAI-24** at Vancouver, Canada.
 - *12/2023* - 🎉 Our paper [*DeRDaVa: Deletion-Robust Data Valuation for Machine Learning*](./research/derdava-deletion-robust.md) was accepted to **AAAI-24**.
 {: #list-news }
