@@ -3,7 +3,7 @@
 
 $button-width: 170px;
 $button-small-width: 85px;
-$btn-secondary-color: $s-lightblue;
+$btn-secondary-color: $s-blue;
 
 .btn-secondary {
   @include btn-color($s-white, $btn-secondary-color);

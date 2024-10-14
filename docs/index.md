@@ -16,11 +16,9 @@ Personal website of Xiao Tian *@snoidetx*.
 
 ---
 
-I am Xiao <u>Tian</u> (a.k.a. *@snoidetx*), an honours year undergraduate student at [**National University of Singapore**](https://nus.edu.sg/) (NUS) pursuing a double degree in Applied Mathematics and Computer Science. I will be graduating in Fall 2024. Check out my **résumé** above to know more about me!
+I am Xiao <u>Tian</u> (a.k.a. *@snoidetx*), an incoming Ph.D. in Computer Science student at [**National University of Singapore**](https://nus.edu.sg/) (NUS), starting from Spring 2025. I am fortunate to be supervised by [**Prof. Bryan Kian Hsiang Low**](https://www.comp.nus.edu.sg/cs/people/lowkh/). Currently, I am an honours year undergraduate student at NUS pursuing a **double honours degree** in Applied Mathematics and Computer Science. My research interests include **data-centric machine learning**, **multi-agent machine learning** and **privacy-preserving machine learning**. Refer to my [**Research**](./research/) page to find out more about my research and past works. I have also been working as teaching assistant in NUS School of Computing. Refer to my [**Teaching**](./teaching/) page to know about the courses I have taught.
 
-In Spring 2025, I will be joining NUS again as a Ph.D. in Computer Science student, supervised by [**Prof. Bryan Kian Hsiang Low**](https://www.comp.nus.edu.sg/cs/people/lowkh/). My research interests include data-centric machine learning, multi-agent machine learning and privacy-preserving machine learning. Refer to my [**Research**](./research/) page to find out more about my research and past works.
-
-I have also been working as teaching assistant in NUS School of Computing. Refer to my [**Teaching**](./teaching/) page to know about the courses I have taught.
+Check out my **résumé** above to know more about me!
 
 ## Education 🎓 <span class="see-more">[<a href="./education/">see more</a>]</span>
 
@@ -43,7 +41,7 @@ I have also been working as teaching assistant in NUS School of Computing. Refer
 {: #list-news }
 
 <div style="display: flex; justify-content: center; align-items: center;">
-  <button id="list-news-btn" class="list-news-btn">Show more</button>
+  <button id="list-news-btn" class="list-news-btn">Expand</button>
 </div>
 
 <script>{% include js/home/control_news_list.js %}</script>

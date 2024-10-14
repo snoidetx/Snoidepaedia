@@ -13,7 +13,7 @@ Service with honour.
 
 ---
 
-This page documents some of my selected major and long-term volunteer experiences. For a full list of my volunteer experiences, see my [LinkedIn page](https://www.linkedin.com/in/snoidetx/details/volunteering-experiences/).
+This page documents some of my selected major and long-term volunteer experiences. For a full list of my volunteer experiences, see my [LinkedIn page](https://sg.linkedin.com/in/snoidetx).
 
 | <img src="../img/logos/logo-nus.png" width=75> | NUS Teach Singapore |
 | :-: | --- |

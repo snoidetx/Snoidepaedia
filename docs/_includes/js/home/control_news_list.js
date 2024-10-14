@@ -14,16 +14,16 @@ document.addEventListener('DOMContentLoaded', function() {
   // Event listener to toggle hidden items when button is clicked
   newsButton.addEventListener("click", function(e) {
     var hiddenItems = document.querySelectorAll(".hidden-news"); // Update to use ID
-    if (this.textContent === "Show more") {
+    if (this.textContent === "Expand") {
       for (var i = 0; i < hiddenItems.length; i++) {
         hiddenItems[i].style.display = "block";  // Show hidden items
       }
-      this.textContent = "Show less";  // Change button text to "Show Less"
+      this.textContent = "Collapse";  // Change button text to "Show Less"
     } else {
       for (var i = 0; i < hiddenItems.length; i++) {
         hiddenItems[i].style.display = "none";  // Hide items again
       }
-      this.textContent = "Show more";  // Change button text back to "Show More"
+      this.textContent = "Expand";  // Change button text back to "Show More"
     }
   });
 });

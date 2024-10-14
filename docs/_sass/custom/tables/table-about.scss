@@ -61,8 +61,8 @@
     z-index: 2;
 
     @include mq(lg) {
-      -ms-transform: translate(-50%, 0px) scaleY(2.5);
-      transform: translate(-50%, 0px) scaleY(2.5);
+      -ms-transform: translate(-50%, 0px) scaleY(2.3);
+      transform: translate(-50%, 0px) scaleY(2.3);
     }
   }
 }
