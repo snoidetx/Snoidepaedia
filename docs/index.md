@@ -33,7 +33,7 @@ Check out my **résumé** above to know more about me!
 
 ## News 🔥
 
-- *10/2024* - 🏆 I was qualified for the **A\*STAR Computing and Information Science (ACIS) Scholarship** and the **NUS President's Graduate Fellowship (PGF)**.
+- *10/2024* - 🏆 I was awarded the **A\*STAR Computing and Information Science (ACIS) Scholarship** and the **NUS President's Graduate Fellowship (PGF)**.
 - *09/2024* - I received my Ph.D. offer from NUS School of Computing.
 - *06/2024* - 🏆 I was awarded the **Outstanding Undergraduate Researcher Prize** as the best individual undergraduate researcher in NUS.
 - *05/2024* - 🎉 Our paper [*Deletion-Anticipative Data Selection with a Limited Budget*](./research/deletion-anticipative-data.md) was accepted to **ICML-24**.
