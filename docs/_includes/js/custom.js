@@ -18,4 +18,6 @@ document.addEventListener('DOMContentLoaded', function() {
     siteProfile.classList.remove('nav-open');
     siteContact.classList.remove('nav-open');
   }});
+
+  document.body.classList.add('fade-in');
 });

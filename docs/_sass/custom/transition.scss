@@ -1,0 +1,9 @@
+// Fade-in effect
+body {
+  opacity: 0;
+  transition: opacity 0.5s ease-in;
+}
+
+body.fade-in {
+  opacity: 1;
+}
