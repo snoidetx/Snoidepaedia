@@ -39,7 +39,9 @@ Check out my **résumé** above to know more about me!
 - *05/2024* - 🎉 Our paper [*Deletion-Anticipative Data Selection with a Limited Budget*](./research/deletion-anticipative-data.md) was accepted to **ICML-24**.
 - *02/2024* - 🏆 I was placed in the **Honour List of Student Tutors** by NUS School of Computing.
 - *02/2024* - I attended **AAAI-24** at Vancouver, Canada.
+- *01/2024* - 🏆 I received the NUS School of Computing Take on the World (STOW) award.
 - *12/2023* - 🎉 Our paper [*DeRDaVa: Deletion-Robust Data Valuation for Machine Learning*](./research/derdava-deletion-robust.md) was accepted to **AAAI-24**.
+- *08/2020* - I joined National University of Singapore (NUS).
 {: #list-news }
 
 <div style="display: flex; justify-content: center; align-items: center;">
