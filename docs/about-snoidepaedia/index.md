@@ -2,6 +2,8 @@
 layout: default
 title: About Snoídepaedia
 nav_order: 1
+has_children: True
+has_toc: False
 ---
 
 # About Snoídepaedia
@@ -24,12 +26,6 @@ Things related to Xiao Tian *@snoidetx*.
 | :-: | :-- |
 | Superscripted Numbers (e.g. XXX<sup>1</sup>) | This represents that the piece of text before the superscripted number is a **quote**. Click the superscripted number or scroll down all the way to view the references. |
 | Hyperlinks (e.g. [XXX]()) | This represents that the term is a **special term** or **jargon** that may not be understood without prior knowledge. Click the superscripted question mark to view an explanation of the term. |
-
-### snoidetx.github.io
-
-**<ins>snoidetx.github.io</ins>** is a shortcut to the **Home** page of Snoídepaedia. 
-
-Previously, <ins>snoidetx.github.io</ins> alone serves as the personal website of *@snoidetx*, until its depreciation on 21/06/2022. However, in memory of its contribution, you can still view an archived version of the former <ins>snoidetx.github.io</ins> through this link: [snoidetx.github.io/archive/](https://snoidetx.github.io/archive/).
 
 ## Quick Navigation
 
