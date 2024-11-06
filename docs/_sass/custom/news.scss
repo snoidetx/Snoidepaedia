@@ -1,0 +1,34 @@
+@import "buttons";
+@import "./snoidepaedia_buttons.scss";
+
+#news-list {
+  background-color: $s-lightergreen;
+  padding: $sp-2;
+  padding-left: $sp-7;
+  border-radius: 16px;
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0;
+  margin-bottom: 0;
+}
+
+.hidden-news {
+  display: none;
+}
+
+.news-btn {
+  @extend .btn-small-1;
+}
+
+#news-btn {
+  display: none;
+}
+
+.news-btn-container {
+  background-color: $s-lightergreen;
+  display: flex; 
+  justify-content: center; 
+  align-items: center;
+  padding-bottom: $sp-4;
+  border-bottom-left-radius: 16px;
+  border-bottom-right-radius: 16px;
+}

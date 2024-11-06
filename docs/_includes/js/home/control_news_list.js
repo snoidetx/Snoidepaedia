@@ -1,7 +1,7 @@
 document.addEventListener('DOMContentLoaded', function() {
-  const newsList = document.getElementById('list-news');
+  const newsList = document.getElementById('news-list');
   var listItems = newsList.children;
-  const newsButton = document.getElementById('list-news-btn');
+  const newsButton = document.getElementById('news-btn');
   const maxVisibleItems = 10;  // Maximum number of visible items
     
   if (listItems.length > maxVisibleItems) {
@@ -18,12 +18,12 @@ document.addEventListener('DOMContentLoaded', function() {
       for (var i = 0; i < hiddenItems.length; i++) {
         hiddenItems[i].style.display = "block";  // Show hidden items
       }
-      this.textContent = "Collapse";  // Change button text to "Show Less"
+      this.textContent = "Collapse";
     } else {
       for (var i = 0; i < hiddenItems.length; i++) {
         hiddenItems[i].style.display = "none";  // Hide items again
       }
-      this.textContent = "Expand";  // Change button text back to "Show More"
+      this.textContent = "Expand";
     }
   });
 });
