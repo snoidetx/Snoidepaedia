@@ -31,7 +31,7 @@ The structures of the old <ins>snoidetx.github.io</ins> are largely inherited by
 
 ### The **Resource** Page
 
-The former good-looking page was depreciated because it cannot be adapted to fit in mobile view.
+The former good-looking page was depreciated because it could not be adapted to fit in mobile view.
 
 <div class="gallery-wrapper">
   <figure class="gallery">
