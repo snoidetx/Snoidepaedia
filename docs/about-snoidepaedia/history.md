@@ -29,7 +29,18 @@ The structures of the old <ins>snoidetx.github.io</ins> are largely inherited by
 
 ## Snoídepaedia (21/06/2022 - Present)
 
-### The *Additional Information* Section
+### The **Resource** Page
+
+The former good-looking page was depreciated because it cannot be adapted to fit in mobile view.
+
+<div class="gallery-wrapper">
+  <figure class="gallery">
+    <img src="../img/resource.png" class="gallery-image">
+    <figcaption><i>Photo of the Page</i></figcaption>
+  </figure>
+</div>
+
+### The **Additional Information** Section
 
 A lovely section in the past that was removed because it was deemed unnecessary. Fun fact: it was once a collapsible table.
 

@@ -423,6 +423,16 @@
       ]
     },
     {
+      "code": "CS5234",
+      "name": "Algorithms at Scale",
+      "resources": [
+        {
+          "title": "Notes",
+          "link": "./pdf/NUS-CS5234-Notes.pdf"
+        }
+      ]
+    },
+    {
       "code": "CS5340",
       "name": "Uncertainty Modelling in AI",
       "resources": [
