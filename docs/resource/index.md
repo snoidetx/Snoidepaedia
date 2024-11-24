@@ -18,10 +18,8 @@ Over the years, I have been making learning materials for the courses I took and
 
 ## Course Forecast
 ```
-- CS4234 Optimisation Algorithms
-- CS5234 Algorithms at Scale
 - MA4254 Discrete Optimisation
-- ST2334 Probability and Statistics
+- CS4234 Optimisation Algorithms
 ```
 
 ---
