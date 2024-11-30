@@ -427,6 +427,16 @@
       ]
     },
     {
+      "code": "CS4234",
+      "name": "Optimisation Algorithms",
+      "resources": [
+        {
+          "title": "Notes",
+          "link": "./pdf/NUS-CS4234-Notes.pdf"
+        }
+      ]
+    },
+    {
       "code": "CS5234",
       "name": "Algorithms at Scale",
       "resources": [
