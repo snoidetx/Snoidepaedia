@@ -11,5 +11,5 @@ document.querySelectorAll(selectors).forEach(button => {
 });
 
 function changePdf(pdfFile) {
-  document.getElementById('pdfViewer').src = pdfFile;
+  document.getElementById('pdf-viewer').src = pdfFile;
 }
