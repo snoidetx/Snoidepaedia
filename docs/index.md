@@ -16,13 +16,19 @@ Personal website of Xiao Tian *@snoidetx*.
 
 ---
 
-I am Xiao <u>Tian</u> (a.k.a. *@snoidetx*), an incoming Ph.D. in Computer Science student at [**National University of Singapore**](https://nus.edu.sg/) (NUS), starting from Spring 2025. I am fortunate to be supervised by [**Prof. Bryan Kian Hsiang Low**](https://www.comp.nus.edu.sg/cs/people/lowkh/). Currently, I am an honours year undergraduate student at NUS pursuing a **double honours degree** in Applied Mathematics and Computer Science. My research interests include **data-centric machine learning**, **multi-agent machine learning** and **privacy-preserving machine learning**. Refer to my [**Research**](./research/) page to find out more about my research and past works. I have also been working as teaching assistant in NUS School of Computing. Refer to my [**Teaching**](./teaching/) page to know about the courses I have taught.
+I am **Xiao <u>Tian</u>**, a **Ph.D. in Computer Science** student at [**National University of Singapore**](https://nus.edu.sg/) (NUS), starting from Spring 2025. I am fortunate to be supervised by [**Prof. Bryan Kian Hsiang Low**](https://www.comp.nus.edu.sg/cs/people/lowkh/). My research interests include **data-centric machine learning**, **multi-agent machine learning** and **privacy-preserving machine learning**. Refer to my [**Research**](./research/) page to find out more about my research and past works. I have also been working as **teaching assistant** in NUS School of Computing. Refer to my [**Teaching**](./teaching/) page to know about the courses I have taught. 
 
-Check out my **résumé** above to know more about me!
+I obtained my **Bachelor of Science in Applied Mathematics (Honours)** and **Bachelor of Computing in Computer Science (Honours)** degrees from NUS in Fall 2024. Check out my **résumé** above to know more about me!
+
+Fun fact: ***Snoíde*** is my pseudonym.
 
 ## Education 🎓 <span class="see-more">[<a href="./education/">see more</a>]</span>
 
 <div style="height: 0"></div>
+**National University of Singapore, School of Computing (Ongoing)**
+<p class="addition">2025 - 2028 (Expected) · Doctor of Philosophy in Computer Science · A*STAR Computing and Information Science (ACIS) Scholarship</p>
+
+<div style="height: 0.5rem"></div>
 **National University of Singapore, School of Computing**
 <p class="addition">2020 - 2024 · Bachelor of Computing in Computer Science · Honours (Highest Distinction) · Turing Programme · Science & Technology (S&T) Undergraduate Merit Scholarship</p>
 
