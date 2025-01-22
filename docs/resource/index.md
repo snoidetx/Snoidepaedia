@@ -18,8 +18,8 @@ Over the years, I have been making learning materials for the courses I took and
 
 ## Course Forecast
 ```
-- MA4254 Discrete Optimisation
-- CS4234 Optimisation Algorithms
+- CS5275 The Algorithm Designer's Toolkit
+- CS5446 AI Planning and Decision Making
 ```
 
 ---
