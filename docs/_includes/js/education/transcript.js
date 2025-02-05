@@ -1,5 +1,5 @@
-const selectors = '.btn-r-1, .btn-r-2, .btn-r-3, .btn-r-4';
-const selectorsActive = '.btn-r-1.active, .btn-r-2.active, .btn-r-3.active, .btn-r-4.active';
+const selectors = '.btn-r-1, .btn-r-2';
+const selectorsActive = '.btn-r-1.active, .btn-r-2.active';
 
 document.querySelectorAll(selectors).forEach(button => {
   button.addEventListener('click', () => {

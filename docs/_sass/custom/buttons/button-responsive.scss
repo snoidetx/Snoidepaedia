@@ -1,19 +1,16 @@
 @import "buttons";
 @import "../local_variables.scss";
 
-$button-r-width: 85px;
+$button-r-width: 170px;
 
 .btn-r-1 {
   @extend .btn;
-  @extend .addition;
 
   width: calc(
-    (100% - #{$sp-1} * 3) / 4
+    (100% - #{$sp-3}) / 2
   );
   text-align: center;
   margin-left: 0;
-  padding-left: 0;
-  padding-right: 0;
   border-radius: $corner-radius !important;
 
   @include mq(lg) {
@@ -23,16 +20,15 @@ $button-r-width: 85px;
 }
 
 .btn-r-1.active {
-  @extend .btn-secondary;
+  @extend .btn-primary;
   border-radius: $corner-radius !important;
 }
 
 .btn-r-2 {
   @extend .btn;
-  @extend .addition;
 
   width: calc(
-    (100% - #{$sp-1} * 3) / 4
+    (100% - #{$sp-3}) / 2
   );
   text-align: center;
   border-radius: $corner-radius !important;
@@ -44,53 +40,11 @@ $button-r-width: 85px;
 }
 
 .btn-r-2.active {
-  @extend .btn-secondary;
+  @extend .btn-primary;
   border-radius: $corner-radius !important;
-}
-
-.btn-r-3 {
-  @extend .btn;
-  @extend .addition;
-
-  width: calc(
-    (100% - #{$sp-1} * 3) / 4
-  );
-  text-align: center;
-  border-radius: $corner-radius !important;
-
-  @include mq(lg) {
-    width: $button-r-width !important;
-    margin-left: 0;
-  }
-}
-
-.btn-r-3.active {
-  @extend .btn-secondary;
-  border-radius: $corner-radius !important;
-}
-
-.btn-r-4 {
-  @extend .btn;
-  @extend .addition;
-
-  width: calc(
-    (100% - #{$sp-1} * 3) / 4
-  );
-  text-align: center;
-  border-radius: $corner-radius !important;
-
-  @include mq(lg) {
-    width: $button-r-width;
-    margin-left: 0;
-  }
 }
 
 .btn-r-filler {
   display: inline-block;
-  width: $sp-1;
-}
-
-.btn-r-4.active {
-  @extend .btn-secondary;
-  border-radius: $corner-radius;
+  width: $sp-3;
 }

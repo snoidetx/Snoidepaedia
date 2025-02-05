@@ -12,53 +12,35 @@ has_toc: false
 From China to Singapore.
 {: .fs-6 .fw-300 }
 
-[View Timeline](./timeline){: .btn-whole}
+[View Transcripts](./transcript){: .btn-whole}
 
 ---
 
-## Overview
+The **Education** section and its subsections mainly contain information about my experience at **National University of Singapore** (NUS), including my **transcript**, **exchange experience**, etc. A complete timeline of my education background is given below. You may also see [here](./education-bio) for a description written in text. 
 
-The **Education** section and its subsections mainly contain information about my experience at **National University of Singapore** (NUS), including my transcript, exchange experience, etc. Below gives a brief summary of my education background in third-person perspective. You can also view my education experiences, awards and co-curricular activities in timeline by clicking the **View Timeline** button above.
+| <img src="./img/logos/logo-nus.png" width="150%" height="100%"> | National University of Singapore |
+| :-: | --- |
+| <img class="timeline-top" src="./img/timeline-end.png"><img src="./img/timeline-line.png"> | **Ph.D. in Computer Science**<br>Jan 2025 - Present <br>Full-time · Ongoing<br><br>• GPA: 5.00/5.00<br><br>**Awards and Honours**<br><br>• A*STAR Computing and Information Science Scholarship holder<br><br>**Relevant Courses Taken**<br><br>AI Planning and Decision Making · The Algorithm Designer's Toolkit<br><br> |
+| <img class="timeline-top" src="./img/timeline-intermediate.png"><img src="./img/timeline-line.png"> | **Bachelor of Science & Bachelor of Computing**<br>Singapore · Aug 2020 - Dec 2024<br>Full-time · 4 yrs 5 mos<br><br>• Applied Mathematics and Computer Science (Double Degree)<br>• GPA (Applied Mathematics): 4.95/5.00<br>• GPA (Computer Science): 4.91/5.00<br><br>**Awards and Honours**<br><br>• NUS Science & Technology Undergraduate Merit Scholarship<br>• Turing Programme candidate<br>• Outstanding Undergraduate Researcher (OUR) Prize (Best Undegraduate Researcher (Individual))<br>• Certificate of Distinction in the Algorithms & Theory focus area<br>• Certificate of Distinction in the Artificial Intelligence focus area<br>• 6x Dean's list<br>• 1<sup>st</sup> out of 634 students, CS1010S Programming Methodology (AY2020/21 Semester 1)<br>• 1<sup>st</sup> out of 435 students, CS1231 Discrete Structures (AY2020/21 Semester 1)<br>• 1<sup>st</sup> out of 214 students, CS3244 Machine Learning (AY2021/22 Semester 2)<br>• 6<sup>th</sup> out of 381 students, CS3230 Design and Analysis of Algorithms (AY2021/22 Semester 2)<br>• 1<sup>st</sup> out of 24 students, CS2309 Research Methodology (AY2022/23 Semester 1)<br>• 1<sup>st</sup> out of 48 students, CS5234 Algorithms at Scale (AY2024/25 Semester 1)<br>• SoC Take on the World Award (SToW) awardee<br>• Top 9 Finalist, Beyond Health Hack ‘21<br>• Top 7 Finalist, Tencent Green Game Jam for Youth 2021<br><br>**Relevant Courses Taken**<br><br>Algorithms at Scale · Artificial Intelligence · Calculus · Combinatorics and Graphs · Computer Organisation · Data Structure and Algorithms · Design and Analysis of Algorithms · Differential Equations · Discrete Optimization · Discrete Structures · Fourier Analysis and Approximation · Game Theory · Information Theory · Linear Algebra · Linear Programming · Machine Learning · Mathematical Analysis · Mathematical Logic · Mathematical Modelling · Non-Linear Programming · Numerical Analysis · Operating Systems · Optimization Algorithms · Probability · Programming Methodology · Regression Analysis · Research Methodology · Set Theory · Software Engineering · Statistics · Uncertainty Modelling<br><br>Check out my **[academic plan](https://docs.google.com/spreadsheets/d/1t5A2k4gFv_IYc4teYlm2Lii0fDRE_2yDAPmqYK4nIes/edit?usp=sharing)**!<br><br> | 
+| <img class="timeline-top" src="./img/timeline-intermediate.png"><img src="./img/timeline-line.png"> | [**Tokyo Institute of Technology Student Exchange Programme**](../exchange)<br>Japan · Sep 2023 - Feb 2024<br>Full-time · 6 mos<br><br>**Relevant Courses Taken**<br><br>Computer Vision · Data Assimilation · Information Processing · Inverse Problems · Statistics · Theory of Algorithms<br><br> |
+| <img class="timeline-top" src="./img/timeline-intermediate.png"><img src="./img/timeline-line.png"> | **NUS Mathematics Society, Publicity Director**<br>Mar 2021 - Jun 2022<br>Part-time · 1 yr 2 mos<br><br>• Managed all publicity matters of NUS Mathematics Society to increase its uptake and improve its impact in order to benefit student community.<br>• Designed the current [**NUS Mathematics Society logo**](./img/logos/logo-mathsoc.png).<br>• Publicised NUS Mathematics Society in Orientation Camp and Student Life Fair via multiple social media platforms that recruited and retained around 120 members in total.<br>• Bridged communication on career information between around 1500 students, school departments and companies. |
+| <img class="timeline-top" src="./img/timeline-intermediate.png"><img src="./img/timeline-line.png"> | **Ridge View Residential College Programme**<br>Singapore · Aug 2020 - May 2022<br>Full-time · 1 yr 10 mos<br><br>• Completed RVRC Year One & Two Programme.<br>• Led Project GreenFood@NUS in Action For Sustainability Symposium and achieved Best Project - Influencer Award. |
+{: .table-about }
 
-## Education Background
-### Primary and Lower Secondary Education
+| <img src="./img/logos/logo-njc.png" width=75> | National Junior College |
+| :-: | --- |
+| <img class="timeline-top" src="./img/timeline-end.png"><img src="./img/timeline-line.png"> | **Singapore Cambridge GCE A-Level Certificate**<br>Singapore · Jan 2018 - Dec 2019<br>Full-time · 2 yrs<br><br>**Awards and Honours**<br><br>• PRC Junior-Middle 3 (SM1) Scholarship holder<br>• Cohort Top in H2 Mathematics<br>• Certificate of Merit, NJC Science Training and Research Programme<br>• Gold Award, Singapore Mathematical Olympiad (Open Section) 2018<br>• Honour Roll Certificate (Top 5%) & Certificate of Distinction, American Mathematics Competition 12 2018 (Qualified to American Invitational Mathematics Examination)<br>• Silver Award, Singapore Mathematical Olympiad (Open Section) 2019<br>• Certificate of Distinction & Certificate of Achievement, American Mathematics Competition 2019 (Qualified to American Invitational Mathematics Examination)<br>• 1<sup>st</sup> Runner-Up, NUS ISE National Business Analytics Case Competition 2019<br><br>**Relevant Courses Taken**<br><br>H1 General Paper · H1 Project Work · H2 Economics · H2 Further Mathematics · H2 Mathematics · H2 Physics · H3 Science Research |
+| <img class="timeline-end" src="./img/timeline-end.png"><img src="./img/timeline-line.png"> | **NJC Chinese Orchestra and Guzheng Ensemble, Section Leader**<br>Jun 2018 - Jun 2019<br>CCA · 10 mos<br><br>• Headed Bowed Strings Section in Chinese Orchestra and facilitated major events as part of the Execution Committee.<br>• Cooperated with conductors and other sections to achieve perfect coordination across orchestra and obtained a Certification of Distinction at Singapore Youth Festival 2019 Arts Presentation For Chinese Orchestra (Full Orchestra) - Junior College.<br>• Organised activities and outings to promote camaraderie within whole orchestra involving about 100 members. |
+{: .table-about}
 
-Prior to landing in Singapore, *@snoidetx* completed his primary and lower secondary education in Shenyang, Liaoning, China. He had his primary education in **Nanjingjie Dijiu Xiaoxue** (Chinese: 南京街第九小学), after which he was admitted into [**Northeast Yucai School**](https://www.neyc.cn/) (NEYC; Chinese: 东北育才学校). Because of his excellent performance, at the end of junior high school, he was granted Singapore Government Senior Middle School-based Scholarship (SM1) and came to Singapore to continue his education.
+| <img src="./img/logos/logo-chs.png" width=75> | Catholic High School |
+| :-: | --- |
+| <img class="timeline-top" src="./img/timeline-end.png"><img src="./img/timeline-line.png"> | **Singapore Cambridge GCE O-Level Certificate**<br>Singapore · Jan 2016 - Dec 2017<br>Full-time · 2 yrs<br><br>**Awards and Honours**<br><br>• PRC Junior-Middle 3 (SM1) Scholarship holder<br>• Catholic High School Tan Kiok Ngiap Memorial Award (Cohort Top in Mathematics, Additional Mathematics and Higher Chinese)<br>• School Representative in National Science Challenge 2016<br>• Youth Navigator, Outward Bound Singapore 2016<br>• Gold Award, Singapore Mathematical Olympiad (SMO) (Open Section) 2016<br>• Gold Award & 26<sup>th</sup> Individual Prize, SMO (Senior Section) 2016<br>• High Distinction, UNSW International Competitions and Assessments for Schools (ICAS) (Mathematics) 2016<br>• Individual Gold, International C. B. Paul Science Quiz 2016<br>• High Distinction, ICAS (Science) 2016<br>• Bronze Award, Singapore Junior Physics Olympiad (SJPO) (Main Category) 2016<br>• Silver Award, SMO (Open Section) 2017<br>• High Distinction & Medal Winner, ICAS (Mathematics) 2017<br>• Distinction, ICAS (Science) 2017<br>• Distinction, Big Science Competition 2017<br>• Honourable Mention, SJPO (Open Category) 2017<br>• Certificate of Merit, Singapore Junior Chemistry Olympiad (Open Category) 2017<br><br>**Relevant Courses Taken**<br><br>Additional Mathematics · Biology · Chemistry · Combined Humanities (Geography & Social Studies) · Mathematics · Physics |
+| <img class="timeline-end" src="./img/timeline-end.png"><img src="./img/timeline-line.png"> | **CHS Chinese Drama, Student Director**<br>Jan 2016 - Jun 2017<br>CCA · 1 yr 6 mos<br><br>• Directed drama shows and supervised script-writing, trainings and performances.<br>• Consulted with Director, actors and 5 assisting units and was awarded a Certification of Distinction at Singapore Youth Festival 2017 Arts Presentation For Chinese Orchestra (Full Orchestra) - Secondary School. |
+{: .table-about }
 
-### Upper Secondary Education
-*@snoidetx* started his schoollife in [**Catholic High School**](https://www.catholichigh.moe.edu.sg/) (CHS; Chinese: 公教中学), Singapore in 2016. He studied there for 2 years and took the [Singapore Cambridge GCE O-Level Examination](https://www.seab.gov.sg/home/examinations/gce-o-level). Here is a list of courses he took:
-
-* Additional Mathematics
-* Biology
-* Chemistry
-* Chinese
-* Combined Humanities (Geography & Social Studies)
-* English
-* Higher Chinese
-* Mathematics
-* Physics
-
-Beyond curriculum, *@snoidetx* was also a member of CHS Chinese Drama, where he played the role of Student Director.
-
-### Junior College Education
-In 2018, *@snoidetx* was admitted into [**National Junior College**](https://www.nationaljc.moe.edu.sg/) (NJC; Chinese: 国家初级学院), Singapore through O-Level. He studied there for 2 years and took the [Singapore Cambridge GCE A-Level Examination](https://www.seab.gov.sg/home/examinations/gce-a-level). Here is a list of courses he took:
-
-* H1 General Paper
-* H1 Project Work
-* H2 Economics
-* H2 Further Mathematics
-* H2 Mathematics
-* H2 Physics
-* H3 Science Research
-
-Beyond curriculum, *@snoidetx* also served as Section Leader of NJC Chinese Orchestra and Guzheng Ensemble (Bowed String Section) and Member of NJC Mathematics Society.
-
-### Tertiary Education
-In 2020, *@snoidetx* joined **National University of Singapore** (NUS; Chinese: 新加坡国立大学) as an undergraduate student, and was granted Science & Technology (S&T) Undergraduate Merit Scholarship. He was enrolled in the **Double Degree Programme in Applied Mathematics and Computer Science**, where he took the two degrees concurrently. He was also in the **Ridge View Residential College (RVRC) Programme**, a distinct two-year living-and-learning experience focused on sustainability and experiential and outdoor learning<sup>[1](#references)</sup>. He was later accepted into [**Turing Programme**](https://www.comp.nus.edu.sg/programmes/ug/cs/tp/), a prestigious special programme offered by NUS School of Computing to high-achieving research students.
-
-Beyond curriculum, *@snoidetx* served as Publicity Director of [NUS Mathematics Society](http://nusmathsoc.org/#/).
-
----
-
-#### References
-[1] Quoted from RVRC's official website ([https://rvrc.nus.edu.sg/rvrc-programme/](https://rvrc.nus.edu.sg/rvrc-programme/)).
+| <img src="./img/logos/logo-neyc.png" width=75> | Northeast Yucai School |
+| :-: | --- |
+| <img class="timeline-top" src="./img/timeline-end.png"><img src="./img/timeline-line.png"> | **NEYC Junior High School Programme**<br>China · Sep 2011 - Oct 2015<br>Full-time · 4 yrs 2 mos<br><br>**Awards and Honours**<br><br>• Awards and honours in junior high school ([view](./neyc-awards))<br>• 6.5/9.0, IELTS Academic 2015 |
+| <img class="timeline-end" src="./img/timeline-end.png"><img src="./img/timeline-line.png"> | **NEYC Chinese Orchestra, Performer**<br>Sep 2012 - Jun 2015<br>CCA · 2 yr 10 mos<br><br>• Played Erhu and participated in school concerts.<br>• Travelled to Taiwan with the whole orchestra and went through musical exchange with local schools. |
+{: .table-about }

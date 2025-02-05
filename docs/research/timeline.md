@@ -3,6 +3,7 @@ layout: default
 title: Timeline
 nav_order: 1
 parent: Research
+nav_exclude: true
 ---
 
 # Research Timeline
