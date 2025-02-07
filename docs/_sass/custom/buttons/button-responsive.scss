@@ -7,10 +7,10 @@ $button-r-width: 170px;
   @extend .btn;
 
   width: calc(
-    (100% - #{$sp-3}) / 2
+    (100% - 2*#{$sp-3}) / 2
   );
   text-align: center;
-  margin-left: 0;
+  margin-left: 0 !important;
   border-radius: $corner-radius !important;
 
   @include mq(lg) {
@@ -28,9 +28,10 @@ $button-r-width: 170px;
   @extend .btn;
 
   width: calc(
-    (100% - #{$sp-3}) / 2
+    (100% - 2*#{$sp-3}) / 2
   );
   text-align: center;
+  margin-left: 0 !important;
   border-radius: $corner-radius !important;
 
   @include mq(lg) {
