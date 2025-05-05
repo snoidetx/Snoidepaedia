@@ -451,6 +451,16 @@
       ]
     },
     {
+      "code": "CS5275",
+      "name": "The Algorithm Designer's Toolkit",
+      "resources": [
+        {
+          "title": "Notes",
+          "link": "./pdf/NUS-CS5275-FinalExaminationHelpsheet.pdf"
+        }
+      ]
+    },
+    {
       "code": "CS5340",
       "name": "Uncertainty Modelling in AI",
       "resources": [
@@ -461,6 +471,16 @@
         {
           "title": "Quiz 2 Notes",
           "link": "./pdf/NUS-CS5340-Quiz2Notes.pdf"
+        }
+      ]
+    },
+    {
+      "code": "CS5446",
+      "name": "AI Planning and Decision Making",
+      "resources": [
+        {
+          "title": "Notes",
+          "link": "./pdf/NUS-CS5446-FinalExaminationHelpsheet.pdf"
         }
       ]
     }

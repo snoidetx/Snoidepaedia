@@ -18,8 +18,7 @@ Over the years, I have been making learning materials for the courses I took and
 
 ## Course Forecast
 ```
-- CS5275 The Algorithm Designer's Toolkit
-- CS5446 AI Planning and Decision Making
+---
 ```
 
 ---
