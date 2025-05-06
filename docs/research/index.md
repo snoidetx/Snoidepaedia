@@ -51,6 +51,10 @@ I am currently a **Ph.D. in Computer Science** student at [**National University
 
 ## Course Projects <span class="see-more">[&dagger;: equal contribution]</span>
 <br>
+**Data Subset Selection via Submodularity: Offline and Streaming Settings**
+<p class="addition">J. Fan&dagger; & <strong>X. Tian</strong>&dagger; · 2025 · CS5275 The Algorithm Designer's Toolkit</p>
+[Source](./pdf/data-subset-selection-via-submodularity_-offline-and-streaming-settings.pdf){: .btn-small-1}
+
 **Adversarially Robust Streaming Algorithms**
 <p class="addition">J. Fan&dagger; & <strong>X. Tian</strong>&dagger; · 2024 · CS5234 Algorithms at Scale</p>
 [Source](./pdf/adversarially-robust-streaming-algorithms.pdf){: .btn-small-1}
