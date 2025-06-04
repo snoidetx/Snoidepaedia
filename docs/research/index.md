@@ -55,6 +55,10 @@ I am currently a **Ph.D. in Computer Science** student at [**National University
 <p class="addition">J. Fan&dagger; & <strong>X. Tian</strong>&dagger; · 2025 · CS5275 The Algorithm Designer's Toolkit</p>
 [Source](./pdf/data-subset-selection-via-submodularity_-offline-and-streaming-settings.pdf){: .btn-small-1}
 
+**Multi-Armed Bandit and Its Applications in Recommender Systems**
+<p class="addition">J. Fan&dagger;, N.V. Aritonang&dagger;, R.A. Jasin&dagger; & <strong>X. Tian</strong>&dagger; · 2025 · CS5446 AI Planning and Decision Making</p>
+[Source](./pdf/multi-armed-bandit-and-its-applications-in-recommender-systems.pdf){: .btn-small-1} <span class='btn-small-filler'></span> [Slides](./pdf/multi-armed-bandit-and-its-applications-in-recommender-systems-slides.pdf){: .btn-small-2}
+
 **Adversarially Robust Streaming Algorithms**
 <p class="addition">J. Fan&dagger; & <strong>X. Tian</strong>&dagger; · 2024 · CS5234 Algorithms at Scale</p>
 [Source](./pdf/adversarially-robust-streaming-algorithms.pdf){: .btn-small-1}
