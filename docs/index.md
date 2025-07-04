@@ -39,8 +39,8 @@ I obtained my **Bachelor of Science with Honours (Highest Distinction) in Applie
 
 ## News 🔥
 
-- *01/2024* - I was officially conferred the degree of **Bachelor of Science with Honours (Highest Distinction) in Applied Mathematics** and the degree of **Bachelor of Computing (Computer Science) with Honours (Highest Distinction)**.
-- *01/2024* - I started my Ph.D.
+- *01/2025* - I was officially conferred the degree of **Bachelor of Science with Honours (Highest Distinction) in Applied Mathematics** and the degree of **Bachelor of Computing (Computer Science) with Honours (Highest Distinction)**.
+- *01/2025* - I started my Ph.D.
 - *10/2024* - 🏆 I was awarded the **A\*STAR Computing and Information Science (ACIS) Scholarship** and the **NUS President's Graduate Fellowship (PGF)**.
 - *09/2024* - I received my Ph.D. offer from NUS School of Computing.
 - *06/2024* - 🏆 I was awarded the **Outstanding Undergraduate Researcher (OUR) Prize** as the best individual undergraduate researcher in NUS.
