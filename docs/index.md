@@ -16,7 +16,7 @@ Personal website of Xiao Tian *@snoidetx*.
 
 ---
 
-I am **Xiao <u>Tian</u>**, a **Ph.D. in Computer Science** student at [**National University of Singapore**](https://nus.edu.sg/) (NUS), starting from Spring 2025. I am fortunate to be supervised by [**Prof. Bryan Kian Hsiang Low**](https://www.comp.nus.edu.sg/cs/people/lowkh/) and [**Dr. Chuan-Sheng Foo**](https://www.a-star.edu.sg/cfar/about-cfar/our-team/dr-foo-chuan-sheng). My research interests include **data-centric machine learning**, **multi-agent machine learning** and **privacy-preserving machine learning**. Refer to my [**Research**](./research/) page to find out more about my research and past works. I have also been working as **teaching assistant** in NUS School of Computing. Refer to my [**Teaching**](./teaching/) page to know about the courses I have taught. 
+I am **Xiao <u>Tian</u>**, a **Ph.D. in Computer Science** student at [**National University of Singapore**](https://nus.edu.sg/) (NUS), starting from Spring 2025. I am fortunate to be supervised by [**Prof. Bryan Kian Hsiang Low**](https://www.comp.nus.edu.sg/cs/people/lowkh/), [**Dr. Nancy F. Chen**](https://sites.google.com/site/nancyfchen/home) and (previously) [**Dr. Chuan-Sheng Foo**](https://www.a-star.edu.sg/cfar/about-cfar/our-team/dr-foo-chuan-sheng). My research interests include **data-centric machine learning**, **multi-agent machine learning** and **privacy-preserving machine learning**. Refer to my [**Research**](./research/) page to find out more about my research and past works. I have also been working as **teaching assistant** in NUS School of Computing. Refer to my [**Teaching**](./teaching/) page to know about the courses I have taught. 
 
 I obtained my **Bachelor of Science with Honours (Highest Distinction) in Applied Mathematics** and **Bachelor of Computing (Computer Science) with Honours (Highest Distinction)** degrees from NUS in Fall 2024. I was supervised by [**Prof. Bryan Kian Hsiang Low**](https://www.comp.nus.edu.sg/cs/people/lowkh/) and [**Prof. Jonathan Scarlett**](https://www.comp.nus.edu.sg/~scarlett/) for my honours year thesis. Check out my **résumé** above to know more about me!
 
@@ -39,6 +39,7 @@ I obtained my **Bachelor of Science with Honours (Highest Distinction) in Applie
 
 ## News 🔥
 
+- *07/2025* - I attended **NUS Commencement 2025**.
 - *01/2025* - I was officially conferred the degree of **Bachelor of Science with Honours (Highest Distinction) in Applied Mathematics** and the degree of **Bachelor of Computing (Computer Science) with Honours (Highest Distinction)**.
 - *01/2025* - I started my Ph.D.
 - *10/2024* - 🏆 I was awarded the **A\*STAR Computing and Information Science (ACIS) Scholarship** and the **NUS President's Graduate Fellowship (PGF)**.
