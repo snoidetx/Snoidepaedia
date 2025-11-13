@@ -483,6 +483,16 @@
           "link": "./pdf/NUS-CS5446-FinalExaminationHelpsheet.pdf"
         }
       ]
+    },
+    {
+      "code": "CS5461",
+      "name": "Algorithmic Mechanism Design",
+      "resources": [
+        {
+          "title": "Notes",
+          "link": "./pdf/NUS-CS5461-Notes.pdf"
+        }
+      ]
     }
   ],
   "Others": [
