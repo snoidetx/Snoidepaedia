@@ -20,7 +20,7 @@ I am currently a **Ph.D. in Computer Science** student at [**National University
 
 ## Research Interests
 
-* **Data-centric machine learning** (e.g., data valuation, active learning, machine unlearning)
+* **Data-centric machine learning** (e.g., data valuation, data selection, machine unlearning)
 * **Multi-agent machine learning** (e.g., collaborative/federated learning, incentive mechanism)
 * **Privacy-preserving machine learning** (e.g., differentially private machine learning)
 
