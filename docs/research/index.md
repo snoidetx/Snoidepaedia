@@ -37,6 +37,10 @@ I am currently a **Ph.D. in Computer Science** student at [**National University
 ## Publications and Preprints <span class="see-more">[&dagger;: equal contribution]</span>
 
 <br>
+**INO-SGD: Addressing Utility Imbalance under Individualized Differential Privacy**
+<p class="addition"><strong>X. Tian</strong>, J. Fan, R.H.L. Sim, B.K.H. Low · 2026 · The 14th International Conference on Learning Representations (<strong>ICLR-26</strong>)</p>
+[Publisher](https://openreview.net/forum?id=HMapYMkcrl){: .btn-small-1} 
+
 **Deletion-Anticipative Data Selection with a Limited Budget**
 <p class="addition">R.H.L. Sim, J. Fan, <strong>X. Tian</strong>, B.K.H. Low & P. Jaillet · 2024 · The 41st International Conference on Machine Learning (<strong>ICML-24</strong>)</p>
 [Publisher](https://proceedings.mlr.press/v235/sim24a.html){: .btn-small-1} <span class='btn-small-filler'></span> [Gallery](./deletion-anticipative-data){: .btn-small-2}
