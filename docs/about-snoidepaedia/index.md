@@ -36,3 +36,7 @@ Things related to Xiao Tian *@snoidetx*.
 ## Theme
 
 *Snoidepaedia* deploys ***[Just The Docs](https://github.com/just-the-docs/just-the-docs)***, a modern, highly customizable, and responsive Jekyll theme for documentation with built-in search. Please star the theme if you find it good.
+
+## Related Sites
+
+- [**SnoídePoint**](https://www.notion.so/Welcome-to-Sno-dePoint-2ff54c07cded8087a1a8ce5d8291f2a0): *@snoidetx*'s internal management system.
