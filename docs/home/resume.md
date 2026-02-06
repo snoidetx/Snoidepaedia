@@ -8,10 +8,8 @@ parent: Home
 # Résumé
 {: .fs-9 }
 
-{% comment %}
-Record of experiences in PDF.
+Curriculum vitae.
 {: .fs-6 .fw-300 }
-{% endcomment %}
 
 ---
 

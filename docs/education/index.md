@@ -9,7 +9,8 @@ has_toc: false
 # Education
 {: .fs-9 }
 
-<p></p>
+Pathway of learning.
+{: .fs-6 .fw-300 }
 
 [View Transcripts](./transcript){: .btn-whole}
 

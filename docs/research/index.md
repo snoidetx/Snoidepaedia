@@ -9,10 +9,8 @@ has_toc: false
 # Research
 {: .fs-9 }
 
-{% comment %}
 Explore. Adventure.
 {: .fs-6 .fw-300 }
-{% endcomment %}
 
 <p></p>
 
