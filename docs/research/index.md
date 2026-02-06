@@ -9,8 +9,12 @@ has_toc: false
 # Research
 {: .fs-9 }
 
+{% comment %}
 Explore. Adventure.
 {: .fs-6 .fw-300 }
+{% endcomment %}
+
+<p></p>
 
 [Google Scholar](https://scholar.google.com/citations?user=FdGSDcQAAAAJ&hl=en){: .btn-left}
 

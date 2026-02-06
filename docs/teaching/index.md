@@ -9,8 +9,10 @@ has_toc: false
 # Teaching
 {: .fs-9 }
 
+{% comment %}
 Exchange of knowledge.
 {: .fs-6 .fw-300 }
+{% endcomment %}
 
 ---
 

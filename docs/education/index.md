@@ -9,8 +9,7 @@ has_toc: false
 # Education
 {: .fs-9 }
 
-From China to Singapore.
-{: .fs-6 .fw-300 }
+<p></p>
 
 [View Transcripts](./transcript){: .btn-whole}
 

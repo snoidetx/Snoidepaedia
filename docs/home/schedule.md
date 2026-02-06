@@ -8,7 +8,7 @@ parent: Home
 # Schedule
 {: .fs-9 }
 
-*@snoidetx*'s personal schedule.
+*@snoidetx*'s calendar.
 {: .fs-6 .fw-300 }
 
 ---
