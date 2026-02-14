@@ -39,7 +39,7 @@ I obtained my **Bachelor of Science with Honours (Highest Distinction) in Applie
 
 ## News 🔥
 
-- *02/2026* - 🎉 Our paper *INO-SGD: Addressing Utility Imbalance under Differential Privacy* was accepted to **ICLR-26**.
+- *02/2026* - 🎉 Our paper *INO-SGD: Addressing Utility Imbalance under Individualized Differential Privacy* was accepted to **ICLR-26**.
 - *07/2025* - I attended **NUS Commencement 2025**.
 - *01/2025* - I was officially conferred the degree of **Bachelor of Science with Honours (Highest Distinction) in Applied Mathematics** and the degree of **Bachelor of Computing (Computer Science) with Honours (Highest Distinction)**.
 - *01/2025* - I started my Ph.D.
