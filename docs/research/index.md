@@ -41,19 +41,19 @@ I am currently a **Ph.D. in Computer Science** student at [**National University
 <br>
 **INO-SGD: Addressing Utility Imbalance under Individualized Differential Privacy**
 <p class="addition"><strong>X. Tian</strong>, J. Fan, R.H.L. Sim, B.K.H. Low · 2026 · The 14th International Conference on Learning Representations (<strong>ICLR-26</strong>)</p>
-[Publisher](https://openreview.net/forum?id=HMapYMkcrl){: .btn-small-1} 
+[Publisher](https://openreview.net/forum?id=HMapYMkcrl){: .btn-small-1} <span class='btn-small-filler'></span> [Gallery](./inosgd){: .btn-small-2}
 
 **Deletion-Anticipative Data Selection with a Limited Budget**
 <p class="addition">R.H.L. Sim, J. Fan, <strong>X. Tian</strong>, B.K.H. Low & P. Jaillet · 2024 · The 41st International Conference on Machine Learning (<strong>ICML-24</strong>)</p>
-[Publisher](https://proceedings.mlr.press/v235/sim24a.html){: .btn-small-1} <span class='btn-small-filler'></span> [Gallery](./deletion-anticipative-data){: .btn-small-2}
+[Publisher](https://proceedings.mlr.press/v235/sim24a.html){: .btn-small-1} <span class='btn-small-filler'></span> [Gallery](./dads){: .btn-small-2}
 
 **DeRDaVa: Deletion-Robust Data Valuation for Machine Learning**
 <p class="addition"><strong>X. Tian</strong>, R.H.L. Sim, J. Fan & B.K.H. Low · 2024 · The 38th Annual AAAI Conference on Artificial Intelligence (<strong>AAAI-24</strong>)</p>
-[Publisher](https://ojs.aaai.org/index.php/AAAI/article/view/29462){: .btn-small-1} <span class='btn-small-filler'></span> [ArXiv](https://arxiv.org/abs/2312.11413){: .btn-small-2} <span class='btn-small-filler'></span> [Gallery](./derdava-deletion-robust){: .btn-small-3}
+[Publisher](https://ojs.aaai.org/index.php/AAAI/article/view/29462){: .btn-small-1} <span class='btn-small-filler'></span> [ArXiv](https://arxiv.org/abs/2312.11413){: .btn-small-2} <span class='btn-small-filler'></span> [Gallery](./derdava){: .btn-small-3}
 
 **Identifying the Geometry of an Object Using Lock-In Thermography**
 <p class="addition"><strong>X. Tian</strong>, M. Yin & H. Goh · 2019 · arXiv</p>
-[ArXiv](https://arxiv.org/abs/1903.02854){: .btn-small-1} <span class='btn-small-filler'></span> [Gallery](./identifying-the-geometry){: .btn-small-2}
+[ArXiv](https://arxiv.org/abs/1903.02854){: .btn-small-1} <span class='btn-small-filler'></span> [Gallery](./lit){: .btn-small-2}
 
 ## Course Projects <span class="see-more">[&dagger;: equal contribution]</span>
 <br>
