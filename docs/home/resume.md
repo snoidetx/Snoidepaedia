@@ -13,8 +13,14 @@ Curriculum vitae.
 
 ---
 
-The following version of my résumé was uploaded on 02/2026.
+The following version of my résumé was uploaded on 04/2026.
 
 <div class="iframe-pdf-wrapper">
-  <iframe src="https://drive.google.com/viewerng/viewer?embedded=true&url=https://snoidetx.github.io/Snoidepaedia/home/pdf/resume.pdf" width="100%" height="600" frameborder="0" scrolling="auto"></iframe>
+  <iframe
+    src="../../pdfjs/web/viewer.html?file=../../home/pdf/resume.pdf"
+    width="100%"
+    height="600"
+    style="border:0;"
+    loading="lazy">
+  </iframe>
 </div>
