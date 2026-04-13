@@ -39,18 +39,18 @@ I obtained my **Bachelor of Science with Honours (Highest Distinction) in Applie
 
 ## News 🔥
 
-- *02/2026* - 🎉 Our paper *INO-SGD: Addressing Utility Imbalance under Individualized Differential Privacy* was accepted to **ICLR-26**.
+- *02/2026* - 🎉 Our paper [*INO-SGD: Addressing Utility Imbalance under Individualized Differential Privacy*](./research/inosgd.md) was accepted to **ICLR-26**.
 - *07/2025* - I attended **NUS Commencement 2025**.
 - *01/2025* - I was officially conferred the degree of **Bachelor of Science with Honours (Highest Distinction) in Applied Mathematics** and the degree of **Bachelor of Computing (Computer Science) with Honours (Highest Distinction)**.
 - *01/2025* - I started my Ph.D.
 - *10/2024* - 🏆 I was awarded the **A\*STAR Computing and Information Science (ACIS) Scholarship** and the **NUS President's Graduate Fellowship (PGF)**.
 - *09/2024* - I received my Ph.D. offer from NUS School of Computing.
 - *06/2024* - 🏆 I was awarded the **Outstanding Undergraduate Researcher (OUR) Prize** as the best individual undergraduate researcher in NUS.
-- *05/2024* - 🎉 Our paper [*Deletion-Anticipative Data Selection with a Limited Budget*](./research/deletion-anticipative-data.md) was accepted to **ICML-24**.
+- *05/2024* - 🎉 Our paper [*Deletion-Anticipative Data Selection with a Limited Budget*](./research/dads.md) was accepted to **ICML-24**.
 - *02/2024* - 🏆 I was placed in the **Honour List of Student Tutors** by NUS School of Computing for the academic year 2022 - 2023.
 - *02/2024* - I attended **AAAI-24** at Vancouver, Canada.
 - *01/2024* - 🏆 I received the NUS **S**chool of Computing **Take on the World (STOW) award**.
-- *12/2023* - 🎉 Our paper [*DeRDaVa: Deletion-Robust Data Valuation for Machine Learning*](./research/derdava-deletion-robust.md) was accepted to **AAAI-24**.
+- *12/2023* - 🎉 Our paper [*DeRDaVa: Deletion-Robust Data Valuation for Machine Learning*](./research/derdava.md) was accepted to **AAAI-24**.
 - *09/2023* - 🏆 I was admitted to **Turing Programme**.
 - *12/2022* - 🏆 I was placed in the **Honour List of Student Tutors** by NUS School of Computing for the academic year 2021 - 2022.
 - *08/2020* - I joined National University of Singapore (NUS).
