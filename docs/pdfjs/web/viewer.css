@@ -8809,18 +8809,36 @@ dialog :link{
 }
 
 /* custom behaviors */
+
 /* left side */
 #toolbarViewerLeft {
   display: none !important;
 }
 
-/* middle: keep only the scale dropdown */
+/* middle: keep zoom buttons, hide scale dropdown */
+#toolbarViewerMiddle {
+  flex: 1 1 auto !important;
+  display: flex !important;
+  justify-content: flex-start !important;
+  align-items: center !important;
+}
+
 #toolbarViewerMiddle > .toolbarHorizontalGroup {
-  display: none !important;
+  display: inline-flex !important;
+  align-items: center !important;
+}
+
+#zoomOutButton,
+#zoomInButton {
+  display: inline-flex !important;
+}
+
+#toolbarViewerMiddle .splitToolbarButtonSeparator {
+  display: inline-block !important;
 }
 
 #scaleSelectContainer {
-  display: inline-flex !important;
+  display: none !important;
 }
 
 /* right: hide editor stuff, print, separators, extra menu */
@@ -8859,23 +8877,13 @@ dialog :link{
   position: static !important;
 }
 
-/* center scale, keep download on right */
+/* overall toolbar layout */
 #toolbarViewer {
   display: flex !important;
   align-items: center !important;
   justify-content: space-between !important;
 }
 
-#toolbarViewerMiddle {
-  flex: 1 1 auto !important;
-  display: flex !important;
-  justify-content: center !important;
-}
-
 #toolbarViewerRight {
   flex: 0 0 auto !important;
-}
-
-#scaleSelectContainer {
-  display: none !important;
 }
