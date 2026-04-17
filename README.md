@@ -4,5 +4,4 @@
 
 ## How to view
 
-Click this [link](https://snoidetx.github.io/Snoidepaedia) or go to [https://snoidetx.github.io/Snoidepaedia](https://snoidetx.github.io/Snoidepaedia).
-Release-Logs).
+Click this [link](https://snoidetx.github.io/Snoidepaedia) or go to [https://snoidetx.github.io](https://snoidetx.github.io/Snoidepaedia).
