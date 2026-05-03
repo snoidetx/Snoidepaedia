@@ -39,8 +39,8 @@ I obtained my **Bachelor of Science with Honours (Highest Distinction) in Applie
 
 ## News 🔥
 
-- *05/2026* - 🎉 Our paper *Is Data Shapley Not Better than Random in Data Selection? Ask NASH* was accepted to **ICML-26** as a **spotlight paper** (top 2.2%).
-- *05/2026* - 🎉 Our paper *Incentivizing Truthfulness and Collaborative Fairness in Bayesian Learning* was accepted to **ICML-26** as a **spotlight paper** (top 2.2%).
+- *05/2026* - 🎉🎉🎉 Our paper *Is Data Shapley Not Better than Random in Data Selection? Ask NASH* was accepted to **ICML-26** as a **spotlight paper** (top 2.2%)!
+- *05/2026* - 🎉🎉🎉 Our paper *Incentivizing Truthfulness and Collaborative Fairness in Bayesian Learning* was accepted to **ICML-26** as a **spotlight paper** (top 2.2%)!
 - *02/2026* - 🎉 Our paper [*INO-SGD: Addressing Utility Imbalance under Individualized Differential Privacy*](./research/inosgd.md) was accepted to **ICLR-26**.
 - *07/2025* - I attended **NUS Commencement 2025**.
 - *01/2025* - I was officially conferred the degree of **Bachelor of Science with Honours (Highest Distinction) in Applied Mathematics** and the degree of **Bachelor of Computing (Computer Science) with Honours (Highest Distinction)**.
