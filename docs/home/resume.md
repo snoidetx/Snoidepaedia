@@ -13,7 +13,7 @@ Curriculum vitae.
 
 ---
 
-The following version of my résumé was uploaded on 04/2026.
+The following version of my résumé was uploaded on 05/2026.
 
 <div class="iframe-pdf-wrapper">
   <iframe

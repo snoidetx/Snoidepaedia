@@ -30,10 +30,15 @@ Learners with a limited budget can use supervised data subset selection and acti
 ```
 @inproceedings{sim2024deletion,
   title={Deletion-Anticipative Data Selection with a Limited Budget},
-  author={Sim, Rachael Hwee Ling and Fan, Jue and Tian, Xiao and Low, Bryan Kian Hsiang and Jaillet, Patrick},
+  author={Sim, Rachael Hwee Ling and Fan, Jue and Tian, Xiao and Jaillet, Patrick and Low, Bryan Kian Hsiang},
   booktitle={Proc. ICML},
-  volume={235},
   pages={45468--45507},
-  year={2024}
+  year={2024},
+  editor={Salakhutdinov, Ruslan and Kolter, Zico and Heller, Katherine and Weller, Adrian and Oliver, Nuria and Scarlett, Jonathan and Berkenkamp, Felix},
+  volume={235},
+  series={PMLR},
+  month={21--27 Jul},
+  publisher={PMLR},
 }
+
 ```

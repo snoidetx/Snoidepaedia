@@ -39,9 +39,23 @@ I am currently a **Ph.D. in Computer Science** student at [**National University
 ## Publications and Preprints <span class="see-more">[&dagger;: equal contribution]</span>
 
 <br>
+**Is Data Shapley Not Better than Random in Data Selection? Ask NASH**
+
+<p class="addition-highlight"><strong>✪ Spotlight Paper (top 2.20%)</strong></p>
+
+<p class="addition"><strong>X. Tian</strong>&dagger;, J. Fan&dagger;, R.H.L. Sim, Z. Wang, Nancy F. Chen, B.K.H. Low · 2026 · The 43rd International Conference on Machine Learning (<strong>ICML-26</strong>)</p>
+[ArXiv](https://arxiv.org/abs/2605.10684){: .btn-small-1}
+
+**Incentivizing Truthfulness and Collaborative Fairness in Bayesian Learning**
+
+<p class="addition-highlight"><strong>✪ Spotlight Paper (top 2.20%)</strong></p>
+
+<p class="addition">R.H.L. Sim&dagger;, J. Fan&dagger;, <strong>X. Tian</strong>, X. Xu, P. Jaillet, B.K.H. Low · 2026 · The 43rd International Conference on Machine Learning (<strong>ICML-26</strong>)</p>
+[ArXiv](https://arxiv.org/abs/2605.11889){: .btn-small-1}
+
 **INO-SGD: Addressing Utility Imbalance under Individualized Differential Privacy**
 <p class="addition"><strong>X. Tian</strong>, J. Fan, R.H.L. Sim, B.K.H. Low · 2026 · The 14th International Conference on Learning Representations (<strong>ICLR-26</strong>)</p>
-[Publisher](https://openreview.net/forum?id=HMapYMkcrl){: .btn-small-1} <span class='btn-small-filler'></span> [Gallery](./inosgd){: .btn-small-2}
+[Publisher](https://openreview.net/forum?id=HMapYMkcrl){: .btn-small-1} <span class='btn-small-filler'></span> [ArXiv](http://arxiv.org/abs/2605.07930){: .btn-small-2} <span class='btn-small-filler'></span> [Gallery](./inosgd){: .btn-small-3}
 
 **Deletion-Anticipative Data Selection with a Limited Budget**
 <p class="addition">R.H.L. Sim, J. Fan, <strong>X. Tian</strong>, B.K.H. Low & P. Jaillet · 2024 · The 41st International Conference on Machine Learning (<strong>ICML-24</strong>)</p>
