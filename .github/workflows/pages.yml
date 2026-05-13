@@ -24,6 +24,7 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Setup Pages
+        id: pages
         uses: actions/configure-pages@v5
 
       - name: Setup Ruby
@@ -33,7 +34,7 @@ jobs:
           bundler-cache: true
 
       - name: Build site
-        run: bundle exec jekyll build --source docs --destination _site
+        run: bundle exec jekyll build --source docs --destination _site --baseurl "${{ steps.pages.outputs.base_path }}"
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
