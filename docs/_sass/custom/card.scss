@@ -32,3 +32,11 @@
   padding-top: 1.2em;
   padding-bottom: 1.2em;
 }
+
+.card-hollow.card-compact {
+  padding: 0.75rem 0.9rem;
+}
+
+.card-hollow.card-clickable {
+  cursor: pointer;
+}

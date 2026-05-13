@@ -1,0 +1,143 @@
+@import "../constants.scss";
+
+.home-hero {
+  position: relative;
+  z-index: 0;
+  min-height: 360px;
+  display: flex;
+  align-items: flex-end;
+  margin-bottom: $sp-4;
+  padding: $sp-5;
+  border-radius: $corner-radius;
+  overflow: hidden;
+  box-shadow: $shadow;
+  background:
+    linear-gradient(
+      90deg,
+      $s-lightermagnenta 0%,
+      rgba($s-lightmagnenta, 0.92) 15%,
+      rgba($s-lightmagnenta, 0.55) 45%,
+      rgba($s-lightmagnenta, 0) 100%
+    ),
+    url("../images/banner.png");
+  background-size: auto 100%;
+  background-position: right center;
+  background-repeat: no-repeat;
+}
+
+.home-hero-content {
+  position: relative;
+  z-index: 1;
+  width: 100%;
+}
+
+.home-hero-content h1,
+.home-hero-content p {
+  color: $s-black;
+}
+
+.home-hero-buttons {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.home-overview {
+  overflow: hidden;
+  border-radius: $corner-radius;
+  box-shadow: $shadow;
+  background: $s-lightermagnenta;
+}
+
+.home-overview .home-hero {
+  margin-bottom: 0;
+  border-radius: 0;
+  box-shadow: none;
+}
+
+.home-intro {
+  background-color: $s-lightermagnenta;
+  padding: $sp-5;
+}
+
+.home-intro p:first-child {
+  margin-top: 0;
+}
+
+.home-intro p:last-child {
+  margin-bottom: 0;
+}
+
+.home-intro a {
+  color: inherit;
+}
+
+.home-intro p:not(.addition-highlight) {
+    font-weight: 300;
+}
+
+@media (max-width: 500px) {
+  .home-overview {
+    position: relative;
+    z-index: 0;
+    border-radius: 0;
+    box-shadow: none;
+    background: transparent;
+    overflow: visible;
+  }
+
+  .home-overview::before {
+    content: "";
+    position: absolute;
+    z-index: -2;
+    top: 0;
+    bottom: 0;
+    left: 50%;
+    width: 100vw;
+    transform: translateX(-50%);
+    background: $s-lightermagnenta;
+    box-shadow: $shadow-light;
+  }
+
+  .home-hero {
+    margin-bottom: 0;
+    border-radius: 0;
+    box-shadow: none;
+    background: none;
+    overflow: visible;
+    padding-left: 0;
+    padding-right: 0;
+  }
+
+  .home-hero::before {
+    content: "";
+    position: absolute;
+    z-index: -1;
+    top: 0;
+    bottom: 0;
+    left: 50%;
+    width: 100vw;
+    transform: translateX(-50%);
+    background:
+      linear-gradient(
+        90deg,
+        $s-lightermagnenta 0%,
+        rgba($s-lightmagnenta, 0.92) 32%,
+        rgba($s-lightmagnenta, 0.55) 58%,
+        rgba($s-lightmagnenta, 0) 100%
+      ),
+      url("../images/banner.png");
+    background-size: 100% 100%, auto 100%;
+    background-position: calc(100% - 20px) center, calc(100% + 20px) center;
+    background-repeat: no-repeat, no-repeat;
+    box-shadow: none;
+  }
+
+  .home-intro {
+    padding: $sp-4 0;
+  }
+}
+
+.home-overview-container {
+    padding-bottom: 1.2em;
+}

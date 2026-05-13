@@ -9,6 +9,7 @@
 
 @import "./images/gallery.scss";
 @import "./images/shadow.scss";
+@import "./images/banner.scss";
 
 @import "./tables/table.scss";
 @import "./tables/table-about.scss";
@@ -124,12 +125,4 @@ $nav-width: 360px;
 
 .see-more {
   @include fs-4;
-}
-
-.card-hollow.card-compact {
-  padding: 0.75rem 0.9rem;
-}
-
-.card-hollow.card-clickable {
-  cursor: pointer;
 }
