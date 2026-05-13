@@ -49,4 +49,4 @@ Here are some Singapore-Cambridge GCE A-Level resources collated by *@snoidetx*.
 
 All resources displayed in this page are produced by *@snoidetx*. Please credit for reuse.
 
-<script>{% include js/resource/load_resource_tables.js %}</script>
+<script>{% include js/resource/load_resource.js %}</script>

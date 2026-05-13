@@ -1,0 +1,24 @@
+@import "./colors";
+
+p:has(+ [class~="addition"]),
+p:has(+ [class^="addition-"]),
+p:has(+ [class*=" addition-"]) {
+  margin-bottom: 0;
+}
+
+.addition {
+  @extend .text-small;
+
+  margin: 0;
+  padding-top: 0.15em;
+  padding-bottom: 0em;
+}
+
+.addition-highlight {
+  @include fs-3;
+
+  margin-top: 0;
+  padding-top: 0.15em;
+  padding-bottom: 0.15em;
+  color: $s-red;
+}

@@ -1,6 +1,6 @@
 @import "./transition.scss";
 
-@import "./snoidepaedia_spacing.scss";
+@import "./addition.scss";
 
 @import "./buttons/button-responsive.scss";
 
@@ -20,6 +20,8 @@
 @import "./local_buttons.scss";
 @import "./collapsible_tables.scss";
 @import "./custom_tables.scss";
+
+@import "./card.scss";
 
 // LAYOUT
 $nav-width: 360px;
@@ -122,4 +124,12 @@ $nav-width: 360px;
 
 .see-more {
   @include fs-4;
+}
+
+.card-hollow.card-compact {
+  padding: 0.75rem 0.9rem;
+}
+
+.card-hollow.card-clickable {
+  cursor: pointer;
 }

@@ -18,7 +18,7 @@ Explore. Adventure.
 
 ---
 
-I am currently a **Ph.D. in Computer Science** student at [**National University of Singapore**](https://nus.edu.sg/) (NUS), supervised by [**Prof. Bryan Kian Hsiang Low**](https://www.comp.nus.edu.sg/cs/people/lowkh/), [**Dr. Nancy F. Chen**](https://sites.google.com/site/nancyfchen/home) and (previously) [**Dr. Chuan-Sheng Foo**](https://www.a-star.edu.sg/cfar/about-cfar/our-team/dr-foo-chuan-sheng). Back in National Junior College (NJC), I joined the H3 Science Research programme, where I got a chance to research in [**Agency for Science, Technology and Research**](https://www.a-star.edu.sg/) (A\*STAR) for 1 year. When I was an undergraduate, I enrolled in the [**Undergraduate Research Opportunity Programme**](https://www.comp.nus.edu.sg/programmes/ug/project/urop/) under the supervision of [**Prof. Bryan Kian Hsiang Low**](https://www.comp.nus.edu.sg/cs/people/lowkh/) and the paper has been accepted into the [**AAAI-24**](https://aaai.org/aaai-conference/) conference. My Integrated Honours Project (IHT) thesis was supervised by [**Prof. Bryan Kian Hsiang Low**](https://www.comp.nus.edu.sg/cs/people/lowkh/) and [**Prof. Jonathan Scarlett**](https://www.comp.nus.edu.sg/~scarlett/).
+I am currently a Ph.D. in Computer Science student at [National University of Singapore](https://nus.edu.sg/) (**NUS**), supervised by [**Prof. Bryan Kian Hsiang Low**](https://www.comp.nus.edu.sg/cs/people/lowkh/), [**Dr. Nancy F. Chen**](https://sites.google.com/site/nancyfchen/home) and (previously) [Dr. Chuan-Sheng Foo](https://www.a-star.edu.sg/cfar/about-cfar/our-team/dr-foo-chuan-sheng). Back in National Junior College (NJC), I joined the H3 Science Research programme, where I got a chance to research in [Agency for Science, Technology and Research](https://www.a-star.edu.sg/) (A\*STAR) for 1 year. When I was an undergraduate, I enrolled in the [Undergraduate Research Opportunity Programme](https://www.comp.nus.edu.sg/programmes/ug/project/urop/) under the supervision of [**Prof. Bryan Kian Hsiang Low**](https://www.comp.nus.edu.sg/cs/people/lowkh/) and the paper has been accepted into the [**AAAI-24**](https://aaai.org/aaai-conference/) conference. My Integrated Honours Project (IHT) thesis was supervised by [Prof. Bryan Kian Hsiang Low](https://www.comp.nus.edu.sg/cs/people/lowkh/) and [Prof. Jonathan Scarlett](https://www.comp.nus.edu.sg/~scarlett/).
 
 ## Research Interests
 
@@ -28,13 +28,17 @@ I am currently a **Ph.D. in Computer Science** student at [**National University
 
 ## Research Experiences <span class="see-more">[<a href="./timeline/">see more</a>]</span>
 
-<div style="height: 0"></div>
-**Student Researcher @ NUS**
-<p class="addition">Singapore · May 2023 - Sep 2023; May 2024 - Aug 2024</p>
+<div class="card-list">
+  <div class="card-hollow">
+    <strong>Student Researcher @ NUS</strong>
+    <p class="addition">Singapore · May 2023 - Sep 2023; May 2024 - Aug 2024</p>
+  </div>
 
-<div style="height: 0.5rem"></div>
-**Researcher @ A*STAR**
-<p class="addition">Singapore · Mar 2018 - Feb 2019</p>
+  <div class="card-hollow">
+    <strong>Researcher @ A*STAR</strong>
+    <p class="addition">Singapore · Mar 2018 - Feb 2019</p>
+  </div>
+</div>
 
 ## Publications and Preprints <span class="see-more">[&dagger;: equal contribution]</span>
 
@@ -126,3 +130,5 @@ I am currently a **Ph.D. in Computer Science** student at [**National University
 **Thermography - A Big Data Problem (Experiments)**
 <p class="addition"><strong>X. Tian</strong> & H.K.H. Goh · 2019 · NJC H3 Research</p>
 [Source](./pdf/thermography-a-big-data-problem-experiments.pdf){: .btn-small-1}
+
+<script>{% include js/research/adjust_publication_addition.js %}</script>

@@ -1,0 +1,93 @@
+[
+  {
+    "date": "05/2026",
+    "emoji": "🎉🎉",
+    "markdown": "Our paper *Is Data Shapley Not Better than Random in Data Selection? Ask NASH* was accepted to **ICML-26** as a **Spotlight paper** (top 2.2%)!"
+  },
+  {
+    "date": "05/2026",
+    "emoji": "🎉🎉",
+    "markdown": "Our paper *Incentivizing Truthfulness and Collaborative Fairness in Bayesian Learning* was accepted to **ICML-26** as a **Spotlight paper** (top 2.2%)!"
+  },
+  {
+    "date": "02/2026",
+    "emoji": "🎉",
+    "markdown": "Our paper [*INO-SGD: Addressing Utility Imbalance under Individualized Differential Privacy*](../research/inosgd) was accepted to **ICLR-26**.",
+    "figure": {
+      "src": "./home/img/thumbnails/thumbnail-inosgd.gif",
+      "alt": "INO-SGD illustration"
+    }
+  },
+  {
+    "date": "07/2025",
+    "markdown": "I attended **NUS Commencement 2025**."
+  },
+  {
+    "date": "01/2025",
+    "markdown": "I was officially conferred the degree of **Bachelor of Science with Honours (Highest Distinction) in Applied Mathematics** and the degree of **Bachelor of Computing (Computer Science) with Honours (Highest Distinction)**."
+  },
+  {
+    "date": "01/2025",
+    "markdown": "I started my Ph.D."
+  },
+  {
+    "date": "10/2024",
+    "emoji": "🏆",
+    "markdown": "I was awarded the **A\\*STAR Computing and Information Science (ACIS) Scholarship** and the **NUS President's Graduate Fellowship (PGF)**."
+  },
+  {
+    "date": "09/2024",
+    "markdown": "I received my Ph.D. offer from NUS School of Computing."
+  },
+  {
+    "date": "06/2024",
+    "emoji": "🏆",
+    "markdown": "I was awarded the **Outstanding Undergraduate Researcher (OUR) Prize** as the best individual undergraduate researcher in NUS."
+  },
+  {
+    "date": "05/2024",
+    "emoji": "🎉",
+    "markdown": "Our paper [*Deletion-Anticipative Data Selection with a Limited Budget*](../research/dads) was accepted to **ICML-24**.",
+    "figure": {
+      "src": "./home/img/thumbnails/thumbnail-dads.gif",
+      "alt": "DADS illustration"
+    }  
+  },
+  {
+    "date": "02/2024",
+    "emoji": "🏆",
+    "markdown": "I was placed in the **Honour List of Student Tutors** by NUS School of Computing for the academic year 2022 - 2023."
+  },
+  {
+    "date": "02/2024",
+    "markdown": "I attended **AAAI-24** at Vancouver, Canada."
+  },
+  {
+    "date": "01/2024",
+    "emoji": "🏆",
+    "markdown": "I received the NUS **S**chool of Computing **Take on the World (STOW) award**."
+  },
+  {
+    "date": "12/2023",
+    "emoji": "🎉",
+    "markdown": "Our paper [*DeRDaVa: Deletion-Robust Data Valuation for Machine Learning*](../research/derdava) was accepted to **AAAI-24**.",
+    "figure": {
+      "src": "./home/img/thumbnails/thumbnail-derdava.gif",
+      "alt": "DeRDaVa illustration"
+    }
+  },
+  {
+    "date": "09/2023",
+    "emoji": "🏆",
+    "markdown": "I was admitted to **Turing Programme**."
+  },
+  {
+    "date": "12/2022",
+    "emoji": "🏆",
+    "markdown": "I was placed in the **Honour List of Student Tutors** by NUS School of Computing for the academic year 2021 - 2022."
+  },
+  {
+    "date": "08/2020",
+    "markdown": "I joined National University of Singapore (NUS)."
+  }
+]

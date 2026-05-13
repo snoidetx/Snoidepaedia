@@ -16,50 +16,39 @@ Personal website of Xiao Tian *@snoidetx*.
 
 ---
 
-I am **Xiao <u>Tian</u>**, a **Ph.D. in Computer Science** student at [**National University of Singapore**](https://nus.edu.sg/) (NUS), starting from Spring 2025. I am fortunate to be supervised by [**Prof. Bryan Kian Hsiang Low**](https://www.comp.nus.edu.sg/cs/people/lowkh/) and [**Dr. Nancy F. Chen**](https://sites.google.com/site/nancyfchen/home). My research interests include **data-centric machine learning**, **multi-agent machine learning** and **privacy-preserving machine learning**. Refer to my [**Research**](./research/) page to find out more about my research and past works. I have also been working as **teaching assistant** in NUS School of Computing. Refer to my [**Teaching**](./teaching/) page to know about the courses I have taught. 
+I am **Xiao <u>Tian</u>**, a Ph.D. in Computer Science student at [National University of Singapore](https://nus.edu.sg/) (**NUS**), starting from Spring 2025. I am fortunate to be supervised by [**Prof. Bryan Kian Hsiang Low**](https://www.comp.nus.edu.sg/cs/people/lowkh/) and [**Dr. Nancy F. Chen**](https://sites.google.com/site/nancyfchen/home). My research interests include *data-centric machine learning*, *multi-agent machine learning* and *privacy-preserving machine learning*. Refer to my [Research](./research/) page to find out more about my research and past works. I have also been working as [teaching assistant](./teaching/) in NUS School of Computing. 
 
-I obtained my **Bachelor of Science with Honours (Highest Distinction) in Applied Mathematics** and **Bachelor of Computing (Computer Science) with Honours (Highest Distinction)** degrees from NUS in Fall 2024. I was supervised by [**Prof. Bryan Kian Hsiang Low**](https://www.comp.nus.edu.sg/cs/people/lowkh/) and [**Prof. Jonathan Scarlett**](https://www.comp.nus.edu.sg/~scarlett/) for my honours year thesis. Check out my **résumé** above to know more about me!
+I obtained my two Bachelor's degrees from NUS in Fall 2024. I was supervised by [Prof. Bryan Kian Hsiang Low](https://www.comp.nus.edu.sg/cs/people/lowkh/) and [Prof. Jonathan Scarlett](https://www.comp.nus.edu.sg/~scarlett/) for my honours year thesis.
 
-😁 Fun fact: ***Snoíde*** is my pseudonym.
+☻ Fun fact: ***Snoíde*** is my pseudonym.
+{: .red }
 
 ## Education 🎓 <span class="see-more">[<a href="./education/">see more</a>]</span>
 
-<div style="height: 0"></div>
-**National University of Singapore, School of Computing (Ongoing)**
-<p class="addition">2025 - 2028 (Expected) · Doctor of Philosophy in Computer Science · A*STAR Computing and Information Science (ACIS) Scholarship</p>
+<div class="card-list">
+  <div class="card-hollow">
+    <strong>National University of Singapore, School of Computing (Ongoing)</strong>
+    <p class="addition">2025 - 2028 (Expected) · Doctor of Philosophy in Computer Science · A*STAR Computing and Information Science (ACIS) Scholarship</p>
+  </div>
 
-<div style="height: 0.5rem"></div>
-**National University of Singapore, School of Computing**
-<p class="addition">2020 - 2024 · Bachelor of Computing in Computer Science · Honours (Highest Distinction) · Turing Programme · Science & Technology (S&T) Undergraduate Merit Scholarship</p>
+  <div class="card-hollow">
+    <strong>National University of Singapore, School of Computing</strong>
+    <p class="addition">2020 - 2024 · Bachelor of Computing in Computer Science · Honours (Highest Distinction) · Turing Programme · Science &amp; Technology (S&amp;T) Undergraduate Merit Scholarship</p>
+  </div>
 
-<div style="height: 0.5rem"></div>
-**National University of Singapore, Faculty of Science**
-<p class="addition">2020 - 2024 · Bachelor of Science in Applied Mathematics · Honours (Highest Distinction) · Science & Technology (S&T) Undergraduate Merit Scholarship</p>
-<div style="height: 0.5rem"></div>
+  <div class="card-hollow">
+    <strong>National University of Singapore, Faculty of Science</strong>
+    <p class="addition">2020 - 2024 · Bachelor of Science in Applied Mathematics · Honours (Highest Distinction) · Science &amp; Technology (S&amp;T) Undergraduate Merit Scholarship</p>
+  </div>
+</div>
 
 ## News 🔥
 
-- *05/2026* - 🎉🎉🎉 Our paper *Is Data Shapley Not Better than Random in Data Selection? Ask NASH* was accepted to **ICML-26** as a **spotlight paper** (top 2.2%)!
-- *05/2026* - 🎉🎉🎉 Our paper *Incentivizing Truthfulness and Collaborative Fairness in Bayesian Learning* was accepted to **ICML-26** as a **spotlight paper** (top 2.2%)!
-- *02/2026* - 🎉 Our paper [*INO-SGD: Addressing Utility Imbalance under Individualized Differential Privacy*](./research/inosgd.md) was accepted to **ICLR-26**.
-- *07/2025* - I attended **NUS Commencement 2025**.
-- *01/2025* - I was officially conferred the degree of **Bachelor of Science with Honours (Highest Distinction) in Applied Mathematics** and the degree of **Bachelor of Computing (Computer Science) with Honours (Highest Distinction)**.
-- *01/2025* - I started my Ph.D.
-- *10/2024* - 🏆 I was awarded the **A\*STAR Computing and Information Science (ACIS) Scholarship** and the **NUS President's Graduate Fellowship (PGF)**.
-- *09/2024* - I received my Ph.D. offer from NUS School of Computing.
-- *06/2024* - 🏆 I was awarded the **Outstanding Undergraduate Researcher (OUR) Prize** as the best individual undergraduate researcher in NUS.
-- *05/2024* - 🎉 Our paper [*Deletion-Anticipative Data Selection with a Limited Budget*](./research/dads.md) was accepted to **ICML-24**.
-- *02/2024* - 🏆 I was placed in the **Honour List of Student Tutors** by NUS School of Computing for the academic year 2022 - 2023.
-- *02/2024* - I attended **AAAI-24** at Vancouver, Canada.
-- *01/2024* - 🏆 I received the NUS **S**chool of Computing **Take on the World (STOW) award**.
-- *12/2023* - 🎉 Our paper [*DeRDaVa: Deletion-Robust Data Valuation for Machine Learning*](./research/derdava.md) was accepted to **AAAI-24**.
-- *09/2023* - 🏆 I was admitted to **Turing Programme**.
-- *12/2022* - 🏆 I was placed in the **Honour List of Student Tutors** by NUS School of Computing for the academic year 2021 - 2022.
-- *08/2020* - I joined National University of Singapore (NUS).
-{: #news-list }
+<div id="news-list" class="news-list"></div>
 
 <div class="news-btn-container">
   <button id="news-btn" class="news-btn">Expand</button>
 </div>
 
-<script>{% include js/home/control_news_list.js %}</script>
+<script src="{{ '/assets/js/vendor/marked.min.js' | relative_url }}"></script>
+<script>{% include js/home/load_news.js %}</script>
