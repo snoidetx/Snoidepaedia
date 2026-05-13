@@ -12,9 +12,10 @@
 }
 
 .card-hollow:hover {
-  background: $s-lightermagnenta;
+  background: $s-white;
   box-shadow: 0 4px 2px rgba(0, 0, 0, 0.14), 0 10px 3px rgba(0, 0, 0, 0.10);
   transform: translateY(-2px);
+  color: $s-black;
 }
 
 .card-hollow > :first-child {

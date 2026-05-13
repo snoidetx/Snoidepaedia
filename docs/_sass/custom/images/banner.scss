@@ -14,7 +14,7 @@
   background:
     linear-gradient(
       90deg,
-      $s-lightermagnenta 0%,
+      $s-white 0%,
       rgba($s-lightmagnenta, 0.92) 15%,
       rgba($s-lightmagnenta, 0.55) 45%,
       rgba($s-lightmagnenta, 0) 100%
@@ -46,7 +46,7 @@
   overflow: hidden;
   border-radius: $corner-radius;
   box-shadow: $shadow;
-  background: $s-lightermagnenta;
+  background: $s-white;
 }
 
 .home-overview .home-hero {
@@ -56,7 +56,7 @@
 }
 
 .home-intro {
-  background-color: $s-lightermagnenta;
+  background-color: $s-white;
   padding: $sp-5;
 }
 
@@ -95,7 +95,7 @@
     left: 50%;
     width: 100vw;
     transform: translateX(-50%);
-    background: $s-lightermagnenta;
+    background: $s-white;
     box-shadow: $shadow-light;
   }
 
@@ -121,7 +121,7 @@
     background:
       linear-gradient(
         90deg,
-        $s-lightermagnenta 0%,
+        $s-white 0%,
         rgba($s-lightmagnenta, 0.92) 32%,
         rgba($s-lightmagnenta, 0.55) 58%,
         rgba($s-lightmagnenta, 0) 100%
