@@ -1,9 +1,36 @@
-// Fade-in effect
 body {
-  opacity: 0;
-  transition: opacity 0.5s ease-in;
+  opacity: 1;
 }
 
-body.fade-in {
+.main {
+  opacity: 0;
+  transform: translateY(14px);
+  will-change: opacity, transform;
+}
+
+body.fade-ready .main {
+  transition:
+    opacity 1.15s cubic-bezier(0.22, 1, 0.36, 1),
+    transform 1.15s cubic-bezier(0.22, 1, 0.36, 1);
+}
+
+body.fade-in .main {
   opacity: 1;
+  transform: translateY(0);
+}
+
+body.fade-in .main {
+  will-change: auto;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .main {
+    opacity: 1;
+    transform: none;
+    will-change: auto;
+  }
+
+  body.fade-ready .main {
+    transition: none;
+  }
 }

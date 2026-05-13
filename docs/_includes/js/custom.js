@@ -19,5 +19,14 @@ document.addEventListener('DOMContentLoaded', function() {
     siteContact.classList.remove('nav-open');
   }});
 
-  document.body.classList.add('fade-in');
+  document.body.classList.remove('fade-in');
+  document.body.classList.remove('fade-ready');
+
+  requestAnimationFrame(function () {
+    document.body.classList.add('fade-ready');
+
+    requestAnimationFrame(function () {
+      document.body.classList.add('fade-in');
+    });
+  });
 });

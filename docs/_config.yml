@@ -1,10 +1,8 @@
 title: Snoídepaedia
 description: Everything related to @snoidetx
 
-remote_theme: snoidetx/just-the-docs
-
-plugins:
-  - jekyll-remote-theme
+theme: just-the-docs
+ignore_theme_config: true
 
 compress_html:
   blanklines: true
