@@ -20,7 +20,7 @@ I am **Xiao <u>Tian</u>**, a Ph.D. in Computer Science student at [National Univ
 
 I obtained my two Bachelor's degrees from NUS in Fall 2024. I was supervised by [Prof. Bryan Kian Hsiang Low](https://www.comp.nus.edu.sg/cs/people/lowkh/) and [Prof. Jonathan Scarlett](https://www.comp.nus.edu.sg/~scarlett/) for my honours year thesis.
 
-☻ Fun fact: ***Snoíde*** is my pseudonym.
+**☻ Fun fact: *Snoíde* is my pseudonym.**
 {: .red }
 
 ## Education 🎓 <span class="see-more">[<a href="./education/">see more</a>]</span>
