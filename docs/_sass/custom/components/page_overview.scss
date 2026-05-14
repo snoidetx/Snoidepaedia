@@ -1,0 +1,103 @@
+@import "../constants.scss";
+
+.page-overview-container {
+    padding-bottom: 1.2em;
+}
+
+.page-overview {
+  overflow: hidden;
+  border-radius: $corner-radius;
+  box-shadow: $shadow;
+  background: $s-white;
+}
+
+.page-hero {
+  position: relative;
+  z-index: 0;
+  margin-bottom: $sp-4;
+  padding: 0 $sp-5 $sp-7 $sp-5;
+  min-height: auto;
+  display: flex;
+  align-items: flex-end;
+  border-radius: $corner-radius;
+  overflow: hidden;
+  box-shadow: $shadow;
+  background-color: $s-white;
+  background-image: var(--page-hero-image, none);
+  background-size: auto 100%;
+  background-position: right center;
+  background-repeat: no-repeat;
+}
+
+.page-hero.with-image {
+  min-height: 360px;
+  padding: $sp-5;
+}
+
+@media (max-width: 500px) {
+  .page-hero {
+    background-position: right 16px center, calc(100% + 80px) center;
+    margin-bottom: 0;
+    border-radius: 0;
+    box-shadow: none;
+  }
+}
+
+.page-hero-content {
+  position: relative;
+  z-index: 1;
+  width: 100%;
+}
+
+.page-hero-content h1,
+.page-hero-content p {
+  color: $s-black;
+}
+
+.page-hero-content p {
+  padding-bottom: 0;
+  margin-bottom: 0;
+}
+
+.page-hero-buttons {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  margin-top: $sp-5;
+}
+
+.page-overview .page-hero {
+  margin-bottom: 0;
+  border-radius: 0;
+  box-shadow: none;
+}
+
+.page-overview .page-hero:not(.with-image):last-child {
+  padding-bottom: $sp-6;
+}
+
+.page-intro {
+  background-color: $s-white;
+  padding: $sp-5;
+  white-space: pre-wrap;
+}
+
+.page-hero:not(.with-image) + .page-intro {
+  padding-top: 0;
+}
+
+.page-intro p:first-child {
+  margin-top: 0;
+}
+
+.page-intro p:last-child {
+  margin-bottom: 0;
+}
+
+.page-intro a {
+  color: inherit;
+}
+
+.page-intro p:not(.addition-highlight) {
+    font-weight: 300;
+}

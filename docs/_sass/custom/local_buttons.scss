@@ -15,7 +15,7 @@ $btn-secondary-color: $s-blue;
   @extend .btn-primary;
 
   width: calc(
-    (100% - 2*#{$sp-3}) / 2
+    (100% - #{$sp-3}) / 2
   );
   text-align: center;
   margin-left: 0;
@@ -30,7 +30,7 @@ $btn-secondary-color: $s-blue;
 .btn-right {
   @extend .btn;
   width: calc(
-    (100% - 2*#{$sp-3}) / 2
+    (100% - #{$sp-3}) / 2
   );
   text-align: center;
   border-radius: $corner-radius;

@@ -58,8 +58,11 @@ function renderNewsItem(item) {
     `
     : "";
 
-  const content = item.markdown && window.marked
-    ? marked.parseInline(item.markdown)
+  const parseMarkdownInline = window.marked &&
+    (window.marked.parseInline || (window.marked.marked && window.marked.marked.parseInline));
+
+  const content = item.markdown
+    ? (parseMarkdownInline ? parseMarkdownInline(item.markdown) : item.markdown)
     : item.html || "";
 
   return `
@@ -133,4 +136,3 @@ function collapseNewsList(newsList, listItems, maxVisibleItems) {
     });
   }, 280);
 }
-

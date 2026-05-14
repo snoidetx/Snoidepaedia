@@ -9,7 +9,8 @@
 
 @import "./images/gallery.scss";
 @import "./images/shadow.scss";
-@import "./images/banner.scss";
+
+@import "./components/page_overview.scss";
 
 @import "./tables/table.scss";
 @import "./tables/table-about.scss";
@@ -23,6 +24,8 @@
 @import "./custom_tables.scss";
 
 @import "./card.scss";
+
+@import "./typewriter.scss";
 
 // LAYOUT
 $nav-width: 360px;

@@ -6,13 +6,10 @@ has_children: true
 has_toc: false
 ---
 
-# Teaching
-{: .fs-9 }
-
-Exchange of knowledge.
-{: .fs-6 .fw-300 }
-
----
+{% include html/page_overview.html
+  title="Teaching"
+  subtitle="Exchange of knowledge."
+%}
 
 ## Teaching Assistant at NUS
 

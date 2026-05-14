@@ -5,13 +5,10 @@ parent: Education
 nav_exclude: true
 ---
 
-# Awards and Honours in Junior High School
-{: .fs-9 }
-
-NEYC.
-{: .fs-6 .fw-300 }
-
----
+{% include html/page_overview.html
+  title="Awards and Honours in Junior High School"
+  subtitle="NEYC."
+%}
 
 The followings are *@snoidetx*'s awards and honours in his junior high school:
 * 2013年第十一届“走进美妙的数学花园”中国青少年数学论坛，沈阳市一等奖

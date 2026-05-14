@@ -4,13 +4,10 @@ title: WeChat
 nav_exclude: true
 ---
 
-# WeChat
-{: .fs-9 }
-
-Connect via WeChat.
-{: .fs-6 .fw-300 }
-
----
+{% include html/page_overview.html
+  title="WeChat"
+  subtitle="Connect via WeChat."
+%}
 
 To connect with *@snoidetx* via WeChat, please scan the following QR code using the WeChat app:
 

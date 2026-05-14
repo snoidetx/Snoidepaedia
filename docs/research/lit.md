@@ -5,15 +5,15 @@ parent: Research
 nav_exclude: true
 ---
 
-# Identifying the Geometry of an Object Using Lock-In Thermography
-{: .fs-9 }
+{% capture buttons %}
+<a href="https://arxiv.org/abs/1903.02854" class="btn-whole">View Source</a>
+{% endcapture %}
 
-X. Tian, M. Yin, & H. Goh. 2019.
-{: .fs-6 .fw-300 }
-
-[View Source](https://arxiv.org/abs/1903.02854){: .btn-whole }
-
----
+{% include html/page_overview.html
+  title="Identifying the Geometry of an Object Using Lock-In Thermography"
+  subtitle="X. Tian, M. Yin, & H. Goh. 2019."
+  buttons=buttons
+%}
 
 ## Abstract
 

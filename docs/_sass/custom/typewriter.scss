@@ -1,0 +1,30 @@
+.typewriter-wrap {
+  position: relative;
+}
+
+.typewriter-measure {
+  visibility: hidden;
+}
+
+.typewriter-output {
+  position: absolute;
+  inset: 0;
+}
+
+.typewriter-output.typing::after {
+  content: "|";
+  animation: blink 0.8s infinite;
+}
+
+@keyframes blink {
+  50% {
+    opacity: 0;
+  }
+}
+
+.page-intro,
+.page-intro.typewriter {
+  white-space: normal;
+  overflow-wrap: break-word;
+  word-break: normal;
+}

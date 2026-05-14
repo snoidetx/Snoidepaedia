@@ -6,15 +6,17 @@ has_children: True
 has_toc: False
 ---
 
-# About Snoídepaedia
-{: .fs-9 }
+{% capture buttons %}
+<a href="../" class="btn-left">Home</a>
+<span class="btn-filler"></span>
+<a href="../resource/" class="btn-right">Resource</a>
+{% endcapture %}
 
-Things related to Xiao Tian *@snoidetx*.
-{: .fs-6 .fw-300 }
-
-[Home](../){: .btn-left} <span class='btn-filler'></span> [Resource](../resource/){: .btn-right}
-
----
+{% include html/page_overview.html
+  title="About Snoídepaedia"
+  subtitle="Things related to Xiao Tian *@snoidetx*."
+  buttons=buttons
+%}
 
 ## Getting Started
 

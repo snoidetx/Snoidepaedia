@@ -1,0 +1,29 @@
+<div class="page-overview-container">
+  <section class="page-overview">
+    <div class="page-hero">
+      <div class="page-hero-content">
+        <h1 class="{{ include.title_class | default: 'fs-9' }}">
+          {{ include.title | markdownify | remove: '<p>' | remove: '</p>' }}
+        </h1>
+
+        {% if include.subtitle and include.subtitle != "" %}
+          <p class="{{ include.subtitle_class | default: 'fs-6 fw-300' }}">
+            {{ include.subtitle | markdownify | remove: '<p>' | remove: '</p>' }}
+          </p>
+        {% endif %}
+
+        {% if include.buttons and include.buttons != "" %}
+          <div class="page-hero-buttons">
+            {{ include.buttons }}
+          </div>
+        {% endif %}
+      </div>
+    </div>
+
+    {% if include.intro and include.intro != "" %}
+      <div class="page-intro">
+        {{ include.intro | markdownify }}
+      </div>
+    {% endif %}
+  </section>
+</div>

@@ -5,15 +5,15 @@ parent: Research
 nav_exclude: true
 ---
 
-# Deletion-Anticipative Data Selection with a Limited Budget
-{: .fs-9 }
+{% capture buttons %}
+<a href="https://proceedings.mlr.press/v235/sim24a.html" class="btn-whole">View Source</a>
+{% endcapture %}
 
-R.H.L. Sim, J. Fan, X. Tian, B.K.H. Low, and P. Jaillet. 2024.
-{: .fs-6 .fw-300 }
-
-[View Source](https://proceedings.mlr.press/v235/sim24a.html){: .btn-whole}
-
----
+{% include html/page_overview.html
+  title="Deletion-Anticipative Data Selection with a Limited Budget"
+  subtitle="R.H.L. Sim, J. Fan, X. Tian, B.K.H. Low, and P. Jaillet. 2024."
+  buttons=buttons
+%}
 
 ## Abstract
 

@@ -6,19 +6,20 @@ has_children: false
 has_toc: false
 ---
 
-# Research
-{: .fs-9 }
+{% capture buttons %}
+<a href="https://scholar.google.com/citations?user=FdGSDcQAAAAJ&hl=en" class="btn-whole">Google Scholar</a>
+{% endcapture %}
 
-Explore. Adventure.
-{: .fs-6 .fw-300 }
+{% capture intro %}
+I am currently a Ph.D. in Computer Science student at [**National University of Singapore**](https://nus.edu.sg/) (NUS), supervised by [**Prof. Bryan Kian Hsiang Low**](https://www.comp.nus.edu.sg/cs/people/lowkh/), [**Dr. Nancy F. Chen**](https://sites.google.com/site/nancyfchen/home) and (previously) [Dr. Chuan-Sheng Foo](https://www.a-star.edu.sg/cfar/about-cfar/our-team/dr-foo-chuan-sheng). Back in National Junior College (NJC), I joined the H3 Science Research programme, where I got a chance to research in [Agency for Science, Technology and Research](https://www.a-star.edu.sg/) (A\*STAR) for 1 year. When I was an undergraduate, I enrolled in the [Undergraduate Research Opportunity Programme](https://www.comp.nus.edu.sg/programmes/ug/project/urop/) under the supervision of [**Prof. Bryan Kian Hsiang Low**](https://www.comp.nus.edu.sg/cs/people/lowkh/) and the paper has been accepted into the [**AAAI-24**](https://aaai.org/aaai-conference/) conference. My Integrated Honours Project (IHT) thesis was supervised by [Prof. Bryan Kian Hsiang Low](https://www.comp.nus.edu.sg/cs/people/lowkh/) and [Prof. Jonathan Scarlett](https://www.comp.nus.edu.sg/~scarlett/).
+{% endcapture %}
 
-<p></p>
-
-[Google Scholar](https://scholar.google.com/citations?user=FdGSDcQAAAAJ&hl=en){: .btn-left}
-
----
-
-I am currently a Ph.D. in Computer Science student at [National University of Singapore](https://nus.edu.sg/) (**NUS**), supervised by [**Prof. Bryan Kian Hsiang Low**](https://www.comp.nus.edu.sg/cs/people/lowkh/), [**Dr. Nancy F. Chen**](https://sites.google.com/site/nancyfchen/home) and (previously) [Dr. Chuan-Sheng Foo](https://www.a-star.edu.sg/cfar/about-cfar/our-team/dr-foo-chuan-sheng). Back in National Junior College (NJC), I joined the H3 Science Research programme, where I got a chance to research in [Agency for Science, Technology and Research](https://www.a-star.edu.sg/) (A\*STAR) for 1 year. When I was an undergraduate, I enrolled in the [Undergraduate Research Opportunity Programme](https://www.comp.nus.edu.sg/programmes/ug/project/urop/) under the supervision of [**Prof. Bryan Kian Hsiang Low**](https://www.comp.nus.edu.sg/cs/people/lowkh/) and the paper has been accepted into the [**AAAI-24**](https://aaai.org/aaai-conference/) conference. My Integrated Honours Project (IHT) thesis was supervised by [Prof. Bryan Kian Hsiang Low](https://www.comp.nus.edu.sg/cs/people/lowkh/) and [Prof. Jonathan Scarlett](https://www.comp.nus.edu.sg/~scarlett/).
+{% include html/page_overview.html
+  title="Research"
+  subtitle="Explore. Adventure."
+  buttons=buttons
+  intro=intro
+%}
 
 ## Research Interests
 

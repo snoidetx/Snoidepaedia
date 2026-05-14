@@ -5,13 +5,10 @@ nav_order: 3
 parent: Education
 ---
 
-# Exchange
-{: .fs-9 }
-
-Life in Japan.
-{: .fs-6 .fw-300 }
-
----
+{% include html/page_overview.html
+  title="Exchange"
+  subtitle="Life in Japan."
+%}
 
 In Fall 2023, I was enrolled into [**Tokyo Institute of Technology**](https://www.titech.ac.jp/) (Tokyo Tech, Japanese: 東京工業大学) through [**Student Exchange Programme**](https://www.titech.ac.jp/) (SEP), which composed my 5-month life in Japan. Here is a list of courses I took:
 
