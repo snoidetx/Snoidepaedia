@@ -22,3 +22,15 @@ p:has(+ [class*=" addition-"]) {
   padding-bottom: 0.15em;
   color: $s-red;
 }
+
+.addition-highlight strong {
+  display: inline-flex;
+  align-items: center;
+}
+
+.spotlight-mark {
+  display: inline-block;
+  margin-right: 0.3em;
+  font: inherit;
+  line-height: 1;
+}

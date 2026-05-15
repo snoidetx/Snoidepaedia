@@ -16,7 +16,7 @@ Explore. Adventure.
 
 ---
 
-I am currently a Ph.D. in Computer Science student at {% include html/entity.html id="nus" %} (NUS), supervised by {% include html/entity.html id="bryan_low" %} and {% include html/entity.html id="nancy_chen" %}<sup><a href="#research-note-1">1</a></sup>. Back in National Junior College (NJC), I joined the H3 Science Research programme, where I got a chance to research in {% include html/entity.html id="astar" %} (A\*STAR) for 1 year. When I was an undergraduate, I enrolled in the [Undergraduate Research Opportunity Programme](https://www.comp.nus.edu.sg/programmes/ug/project/urop/) under the supervision of {% include html/entity.html id="bryan_low" %}(https://www.comp.nus.edu.sg/cs/people/lowkh/) and the paper has been accepted into the [**AAAI-24**](https://aaai.org/aaai-conference/) conference. My Integrated Honours Project (IHT) thesis was supervised by {% include html/entity.html id="bryan_low" %} and {% include html/entity.html id="jonathan_scarlett" %}.
+I am currently a Ph.D. in Computer Science student at {% include html/entity.html id="nus" %} (NUS), supervised by {% include html/entity.html id="bryan_low" %} and {% include html/entity.html id="nancy_chen" %}<sup>[1](#references)</sup>. Back in National Junior College (NJC), I joined the H3 Science Research programme, where I got a chance to research in {% include html/entity.html id="astar" %} (A\*STAR) for 1 year. When I was an undergraduate, I enrolled in the [Undergraduate Research Opportunity Programme](https://www.comp.nus.edu.sg/programmes/ug/project/urop/) under the supervision of {% include html/entity.html id="bryan_low" %}(https://www.comp.nus.edu.sg/cs/people/lowkh/) and the paper has been accepted into the [**AAAI-24**](https://aaai.org/aaai-conference/) conference. My Integrated Honours Project (IHT) thesis was supervised by {% include html/entity.html id="bryan_low" %} and {% include html/entity.html id="jonathan_scarlett" %}.
 
 ## Research Interests
 
@@ -43,14 +43,14 @@ I am currently a Ph.D. in Computer Science student at {% include html/entity.htm
 <br>
 **Is Data Shapley Not Better than Random in Data Selection? Ask NASH**
 
-<p class="addition-highlight"><strong>✪ Spotlight Paper (top 2.20%)</strong></p>
+<p class="addition-highlight"><strong><span class="spotlight-mark">✪</span> Spotlight Paper (top 2.20%)</strong></p>
 
 <p class="addition"><strong>X. Tian</strong>&dagger;, J. Fan&dagger;, R.H.L. Sim, Z. Wang, Nancy F. Chen, B.K.H. Low · 2026 · The 43rd International Conference on Machine Learning (<strong>ICML-26</strong>)</p>
 [ArXiv](https://arxiv.org/abs/2605.10684){: .btn-small-1}
 
 **Incentivizing Truthfulness and Collaborative Fairness in Bayesian Learning**
 
-<p class="addition-highlight"><strong>✪ Spotlight Paper (top 2.20%)</strong></p>
+<p class="addition-highlight"><strong><span class="spotlight-mark">✪</span> Spotlight Paper (top 2.20%)</strong></p>
 
 <p class="addition">R.H.L. Sim&dagger;, J. Fan&dagger;, <strong>X. Tian</strong>, X. Xu, P. Jaillet, B.K.H. Low · 2026 · The 43rd International Conference on Machine Learning (<strong>ICML-26</strong>)</p>
 [ArXiv](https://arxiv.org/abs/2605.11889){: .btn-small-1}
@@ -131,6 +131,7 @@ I am currently a Ph.D. in Computer Science student at {% include html/entity.htm
 
 ---
 
-#### <span id="research-note-1"><sup>1</sup></span>Previously, I was also supervised by [Dr. Chuan-Sheng Foo](https://www.a-star.edu.sg/cfar/about-cfar/our-team/dr-foo-chuan-sheng).
+#### References
+[1] During the first six months of my Ph.D., I was also supervised by [Dr. Chuan-Sheng Foo](https://www.a-star.edu.sg/cfar/about-cfar/our-team/dr-foo-chuan-sheng).
 
 <script>{% include js/research/adjust_publication_addition.js %}</script>
