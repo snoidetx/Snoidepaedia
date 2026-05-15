@@ -6,20 +6,17 @@ has_children: false
 has_toc: false
 ---
 
-{% capture buttons %}
+# Research
+{: .fs-9 }
+
+Explore. Adventure.
+{: .fs-6 .fw-300 }
+
 <a href="https://scholar.google.com/citations?user=FdGSDcQAAAAJ&hl=en" class="btn-whole">Google Scholar</a>
-{% endcapture %}
 
-{% capture intro %}
-I am currently a Ph.D. in Computer Science student at [**National University of Singapore**](https://nus.edu.sg/) (NUS), supervised by [**Prof. Bryan Kian Hsiang Low**](https://www.comp.nus.edu.sg/cs/people/lowkh/), [**Dr. Nancy F. Chen**](https://sites.google.com/site/nancyfchen/home) and (previously) [Dr. Chuan-Sheng Foo](https://www.a-star.edu.sg/cfar/about-cfar/our-team/dr-foo-chuan-sheng). Back in National Junior College (NJC), I joined the H3 Science Research programme, where I got a chance to research in [Agency for Science, Technology and Research](https://www.a-star.edu.sg/) (A\*STAR) for 1 year. When I was an undergraduate, I enrolled in the [Undergraduate Research Opportunity Programme](https://www.comp.nus.edu.sg/programmes/ug/project/urop/) under the supervision of [**Prof. Bryan Kian Hsiang Low**](https://www.comp.nus.edu.sg/cs/people/lowkh/) and the paper has been accepted into the [**AAAI-24**](https://aaai.org/aaai-conference/) conference. My Integrated Honours Project (IHT) thesis was supervised by [Prof. Bryan Kian Hsiang Low](https://www.comp.nus.edu.sg/cs/people/lowkh/) and [Prof. Jonathan Scarlett](https://www.comp.nus.edu.sg/~scarlett/).
-{% endcapture %}
+---
 
-{% include html/page_overview.html
-  title="Research"
-  subtitle="Explore. Adventure."
-  buttons=buttons
-  intro=intro
-%}
+I am currently a Ph.D. in Computer Science student at {% include html/entity.html id="nus" %} (NUS), supervised by {% include html/entity.html id="bryan_low" %} and {% include html/entity.html id="nancy_chen" %}<sup><a href="#research-note-1">1</a></sup>. Back in National Junior College (NJC), I joined the H3 Science Research programme, where I got a chance to research in {% include html/entity.html id="astar" %} (A\*STAR) for 1 year. When I was an undergraduate, I enrolled in the [Undergraduate Research Opportunity Programme](https://www.comp.nus.edu.sg/programmes/ug/project/urop/) under the supervision of {% include html/entity.html id="bryan_low" %}(https://www.comp.nus.edu.sg/cs/people/lowkh/) and the paper has been accepted into the [**AAAI-24**](https://aaai.org/aaai-conference/) conference. My Integrated Honours Project (IHT) thesis was supervised by {% include html/entity.html id="bryan_low" %} and {% include html/entity.html id="jonathan_scarlett" %}.
 
 ## Research Interests
 
@@ -131,5 +128,9 @@ I am currently a Ph.D. in Computer Science student at [**National University of 
 **Thermography - A Big Data Problem (Experiments)**
 <p class="addition"><strong>X. Tian</strong> & H.K.H. Goh · 2019 · NJC H3 Research</p>
 [Source](./pdf/thermography-a-big-data-problem-experiments.pdf){: .btn-small-1}
+
+---
+
+#### <span id="research-note-1"><sup>1</sup></span>Previously, I was also supervised by [Dr. Chuan-Sheng Foo](https://www.a-star.edu.sg/cfar/about-cfar/our-team/dr-foo-chuan-sheng).
 
 <script>{% include js/research/adjust_publication_addition.js %}</script>

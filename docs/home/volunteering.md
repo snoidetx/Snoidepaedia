@@ -5,15 +5,15 @@ nav_order: 3
 parent: Home
 ---
 
-{% capture intro %}
-This page documents some of my selected major and long-term volunteer experiences. For a full list of my volunteer experiences, see my [LinkedIn page](https://sg.linkedin.com/in/snoidetx).
-{% endcapture %}
+# Volunteering
+{: .fs-9 }
 
-{% include html/page_overview.html
-  title="Volunteering"
-  subtitle="Service with honour."
-  intro=intro
-%}
+Service with honour.
+{: .fs-6 .fw-300 }
+
+---
+
+This page documents some of my selected major and long-term volunteer experiences. For a full list of my volunteer experiences, see my [LinkedIn page](https://sg.linkedin.com/in/snoidetx).
 
 | <img src="../img/logos/logo-nus.png" width=75> | NUS Teach Singapore |
 | :-: | --- |

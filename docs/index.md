@@ -4,7 +4,7 @@ title: Home
 nav_order: 2
 has_children: true
 has_toc: false
-hero_image: /assets/images/banner.png
+banner_image: /home/img/banner_image.png
 ---
 
 <style>
@@ -19,31 +19,27 @@ hero_image: /assets/images/banner.png
 }
 </style>
 
-<div class="page-overview-container">
-<section class="page-overview">
-  <div class="page-hero with-image"{% if page.hero_image %} style="--page-hero-image: linear-gradient(90deg, #ffffff 0%, rgba(249, 242, 246, 0.92) 15%, rgba(249, 242, 246, 0.55) 45%, rgba(249, 242, 246, 0) 100%), url('{{ page.hero_image | relative_url }}');"{% endif %}>
-    <div class="page-hero-content">
-      <h1 class="fs-9">Xiao Tian</h1>
-      <p class="fs-6 fw-300">CS PhD Student @ NUS</p>
-
-      <div class="page-hero-buttons">
-        <a href="./home/resume/" class="btn-left">My Résumé</a>
-        <span class="btn-filler"></span>
-        <a href="./home/schedule" class="btn-right">My Schedule</a>
-      </div>
+<section class="banner banner-home" style="--banner-image: url('{{ page.banner_image | relative_url }}');">
+  <div class="banner-content">
+    <h1 class="fs-9">Xiao Tian</h1>
+    <p class="fs-6 fw-300">CS PhD Student @ NUS</p>
+    <div class="banner-buttons">
+      <a href="./home/resume/" class="btn-left">My Résumé</a>
+      <span class="btn-filler"></span>
+      <a href="./home/schedule" class="btn-right">My Schedule</a>
     </div>
   </div>
+</section>
 
-  <div class="page-intro" markdown="1">
+<div class="typewriter-content" data-typewriter markdown="1">
 
-  Hi! I am a Computer Science Ph.D. student at [**National University of Singapore**](https://nus.edu.sg/) (NUS), starting from Spring 2025. I am fortunate to be supervised by [**Prof. Bryan Kian Hsiang Low**](https://www.comp.nus.edu.sg/cs/people/lowkh/) and [**Dr. Nancy F. Chen**](https://sites.google.com/site/nancyfchen/home). My [**research**](./research/) interests include data-centric machine learning, multi-agent machine learning and privacy-preserving machine learning. I have also been working as [**teaching assistant**](./teaching/) in NUS School of Computing. 
+Hi 👋🏻! I am a Computer Science Ph.D. student at {% include html/entity.html id="nus" %} (NUS), starting from Spring 2025. I am fortunate to be supervised by {% include html/entity.html id="bryan_low" %} and {% include html/entity.html id="nancy_chen" %}. My [**research**](./research/) interests include data-centric machine learning, multi-agent machine learning and privacy-preserving machine learning. I have also been working as [**teaching assistant**](./teaching/) in NUS School of Computing.
 
-  I obtained my two Bachelor's degrees from NUS in Fall 2024. I was supervised by [**Prof. Bryan Kian Hsiang Low**](https://www.comp.nus.edu.sg/cs/people/lowkh/) and [**Prof. Jonathan Scarlett**](https://www.comp.nus.edu.sg/~scarlett/) for my honours year thesis.
+I obtained my two Bachelor's degrees 🎓 from NUS in Fall 2024. I was supervised by {% include html/entity.html id="bryan_low" %} and {% include html/entity.html id="jonathan_scarlett" %} for my honours year thesis.
 
-<p class="addition-highlight" style="margin-top:1em"><strong>☻ Fun fact: <em>Snoíde</em> is my pseudonym.</strong></p>
+<p class="fw-500">😁 Fun fact: <em>Snoíde</em> is my pseudonym.</p>
 
-  </div>
-</section></div>
+</div>
 
 ## Education 🎓 <span class="see-more">[<a href="./education/">see more</a>]</span>
 
@@ -69,7 +65,15 @@ hero_image: /assets/images/banner.png
 <div id="news-list" class="news-list"></div>
 
 <div class="news-btn-container">
-  <button id="news-btn" class="news-btn">Expand</button>
+  <button id="news-btn" class="news-btn">
+    <span class="news-btn-icon" aria-hidden="true">
+      <svg viewBox="0 0 20 20" focusable="false">
+        <circle cx="10" cy="10" r="8.5"></circle>
+        <polyline points="6.5 8.5 10 12 13.5 8.5"></polyline>
+      </svg>
+    </span>
+    <span class="news-btn-label">See more</span>
+  </button>
 </div>
 
 <script src="{{ '/assets/js/vendor/marked.min.js' | relative_url }}"></script>

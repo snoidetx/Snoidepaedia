@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', function () {
-  const intro = document.querySelector('.page-intro');
+  const intro = document.querySelector('[data-typewriter], .page-intro');
   if (!intro) return;
 
   const wordDelay = 10; // milliseconds per word
@@ -43,7 +43,12 @@ document.addEventListener('DOMContentLoaded', function () {
 
   // Split into word/space chunks.
   // This preserves spaces around links.
-  const chunks = originals.map(text => {
+  const chunks = originals.map((text, index) => {
+    const parent = textNodes[index].parentElement;
+    if (parent && parent.closest('.ref-link')) {
+      return [text];
+    }
+
     return text.match(/\S+\s*|\s+/g) || [];
   });
 

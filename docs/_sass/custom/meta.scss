@@ -1,0 +1,51 @@
+@import "./constants.scss";
+@import "./colors.scss";
+
+body {
+  font-family: -apple-system, blinkmacsystemfont, system-ui, "Segoe UI",
+    roboto, "Helvetica Neue", arial, sans-serif;
+}
+
+.main a:not(.anchor-heading):not(.ref-link):not(.btn-primary):not(.btn-secondary):not(.btn-left):not(.btn-whole):not(.btn-small-1):not(.btn-small-3):not(.btn-small-download) {
+  color: $s-lightblue;
+}
+
+.main strong a:not(.anchor-heading):not(.ref-link):not(.btn-primary):not(.btn-secondary):not(.btn-left):not(.btn-whole):not(.btn-small-1):not(.btn-small-3):not(.btn-small-download) {
+  font-weight: 500;
+}
+
+.main a:not(.anchor-heading):not(.ref-link):not(.btn-primary):not(.btn-secondary):not(.btn-left):not(.btn-whole):not(.btn-small-1):not(.btn-small-3):not(.btn-small-download) strong {
+  font-weight: 500;
+}
+
+.main a.ref-link {
+  color: inherit;
+}
+
+.ref-link {
+  padding: 0.04em 0.32em;
+  border: 1px solid rgba($s-purple, 0.3);
+  border-radius: 999px;
+  background-color: rgba($s-purple, 0.1);
+  color: inherit;
+  font-weight: 500;
+  text-decoration: none;
+  white-space: nowrap;
+  -webkit-box-decoration-break: clone;
+  box-decoration-break: clone;
+  transition: background-color $transition-duration, color $transition-duration;
+}
+
+.ref-link:hover {
+  border-color: rgba($s-purple, 0.42);
+  background-color: $s-white;
+  color: $s-black;
+}
+
+@media (max-width: 500px) {
+  .ref-link {
+    white-space: normal;
+    -webkit-box-decoration-break: slice;
+    box-decoration-break: slice;
+  }
+}

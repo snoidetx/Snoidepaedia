@@ -5,15 +5,15 @@ nav_order: 1
 parent: Home
 ---
 
-{% capture intro %}
-The following version of my résumé was uploaded on 05/2026.
-{% endcapture %}
+# Résumé
+{: .fs-9 }
 
-{% include html/page_overview.html
-  title="Résumé"
-  subtitle="Curriculum vitae."
-  intro=intro
-%}
+Curriculum vitae.
+{: .fs-6 .fw-300 }
+
+---
+
+The following version of my résumé was uploaded on 05/2026.
 
 <div class="iframe-pdf-wrapper">
   <iframe

@@ -1,0 +1,22 @@
+---
+entities:
+  - id: nus
+    label: National University of Singapore
+    url: https://nus.edu.sg/
+
+  - id: astar
+    label: Agency for Science, Technology and Research
+    url: https://www.a-star.edu.sg/
+    
+  - id: bryan_low
+    label: Prof. Bryan Kian Hsiang Low
+    url: https://www.comp.nus.edu.sg/cs/people/lowkh/
+
+  - id: nancy_chen
+    label: Dr. Nancy F. Chen
+    url: https://sites.google.com/site/nancyfchen/home
+
+  - id: jonathan_scarlett
+    label: Prof. Jonathan Scarlett
+    url: https://www.comp.nus.edu.sg/~scarlett/
+---

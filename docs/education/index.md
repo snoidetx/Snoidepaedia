@@ -6,20 +6,17 @@ has_children: true
 has_toc: false
 ---
 
-{% capture buttons %}
+# Education
+{: .fs-9 }
+
+Pathway of learning.
+{: .fs-6 .fw-300 }
+
 <a href="./transcript" class="btn-whole">View Transcripts</a>
-{% endcapture %}
 
-{% capture intro %}
-The **Education** section and its subsections mainly contain information about my experience at **National University of Singapore** (NUS), including my **transcript**, **exchange experience**, etc. A complete timeline of my education background is given below. You may also see [here](./education-bio) for a description written in text. 
-{% endcapture %}
+---
 
-{% include html/page_overview.html
-  title="Education"
-  subtitle="Pathway of learning."
-  buttons=buttons
-  intro=intro
-%}
+The **Education** section and its subsections mainly contain information about my experience at **National University of Singapore** (NUS), including my **transcript**, **exchange experience**, etc. A complete timeline of my education background is given below. You may also see [here](./education-bio) for a description written in text.
 
 | <img src="./img/logos/logo-nus.png" width="150%" height="100%"> | National University of Singapore |
 | :-: | --- |

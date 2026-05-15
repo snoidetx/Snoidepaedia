@@ -32,10 +32,6 @@
   color: $s-black;
 }
 
-.news-item:hover a {
-  color: inherit;
-}
-
 .news-meta {
   display: flex;
   align-items: center;
@@ -93,7 +89,57 @@
 }
 
 .news-btn {
-  @extend .btn-small-1;
+  display: inline-flex;
+  align-items: center;
+  gap: 1em;
+  padding: 0.25em 0;
+  border: 0;
+  background: transparent;
+  color: $s-lightblue;
+  font: inherit;
+  font-weight: 500;
+  line-height: $body-heading-line-height;
+  cursor: pointer;
+  transition:
+    color 0.18s ease,
+    transform 0.18s ease;
+}
+
+.news-btn:hover,
+.news-btn:focus-visible {
+  color: darken($s-lightblue, 4%);
+  transform: translateY(-1px);
+}
+
+.news-btn-icon {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 1.15em;
+  height: 1.15em;
+  flex: 0 0 auto;
+  transform: translateY(0.22em);
+  transition: transform 0.18s ease;
+}
+
+.news-btn-icon svg {
+  display: block;
+  width: 100%;
+  height: 100%;
+  fill: none;
+  stroke: currentColor;
+  stroke-width: 1.7;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
+
+.news-btn-expanded .news-btn-icon {
+  transform: translateY(0.22em) rotate(180deg);
+}
+
+.news-btn:focus-visible {
+  outline: 2px solid rgba($s-lightblue, 0.35);
+  outline-offset: 3px;
 }
 
 .news-btn-container {

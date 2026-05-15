@@ -1,5 +1,6 @@
 .typewriter-wrap {
   position: relative;
+  padding-bottom: 1em;
 }
 
 .typewriter-measure {
@@ -23,8 +24,13 @@
 }
 
 .page-intro,
-.page-intro.typewriter {
+.page-intro.typewriter,
+.typewriter-content {
   white-space: normal;
   overflow-wrap: break-word;
   word-break: normal;
+}
+
+.typewriter-content > :last-child {
+  margin-bottom: 0;
 }

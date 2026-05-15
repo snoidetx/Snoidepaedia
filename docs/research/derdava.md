@@ -5,15 +5,15 @@ parent: Research
 nav_exclude: true
 ---
 
-{% capture buttons %}
-<a href="https://ojs.aaai.org/index.php/AAAI/article/view/29462" class="btn-whole">View Source</a>
-{% endcapture %}
+# DeRDaVa: Deletion-Robust Data Valuation for Machine Learning
+{: .fs-9 }
 
-{% include html/page_overview.html
-  title="DeRDaVa: Deletion-Robust Data Valuation for Machine Learning"
-  subtitle="X. Tian, R.H.L. Sim, J. Fan, & B.K.H. Low. 2024."
-  buttons=buttons
-%}
+X. Tian, R.H.L. Sim, J. Fan, & B.K.H. Low. 2024.
+{: .fs-6 .fw-300 }
+
+<a href="https://ojs.aaai.org/index.php/AAAI/article/view/29462" class="btn-whole">View Source</a>
+
+---
 
 ## Abstract
 

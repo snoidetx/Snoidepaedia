@@ -5,10 +5,13 @@ nav_order: 2
 parent: About Snoídepaedia
 ---
 
-{% include html/page_overview.html
-  title="Historical Archives of Snoídepaedia"
-  subtitle="Time flies."
-%}
+# Historical Archives of Snoídepaedia
+{: .fs-9 }
+
+Time flies.
+{: .fs-6 .fw-300 }
+
+---
 
 ## <u>snoidetx.blogspot.com</u> (? - 23/06/2021)
 

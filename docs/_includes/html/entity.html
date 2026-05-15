@@ -1,0 +1,10 @@
+{%- assign entity_id = include.id -%}
+{%- assign entities_file = site.pages | where: "path", "assets/yml/entities.yml" | first -%}
+{%- assign entity = nil -%}
+{%- for item in entities_file.entities -%}
+  {%- if item.id == entity_id -%}
+    {%- assign entity = item -%}
+    {%- break -%}
+  {%- endif -%}
+{%- endfor -%}
+<a class="ref-link" href="{{ entity.url | relative_url }}">{{ include.label | default: entity.label }}</a>{%- comment -%}{%- endcomment -%}

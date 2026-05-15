@@ -1,6 +1,11 @@
 [
   {
     "date": "05/2026",
+    "emoji": "🏆",
+    "markdown": "I was recognized as a **Silver Reviewer** by **ICML-26**."
+  },
+  {
+    "date": "05/2026",
     "emoji": "🎉🎉",
     "markdown": "Our paper *Is Data Shapley Not Better than Random in Data Selection? Ask NASH* was accepted to **ICML-26** as a **Spotlight paper** (top 2.2%)!"
   },
@@ -8,6 +13,10 @@
     "date": "05/2026",
     "emoji": "🎉🎉",
     "markdown": "Our paper *Incentivizing Truthfulness and Collaborative Fairness in Bayesian Learning* was accepted to **ICML-26** as a **Spotlight paper** (top 2.2%)!"
+  },
+  {
+    "date": "04/2026",
+    "markdown": "I attended **ICLR-26** at Rio de Janeiro, Brazil."
   },
   {
     "date": "02/2026",

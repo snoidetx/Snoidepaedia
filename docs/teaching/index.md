@@ -6,10 +6,13 @@ has_children: true
 has_toc: false
 ---
 
-{% include html/page_overview.html
-  title="Teaching"
-  subtitle="Exchange of knowledge."
-%}
+# Teaching
+{: .fs-9 }
+
+Exchange of knowledge.
+{: .fs-6 .fw-300 }
+
+---
 
 ## Teaching Assistant at NUS
 
@@ -27,4 +30,3 @@ You may also click on each course to view its detail and my teacher reports.
 ## Teaching as Volunteer
 
 When I was in NJC, I initiated the [**Peer Mentorship Programme @Kebun Baru Community Centre**](https://www.onepa.gov.sg/cc/kebun-baru-cc) to provide free mentorship and tutorship for underprivileged children. After getting into NUS, I joined the [**NUS Teach Singapore**](https://nus.edu.sg/osa/student-life/community-engagement/teach-sg) initiative and provided academic coaching and mentoring to children and teenagers under Christ Church Secondary School Champions Youth Tuition Programme.
-

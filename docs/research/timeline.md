@@ -6,15 +6,15 @@ parent: Research
 nav_exclude: true
 ---
 
-{% capture intro %}
-Below shows a timeline of my **research** and **professional experiences**.
-{% endcapture %}
+# Research Timeline
+{: .fs-9 }
 
-{% include html/page_overview.html
-  title="Research Timeline"
-  subtitle="*@snoidetx*'s research and professional experiences."
-  intro=intro
-%}
+*@snoidetx*'s research and professional experiences.
+{: .fs-6 .fw-300 }
+
+---
+
+Below shows a timeline of my **research** and **professional experiences**.
 
 | <img src="../img/logos/logo-nus.png" width=75> | National University of Singapore |
 | :-: | --- |

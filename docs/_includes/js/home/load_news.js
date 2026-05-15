@@ -22,8 +22,10 @@ document.addEventListener("DOMContentLoaded", function () {
 
       newsButton.addEventListener("click", function (e) {
         var hiddenItems = document.querySelectorAll(".hidden-news");
+        var label = this.querySelector(".news-btn-label");
+        var isExpanded = label && label.textContent === "See less";
 
-        if (this.textContent === "Expand") {
+        if (!isExpanded) {
             const scrollY = window.scrollY;
 
             for (var i = 0; i < hiddenItems.length; i++) {
@@ -34,10 +36,12 @@ document.addEventListener("DOMContentLoaded", function () {
                 window.scrollTo(window.scrollX, scrollY);
             });
 
-            this.textContent = "Collapse";
+            if (label) label.textContent = "See less";
+            this.classList.add("news-btn-expanded");
         } else {
             collapseNewsList(newsList, listItems, maxVisibleItems);
-            this.textContent = "Expand";
+            if (label) label.textContent = "See more";
+            this.classList.remove("news-btn-expanded");
             }
         });
 

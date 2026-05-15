@@ -6,17 +6,17 @@ has_children: True
 has_toc: False
 ---
 
-{% capture buttons %}
+# About Snoídepaedia
+{: .fs-9 }
+
+Things related to Xiao Tian *@snoidetx*.
+{: .fs-6 .fw-300 }
+
 <a href="../" class="btn-left">Home</a>
 <span class="btn-filler"></span>
 <a href="../resource/" class="btn-right">Resource</a>
-{% endcapture %}
 
-{% include html/page_overview.html
-  title="About Snoídepaedia"
-  subtitle="Things related to Xiao Tian *@snoidetx*."
-  buttons=buttons
-%}
+---
 
 ## Getting Started
 

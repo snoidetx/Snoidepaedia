@@ -1,3 +1,5 @@
+@import "./meta.scss";
+
 @import "./transition.scss";
 
 @import "./addition.scss";
@@ -9,8 +11,7 @@
 
 @import "./images/gallery.scss";
 @import "./images/shadow.scss";
-
-@import "./components/page_overview.scss";
+@import "./images/banner.scss";
 
 @import "./tables/table.scss";
 @import "./tables/table-about.scss";

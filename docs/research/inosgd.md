@@ -5,15 +5,15 @@ parent: Research
 nav_exclude: true
 ---
 
-{% capture buttons %}
-<a href="https://openreview.net/forum?id=HMapYMkcrl" class="btn-whole">View Source</a>
-{% endcapture %}
+# INO-SGD: Addressing Utility Imbalance under Individualized Differential Privacy
+{: .fs-9 }
 
-{% include html/page_overview.html
-  title="INO-SGD: Addressing Utility Imbalance under Individualized Differential Privacy"
-  subtitle="X. Tian, J. Fan, R.H.L. Sim, & B.K.H. Low. 2026."
-  buttons=buttons
-%}
+X. Tian, J. Fan, R.H.L. Sim, & B.K.H. Low. 2026.
+{: .fs-6 .fw-300 }
+
+<a href="https://openreview.net/forum?id=HMapYMkcrl" class="btn-whole">View Source</a>
+
+---
 
 ## Abstract
 

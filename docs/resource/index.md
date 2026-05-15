@@ -4,15 +4,15 @@ title: Resource
 nav_order: 6
 ---
 
-{% capture intro %}
-Over the years, I have been making learning materials for the courses I took and taught, including helpsheets, notes, mindmaps, etc., to help both others and myself. I have collated all the resource and put them here. Enjoy!
-{% endcapture %}
+# Resource
+{: .fs-9 }
 
-{% include html/page_overview.html
-  title="Resource"
-  subtitle="Produced by *@snoidetx*."
-  intro=intro
-%}
+Produced by *@snoidetx*.
+{: .fs-6 .fw-300 }
+
+---
+
+Over the years, I have been making learning materials for the courses I took and taught, including helpsheets, notes, mindmaps, etc., to help both others and myself. I have collated all the resource and put them here. Enjoy!
 
 ## Course Forecast
 ```
