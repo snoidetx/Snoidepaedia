@@ -21,7 +21,7 @@
   {
     "date": "02/2026",
     "emoji": "🎉",
-    "markdown": "Our paper [*INO-SGD: Addressing Utility Imbalance under Individualized Differential Privacy*](../research/inosgd) was accepted to **ICLR-26**.",
+    "markdown": "Our paper [*INO-SGD: Addressing Utility Imbalance under Individualized Differential Privacy*](./research/inosgd) was accepted to **ICLR-26**.",
     "figure": {
       "src": "./home/img/thumbnails/thumbnail-inosgd.gif",
       "alt": "INO-SGD illustration"
@@ -56,7 +56,7 @@
   {
     "date": "05/2024",
     "emoji": "🎉",
-    "markdown": "Our paper [*Deletion-Anticipative Data Selection with a Limited Budget*](../research/dads) was accepted to **ICML-24**.",
+    "markdown": "Our paper [*Deletion-Anticipative Data Selection with a Limited Budget*](./research/dads) was accepted to **ICML-24**.",
     "figure": {
       "src": "./home/img/thumbnails/thumbnail-dads.gif",
       "alt": "DADS illustration"
@@ -79,7 +79,7 @@
   {
     "date": "12/2023",
     "emoji": "🎉",
-    "markdown": "Our paper [*DeRDaVa: Deletion-Robust Data Valuation for Machine Learning*](../research/derdava) was accepted to **AAAI-24**.",
+    "markdown": "Our paper [*DeRDaVa: Deletion-Robust Data Valuation for Machine Learning*](./research/derdava) was accepted to **AAAI-24**.",
     "figure": {
       "src": "./home/img/thumbnails/thumbnail-derdava.gif",
       "alt": "DeRDaVa illustration"
