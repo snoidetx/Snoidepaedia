@@ -35,8 +35,10 @@ The former good-looking page was depreciated because it could not be adapted to 
 
 <div class="gallery-wrapper">
   <figure class="gallery">
-    <img src="../img/resource.png" class="gallery-image">
-    <figcaption><i>Photo of the Page</i></figcaption>
+    <div class="gallery-image-frame">
+      <img src="../img/resource.png" class="gallery-image">
+    </div>
+    <figcaption>Photo of the Page</figcaption>
   </figure>
 </div>
 
@@ -46,7 +48,9 @@ A lovely section in the past that was removed because it was deemed unnecessary.
 
 <div class="gallery-wrapper">
   <figure class="gallery">
-    <img src="../img/additional-information.png" class="gallery-image">
-    <figcaption><i>Photo of the Section</i></figcaption>
+    <div class="gallery-image-frame">
+      <img src="../img/additional-information.png" class="gallery-image">
+    </div>
+    <figcaption>Photo of the Section</figcaption>
   </figure>
 </div>

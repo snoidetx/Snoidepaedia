@@ -2,35 +2,35 @@ body {
   opacity: 1;
 }
 
-.main {
+.main-content-wrap {
   opacity: 0;
   transform: translateY(14px);
   will-change: opacity, transform;
 }
 
-body.fade-ready .main {
+body.fade-ready .main-content-wrap {
   transition:
     opacity 1.15s cubic-bezier(0.22, 1, 0.36, 1),
     transform 1.15s cubic-bezier(0.22, 1, 0.36, 1);
 }
 
-body.fade-in .main {
+body.fade-in .main-content-wrap {
   opacity: 1;
   transform: translateY(0);
 }
 
-body.fade-in .main {
+body.fade-in .main-content-wrap {
   will-change: auto;
 }
 
 @media (prefers-reduced-motion: reduce) {
-  .main {
+  .main-content-wrap {
     opacity: 1;
     transform: none;
     will-change: auto;
   }
 
-  body.fade-ready .main {
+  body.fade-ready .main-content-wrap {
     transition: none;
   }
 }

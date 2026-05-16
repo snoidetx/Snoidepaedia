@@ -214,6 +214,9 @@ layout: table_wrappers
       <div class="search-overlay"></div>
     {% endif %}
   </div>
+  {% if content contains 'gallery-wrapper' %}
+    <script>{% include js/gallery.js %}</script>
+  {% endif %}
 </body>
 {% if site.mermaid %}
   <script>

@@ -30,15 +30,21 @@ I stayed at Shofu Dormitory in Aobadai, Yokohama, a nice and quiet place.
 
 <div class="gallery-wrapper">
   <figure class="gallery">
-    <img src="../img/exchange-1.png" class="gallery-image">
-    <figcaption><i>Tokyo Tech Campus</i></figcaption>
+    <div class="gallery-image-frame">
+      <img src="../img/exchange-1.png" class="gallery-image">
+    </div>
+    <figcaption>Tokyo Tech Campus <span class="gallery-flag" aria-label="Japan">🇯🇵</span></figcaption>
   </figure>
   <figure class="gallery">
-    <img src="../img/exchange-3.png" class="gallery-image">
-    <figcaption><i>Shofu Dormitory</i></figcaption>
+    <div class="gallery-image-frame">
+      <img src="../img/exchange-3.png" class="gallery-image">
+    </div>
+    <figcaption>Shofu Dormitory <span class="gallery-flag" aria-label="Japan">🇯🇵</span></figcaption>
   </figure>
   <figure class="gallery">
-    <img src="../img/exchange-2.png" class="gallery-image">
-    <figcaption><i>Tokyo Tech Museum</i></figcaption>
+    <div class="gallery-image-frame">
+      <img src="../img/exchange-2.png" class="gallery-image">
+    </div>
+    <figcaption>Tokyo Tech Museum <span class="gallery-flag" aria-label="Japan">🇯🇵</span></figcaption>
   </figure>
 </div>

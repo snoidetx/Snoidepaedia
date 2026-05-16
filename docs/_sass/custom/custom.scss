@@ -70,6 +70,26 @@ $nav-width: 360px;
   }
 }
 
+.site-header {
+  @include mq(md) {
+    position: relative;
+    border-bottom-color: transparent;
+  }
+}
+
+.site-header::after {
+  @include mq(md) {
+    content: "";
+    position: absolute;
+    top: 0;
+    right: -1px;
+    bottom: 0;
+    width: 1px;
+    background-color: $s-lightmagnenta;
+    pointer-events: none;
+  }
+}
+
 .site-title-logo {
   width: $sp-6;
   height: $sp-6;
@@ -257,6 +277,73 @@ $nav-width: 360px;
   }
 
   .search-input-wrap {
+    border-radius: $corner-radius;
+  }
+
+  .search-results {
+    border-radius: $corner-radius;
+  }
+}
+
+@include mq(md) {
+  .main-header {
+    position: sticky;
+    top: 0;
+    z-index: 2;
+    padding: $sp-2 $gutter-spacing;
+    background: linear-gradient(90deg, $s-lightmagnenta 0%, $s-white 100%);
+  }
+
+  .main-header::after {
+    content: "";
+    position: absolute;
+    bottom: calc(-#{$corner-radius} * 2 - 1px);
+    left: -1px;
+    width: calc(#{$corner-radius} * 2);
+    height: calc(#{$corner-radius} * 2);
+    border-radius: 50%;
+    border-top: 1px solid $border-color;
+    border-left: 1px solid $border-color;
+    box-shadow: calc(-1 * #{$corner-radius}) calc(-1 * #{$corner-radius}) 0 0 $s-lightmagnenta;
+    clip-path: inset(0 50% 50% 0);
+    pointer-events: none;
+  }
+
+  .search {
+    display: flex;
+    align-items: center;
+  }
+
+  .search-input-wrap {
+    position: relative;
+    height: 2.1em !important;
+    border-radius: $corner-radius;
+    background-color: $s-white;
+    box-shadow: none;
+  }
+
+  .search-input {
+    padding-top: $sp-2;
+    padding-bottom: $sp-2;
+    padding-left: #{$gutter-spacing-sm + $sp-5};
+    background-color: $s-white;
+  }
+
+  .search-label {
+    padding-left: $gutter-spacing-sm;
+  }
+
+  .search-active .search-input-wrap {
+    height: 2.1em !important;
+    border-radius: $corner-radius;
+    background-color: $s-white;
+  }
+
+  .search-active .search-input {
+    background-color: $s-white;
+  }
+
+  .search-results {
     border-radius: $corner-radius;
   }
 }
