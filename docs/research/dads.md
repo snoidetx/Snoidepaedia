@@ -21,8 +21,19 @@ Learners with a limited budget can use supervised data subset selection and acti
 
 ## Gallery
 
-<div class="shadow-wrapper">
-  <img src="../img/thumbnails/thumbnail-dads.png" class="thumbnail">
+<div class="gallery-wrapper">
+  <figure class="gallery">
+    <div class="gallery-image-frame">
+      <img src="../img/thumbnails/thumbnail-dads.png" class="gallery-image">
+    </div>
+    <figcaption>Poster <span class="gallery-flag" aria-label="Austria">🇦🇹</span></figcaption>
+  </figure>
+  <figure class="gallery">
+    <div class="gallery-image-frame">
+      <img src="../img/thumbnails/thumbnail-dads.gif" class="gallery-image">
+    </div>
+    <figcaption>Overview <span class="gallery-flag" aria-label="Austria">🇦🇹</span></figcaption>
+  </figure>
 </div>
 
 ## Cite

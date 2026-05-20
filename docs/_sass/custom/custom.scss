@@ -22,7 +22,6 @@
 @import "./news.scss";
 @import "./local_buttons.scss";
 @import "./collapsible_tables.scss";
-@import "./custom_tables.scss";
 
 @import "./card.scss";
 
@@ -117,6 +116,10 @@ $nav-width: 360px;
   @include mq(md) {
     padding-left: $gutter-spacing;
   }
+}
+
+.nav-list .nav-list-item .nav-list-expander {
+  z-index: 2;
 }
 
 .nav-list .nav-list-item .nav-list-link.active {

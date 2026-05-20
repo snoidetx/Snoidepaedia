@@ -21,8 +21,19 @@ Data valuation is concerned with determining a fair valuation of data from data 
 
 ## Gallery
 
-<div class="shadow-wrapper">
-  <img src="../img/thumbnails/thumbnail-derdava.png" class="thumbnail">
+<div class="gallery-wrapper">
+  <figure class="gallery">
+    <div class="gallery-image-frame">
+      <img src="../img/thumbnails/thumbnail-derdava.png" class="gallery-image">
+    </div>
+    <figcaption>Poster <span class="gallery-flag" aria-label="Canada">🇨🇦</span></figcaption>
+  </figure>
+  <figure class="gallery">
+    <div class="gallery-image-frame">
+      <img src="../img/thumbnails/thumbnail-derdava.gif" class="gallery-image">
+    </div>
+    <figcaption>Overview <span class="gallery-flag" aria-label="Canada">🇨🇦</span></figcaption>
+  </figure>
 </div>
 
 ## Cite

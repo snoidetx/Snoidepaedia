@@ -31,6 +31,7 @@ function layoutGallery(grid) {
   const columnHeights = Array(columnCount).fill(paddingTop);
 
   if (!columnWidth) return;
+  if (items.length <= columnCount) return;
 
   grid.classList.add('is-masonry');
 

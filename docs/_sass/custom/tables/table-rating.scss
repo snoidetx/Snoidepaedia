@@ -1,29 +1,22 @@
 @import "../colors.scss";
 
 .table-rating {
-  table-layout: fixed!important;
+  table-layout: auto;
   width: 100%;
 }
 
 .table-rating th {
-  @include fs-5;
+  @include fs-4;
   text-align: left;
   border-bottom-width: 3px;
   border-bottom-color: $s-purple;
 }
 
 .table-rating td {
-  overflow-wrap: break-word;
-  word-wrap: break-all;
-  -ms-word-break: break-all;
-  word-break: break-word;
+  @extend .text-small;
+  overflow-wrap: normal;
+  word-wrap: normal;
+  -ms-word-break: normal;
+  word-break: normal;
   border-bottom: none;
-}
-
-.table-rating th:first-of-type {
-  width: 20%;
-}
-
-.table-rating th:nth-of-type(2) {
-  width: 33%;
 }

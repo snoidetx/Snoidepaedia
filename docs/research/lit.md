@@ -21,8 +21,13 @@ Lock-in Thermography (LIT) is a type of Infrared Thermography (IRT) that can be 
 
 ## Gallery
 
-<div class="shadow-wrapper">
-  <img src="../img/thumbnails/thumbnail-lit.png" class="thumbnail">
+<div class="gallery-wrapper">
+  <figure class="gallery">
+    <div class="gallery-image-frame">
+      <img src="../img/thumbnails/thumbnail-lit.png" class="gallery-image">
+    </div>
+    <figcaption>Poster <span class="gallery-flag" aria-label="Singapore">🇸🇬</span></figcaption>
+  </figure>
 </div>
 
 ## Cite

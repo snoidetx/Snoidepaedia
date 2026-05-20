@@ -21,8 +21,19 @@ X. Tian, J. Fan, R.H.L. Sim, & B.K.H. Low. 2026.
 
 ## Gallery
 
-<div class="shadow-wrapper">
-  <img src="../img/thumbnails/thumbnail-inosgd.png" class="thumbnail">
+<div class="gallery-wrapper">
+  <figure class="gallery">
+    <div class="gallery-image-frame">
+      <img src="../img/thumbnails/thumbnail-inosgd.png" class="gallery-image">
+    </div>
+    <figcaption>Poster <span class="gallery-flag" aria-label="Brazil">🇧🇷</span></figcaption>
+  </figure>
+  <figure class="gallery">
+    <div class="gallery-image-frame">
+      <img src="../img/thumbnails/thumbnail-inosgd.gif" class="gallery-image">
+    </div>
+    <figcaption>Overview <span class="gallery-flag" aria-label="Brazil">🇧🇷</span></figcaption>
+  </figure>
 </div>
 
 ## Cite
