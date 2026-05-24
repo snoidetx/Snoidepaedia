@@ -50,7 +50,7 @@ I am currently a Ph.D. in Computer Science student at {% include html/entity.htm
 
 **Incentivizing Truthfulness and Collaborative Fairness in Bayesian Learning**
 
-<p class="addition-highlight"><strong><span class="spotlight-mark">✪</span> Spotlight Paper (top 2.20%)</strong></p>
+<p class="addition-highlight"><strong><span class="spotlight-mark">✪</span> Oral Paper (top 0.70%)</strong></p>
 
 <p class="addition">R.H.L. Sim&dagger;, J. Fan&dagger;, <strong>X. Tian</strong>, X. Xu, P. Jaillet, B.K.H. Low · 2026 · The 43rd International Conference on Machine Learning (<strong>ICML-26</strong>)</p>
 [ArXiv](https://arxiv.org/abs/2605.11889){: .btn-small-1}
