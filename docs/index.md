@@ -22,7 +22,7 @@ banner_image: /home/img/banner_image.png
 <section class="banner banner-home" style="--banner-image: url('{{ page.banner_image | relative_url }}');">
   <div class="banner-content">
     <h1 class="fs-9">Xiao Tian</h1>
-    <p class="fs-6 fw-300">CS PhD Student @ NUS</p>
+    <p class="fs-6 fw-300">CS PhD Candidate @ NUS</p>
     <div class="banner-buttons">
       <a href="./home/resume/" class="btn-left">My Résumé</a>
       <span class="btn-filler"></span>
@@ -33,7 +33,7 @@ banner_image: /home/img/banner_image.png
 
 <div class="typewriter-content" data-typewriter markdown="1">
 
-Hi 👋🏻! I am a Computer Science Ph.D. student at {% include html/entity.html id="nus" %} (NUS), starting from Spring 2025. I am fortunate to be supervised by {% include html/entity.html id="bryan_low" %} and {% include html/entity.html id="nancy_chen" %}. My [**research**](./research/) interests include data-centric machine learning, multi-agent machine learning and privacy-preserving machine learning. I have also been working as [**teaching assistant**](./teaching/) in NUS School of Computing.
+Hi 👋🏻! I am a Computer Science Ph.D. candidate at {% include html/entity.html id="nus" %} (NUS), starting from Spring 2025. I am fortunate to be supervised by {% include html/entity.html id="bryan_low" %} and {% include html/entity.html id="nancy_chen" %}. My [**research**](./research/) interests include data-centric machine learning, multi-agent machine learning and privacy-preserving machine learning. I have also been working as [**teaching assistant**](./teaching/) in NUS School of Computing.
 
 I obtained my two Bachelor's degrees 🎓 from NUS in Fall 2024. I was supervised by {% include html/entity.html id="bryan_low" %} and {% include html/entity.html id="jonathan_scarlett" %} for my honours year thesis.
 

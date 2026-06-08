@@ -1,7 +1,7 @@
 document.addEventListener("DOMContentLoaded", function () {
   const newsList = document.getElementById("news-list");
   const newsButton = document.getElementById("news-btn");
-  const maxVisibleItems = 5;
+  const maxVisibleItems = 6;
 
   if (!newsList || !newsButton) return;
 
