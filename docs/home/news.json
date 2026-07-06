@@ -1,5 +1,9 @@
 [
   {
+    "date": "04/2026",
+    "markdown": "I attended **ICML-26** at Seoul, South Korea."
+  },
+  {
     "date": "06/2026",
     "markdown": "I passed my Ph.D. Qualifying Exam and became a Ph.D. Candidate."
   },
@@ -11,12 +15,20 @@
   {
     "date": "05/2026",
     "emoji": "🎉🎉",
-    "markdown": "Our paper *Is Data Shapley Not Better than Random in Data Selection? Ask NASH* was accepted to **ICML-26** as a **Spotlight paper** (top 2.2%)!"
+    "markdown": "Our paper [*Is Data Shapley Not Better than Random in Data Selection? Ask NASH*]((./research/nash)) was accepted to **ICML-26** as a **Spotlight paper** (top 2.2%)!",
+    "figure": {
+      "src": "./home/img/thumbnails/thumbnail-nash.gif",
+      "alt": "NASH illustration"
+    }
   },
   {
     "date": "05/2026",
     "emoji": "🎉🎉",
-    "markdown": "Our paper *Incentivizing Truthfulness and Collaborative Fairness in Bayesian Learning* was accepted to **ICML-26** as a **Oral paper** (top 0.7%)!"
+    "markdown": "Our paper *Incentivizing Truthfulness and Collaborative Fairness in Bayesian Learning* was accepted to **ICML-26** as a **Oral paper** (top 0.7%)!",
+    "figure": {
+      "src": "./home/img/thumbnails/thumbnail-dvf.gif",
+      "alt": "DVF illustration"
+    }
   },
   {
     "date": "04/2026",

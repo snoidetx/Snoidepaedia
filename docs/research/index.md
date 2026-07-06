@@ -46,14 +46,14 @@ I am currently a Ph.D. in Computer Science student at {% include html/entity.htm
 <p class="addition-highlight"><strong><span class="spotlight-mark">✪</span> Spotlight Paper (top 2.20%)</strong></p>
 
 <p class="addition"><strong>X. Tian</strong>&dagger;, J. Fan&dagger;, R.H.L. Sim, Z. Wang, Nancy F. Chen, B.K.H. Low · 2026 · The 43rd International Conference on Machine Learning (<strong>ICML-26</strong>)</p>
-[ArXiv](https://arxiv.org/abs/2605.10684){: .btn-small-1}
+[Publisher](https://openreview.net/forum?id=vMsrm8UGGC){: .btn-small-1} <span class='btn-small-filler'></span> [ArXiv](https://arxiv.org/abs/2605.10684){: .btn-small-2} <span class='btn-small-filler'></span> [Gallery](./nash){: .btn-small-3}
 
 **Incentivizing Truthfulness and Collaborative Fairness in Bayesian Learning**
 
 <p class="addition-highlight"><strong><span class="spotlight-mark">✪</span> Oral Paper (top 0.70%)</strong></p>
 
 <p class="addition">R.H.L. Sim&dagger;, J. Fan&dagger;, <strong>X. Tian</strong>, X. Xu, P. Jaillet, B.K.H. Low · 2026 · The 43rd International Conference on Machine Learning (<strong>ICML-26</strong>)</p>
-[ArXiv](https://arxiv.org/abs/2605.11889){: .btn-small-1}
+[Publisher](https://openreview.net/forum?id=YgzbofmRr6){: .btn-small-1} <span class='btn-small-filler'></span> [ArXiv](https://arxiv.org/abs/2605.11889){: .btn-small-2}
 
 **INO-SGD: Addressing Utility Imbalance under Individualized Differential Privacy**
 <p class="addition"><strong>X. Tian</strong>, J. Fan, R.H.L. Sim, B.K.H. Low · 2026 · The 14th International Conference on Learning Representations (<strong>ICLR-26</strong>)</p>

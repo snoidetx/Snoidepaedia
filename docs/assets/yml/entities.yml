@@ -7,6 +7,10 @@ entities:
   - id: astar
     label: Agency for Science, Technology and Research
     url: https://www.a-star.edu.sg/
+
+  - id: glow_ai
+    label: GLOW.AI
+    url: https://www.comp.nus.edu.sg/~lowkh/index.html
     
   - id: bryan_low
     label: Prof. Bryan Kian Hsiang Low
