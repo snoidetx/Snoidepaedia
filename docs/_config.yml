@@ -4,6 +4,11 @@ description: Everything related to @snoidetx
 theme: just-the-docs
 ignore_theme_config: true
 
+# Site code (includes, sass, js, pdfjs) lives in src/, outside this source
+# dir; the snoidepaedia-site plugin wires it back in.
+plugins:
+  - snoidepaedia-site
+
 compress_html:
   blanklines: true
 
