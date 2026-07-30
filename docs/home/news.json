@@ -1,6 +1,11 @@
 [
   {
-    "date": "04/2026",
+    "date": "07/2026",
+    "emoji": "🏆",
+    "markdown": "I was awarded the **Research Achievement Award**."
+  },
+  {
+    "date": "07/2026",
     "markdown": "I attended **ICML-26** at Seoul, South Korea."
   },
   {
