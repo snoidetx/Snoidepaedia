@@ -2,6 +2,7 @@
 layout: default
 title: WeChat
 nav_exclude: true
+parent: Home
 ---
 
 # WeChat
