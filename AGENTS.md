@@ -1,0 +1,1 @@
+This is my personal website. Please ensure that every time you make minimum changes and keep the code clean while adhering to my instructions.
