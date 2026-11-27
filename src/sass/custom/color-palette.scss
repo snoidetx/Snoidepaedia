@@ -1,0 +1,119 @@
+#palette-status:empty {
+  margin: 0;
+}
+
+.color-palette-bar:not([hidden]) {
+  display: flex;
+  min-height: 3.5rem;
+  border-radius: $corner-radius;
+}
+
+.color-palette-segment {
+  position: relative;
+  flex: 1;
+  min-width: 0;
+  padding: 0;
+  border: 0;
+  appearance: none;
+  -webkit-tap-highlight-color: transparent;
+  cursor: pointer;
+
+  &:first-child {
+    border-top-left-radius: inherit;
+    border-bottom-left-radius: inherit;
+  }
+
+  &:last-child {
+    border-top-right-radius: inherit;
+    border-bottom-right-radius: inherit;
+  }
+
+  &[aria-pressed="true"] {
+    &::before {
+      position: absolute;
+      top: calc(100% - #{$sp-2});
+      left: 50%;
+      width: 65%;
+      max-width: 2.5rem;
+      height: calc(#{$sp-2 + $sp-3} + #{$corner-radius});
+      transform: translateX(-50%);
+      border-radius: $corner-radius;
+      background-color: inherit;
+      pointer-events: none;
+      content: "";
+    }
+
+    &::after {
+      position: absolute;
+      right: 25%;
+      bottom: $sp-2;
+      left: 25%;
+      height: 3px;
+      border-radius: $corner-radius;
+      background-color: currentColor;
+      content: "";
+    }
+  }
+
+  &:focus-visible {
+    outline: 2px solid currentColor;
+    outline-offset: -4px;
+  }
+}
+
+.color-palette-heading {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: $sp-2;
+}
+
+.color-palette-copy {
+  min-height: 2.75rem;
+  padding: $sp-1 $sp-2;
+  border: 1px solid currentColor;
+  border-radius: $corner-radius;
+  background: transparent;
+  color: inherit;
+  font: inherit;
+  font-size: 0.875rem;
+  cursor: pointer;
+
+  &:focus-visible {
+    outline: 2px solid currentColor;
+    outline-offset: 3px;
+  }
+}
+
+.color-palette-values {
+  display: grid;
+  grid-template-columns: auto 1fr;
+  gap: $sp-1 $sp-2;
+  margin-top: $sp-2;
+  font-size: 0.875rem;
+  font-variant-numeric: tabular-nums;
+}
+
+.color-palette-note {
+  margin: $sp-3 0 0;
+}
+
+.color-palette-preview {
+  margin-top: $sp-3;
+}
+
+.color-palette-sample {
+  position: relative;
+  padding: $sp-4;
+  border-radius: $corner-radius;
+  overflow-wrap: anywhere;
+}
+
+.color-palette-specimen {
+  margin-top: $sp-4;
+
+  p {
+    margin: 0;
+  }
+}

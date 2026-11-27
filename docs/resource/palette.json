@@ -1,0 +1,15 @@
+[
+  { "name": "Light Magnenta", "hex": "#F9F2F6" },
+  { "name": "Black", "hex": "#181818" },
+  { "name": "Grey", "hex": "#D1D1D1" },
+  { "name": "Orange", "hex": "#E69F00" },
+  { "name": "Cerulean Blue", "hex": "#2BA1E3" },
+  { "name": "Sky Blue", "hex": "#56B4E9" },
+  { "name": "Bluish Green", "hex": "#009E73" },
+  { "name": "Light Turquoise", "hex": "#46E5CF" },
+  { "name": "Icy Mint", "hex": "#ECFCFA" },
+  { "name": "Yellow", "hex": "#F0E442" },
+  { "name": "Blue", "hex": "#0072B2" },
+  { "name": "Vermilion", "hex": "#D55E00" },
+  { "name": "Reddish Purple", "hex": "#CC79A7" }
+]
