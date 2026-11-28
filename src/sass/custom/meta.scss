@@ -1,8 +1,10 @@
 @import "./constants.scss";
 @import "./colors.scss";
 
+$site-font: "Cal Sans";
+
 body {
-  font-family: -apple-system, blinkmacsystemfont, system-ui, "Segoe UI",
+  font-family: $site-font, -apple-system, blinkmacsystemfont, system-ui, "Segoe UI",
     roboto, "Helvetica Neue", arial, sans-serif;
 }
 

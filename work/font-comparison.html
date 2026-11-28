@@ -1,0 +1,57 @@
+<style>
+  @import url("https://fonts.googleapis.com/css2?family=Instrument+Sans:wght@400..500&display=swap");
+  @import url("https://cdn.jsdelivr.net/npm/cal-sans@2.1.1/index.css");
+
+  #snoidepaedia-font-comparison .font-sample {
+    min-width: 0;
+  }
+
+  #snoidepaedia-font-comparison .specimen {
+    display: grid;
+    gap: calc(var(--font-size-base) * 0.5);
+    margin-top: calc(var(--font-size-base) * 0.5);
+    font-family: var(--sample-font), system-ui, sans-serif;
+    font-optical-sizing: auto;
+    overflow-wrap: break-word;
+  }
+
+  #snoidepaedia-font-comparison .instrument {
+    --sample-font: "Instrument Sans";
+  }
+
+  #snoidepaedia-font-comparison .cal {
+    --sample-font: "Cal Sans";
+  }
+
+  #snoidepaedia-font-comparison .specimen h2,
+  #snoidepaedia-font-comparison .specimen h3,
+  #snoidepaedia-font-comparison .site-name {
+    font-family: inherit;
+    font-weight: 500;
+  }
+</style>
+
+<div id="snoidepaedia-font-comparison" class="viz-grid">
+  <section class="font-sample instrument" aria-labelledby="snoidepaedia-instrument-label">
+    <p class="text-small text-muted" id="snoidepaedia-instrument-label">Instrument Sans</p>
+    <div class="specimen">
+      <p class="site-name">Snoídepaedia</p>
+      <p class="text-small">Home · Research · Teaching</p>
+      <h2>Research</h2>
+      <p>My research interests include data-centric machine learning, multi-agent machine learning and privacy-preserving machine learning.</p>
+      <h3>Data Subset Selection via Submodularity</h3>
+      <p class="text-small text-muted">Offline and Streaming Settings · 2025</p>
+    </div>
+  </section>
+  <section class="font-sample cal" aria-labelledby="snoidepaedia-cal-label">
+    <p class="text-small text-muted" id="snoidepaedia-cal-label">Cal Sans v2</p>
+    <div class="specimen">
+      <p class="site-name">Snoídepaedia</p>
+      <p class="text-small">Home · Research · Teaching</p>
+      <h2>Research</h2>
+      <p>My research interests include data-centric machine learning, multi-agent machine learning and privacy-preserving machine learning.</p>
+      <h3>Data Subset Selection via Submodularity</h3>
+      <p class="text-small text-muted">Offline and Streaming Settings · 2025</p>
+    </div>
+  </section>
+</div>

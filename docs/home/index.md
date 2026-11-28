@@ -47,17 +47,17 @@ I obtained my two Bachelor's degrees 🎓 (Applied Maths & CS) from NUS in Fall 
 <div class="card-list">
   <div class="card-hollow">
     <strong>National University of Singapore, School of Computing (Ongoing)</strong>
-    <p class="addition">2025 - 2028 (Expected) · Doctor of Philosophy in Computer Science · A*STAR Computing and Information Science (ACIS) Scholarship</p>
+    <p class="addition">2025 - 2028 (Expected) · Doctor of Philosophy in Computer Science · A*STAR Computing and Information Science (ACIS) Scholarship · GPA 5.00/5.00</p>
   </div>
 
   <div class="card-hollow">
     <strong>National University of Singapore, School of Computing</strong>
-    <p class="addition">2020 - 2024 · Bachelor of Computing in Computer Science · Honours (Highest Distinction) · Turing Programme · Science &amp; Technology (S&amp;T) Undergraduate Merit Scholarship</p>
+    <p class="addition">2020 - 2024 · Bachelor of Computing in Computer Science · Honours (Highest Distinction) · Turing Programme · Science &amp; Technology (S&amp;T) Undergraduate Merit Scholarship · GPA 4.91/5.00</p>
   </div>
 
   <div class="card-hollow">
     <strong>National University of Singapore, Faculty of Science</strong>
-    <p class="addition">2020 - 2024 · Bachelor of Science in Applied Mathematics · Honours (Highest Distinction) · Science &amp; Technology (S&amp;T) Undergraduate Merit Scholarship</p>
+    <p class="addition">2020 - 2024 · Bachelor of Science in Applied Mathematics · Honours (Highest Distinction) · Science &amp; Technology (S&amp;T) Undergraduate Merit Scholarship · GPA 4.95/5.00</p>
   </div>
 </div>
 
